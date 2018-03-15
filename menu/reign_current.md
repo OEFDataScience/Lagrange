@@ -18,5 +18,5 @@ Find the most current REIGN update-blog [here](http://oefresearch.org/news/inter
 
 ### Questions?
 
-If you are unable to download the data please contact Clayton Besaw <cbesaw@oneearthfuture.org>. If you have any questions about the data please contact Curtis Bell <cbell@oneearthfuture.org>
+If you are unable to download the data please contact Clayton Besaw (<cbesaw@oneearthfuture.org>). If you have any questions about the data please contact Curtis Bell (<cbell@oneearthfuture.org>)
 
