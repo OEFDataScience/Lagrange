@@ -8,15 +8,13 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'REIGN April 2018', path: 'menu', url: 'reign_current.html'}
-- {name: 'Blogs', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Archive', path: 'menu', url: 'archive.html'}
 # blogs are a maybe, just a placeholder for now.
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/OEFDataScience'}
 - {icon: 'twitter', link: 'https://twitter.com/oef_research'}
 - {icon: 'envelope', link: 'mailto:cbesaw@oneearthfuture.org'}
-- {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
