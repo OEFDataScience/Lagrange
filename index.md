@@ -3,13 +3,17 @@ layout: default
 title: Home
 ---
 
-
+![](assets/img/world_country_flags.jpg?raw=true)
 
 Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
 is available above in the menu. Alongside the data, you will also find a link to the most current REIGN update
 provided by One Earth Future Research. Click on the archive menu to access a list of links for past versions of REIGN. REIGN is 
 updated during the last week of each month. For any questions concerning this website and the current status of updates, please contact
 Clayton Besaw (<cbesaw@oneearthfuture.org>) 
+
+**note**: The REIGN repository is hosted on GitHub using Jekyll. Jekyll is a static website format that can cause deprecated
+links to appear when content is updated. If you are not seeing what you expect to see, first try to refresh your browser before
+reaching out. 
 
 # Overview:
 
