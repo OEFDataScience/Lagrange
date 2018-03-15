@@ -5,7 +5,11 @@ title: Home
 
 
 
-Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. 
+Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
+is available above in the menu. Alongside the data, you will also find a link to the most current REIGN update
+provided by One Earth Future Research. Click on the archive menu to access a list of links for past versions of REIGN. REIGN is 
+updated during the last week of each month. For any questions concerning this website and the current status of updates, please contact
+Clayton Besaw (<cbesaw@oneearthfuture.org>) 
 
 # Overview:
 
@@ -18,11 +22,6 @@ The Rulers, Elections, and Irregular Governance (REIGN) dataset describes politi
 * Includes information about more than 2,300 individual leaders in 201 different countries
 * Provides new data about election announcements, delays, and outcomes
 * Includes information about current conditions and scheduled future events, making it ideal for event forecasting.
-
-
-## Downloads:
-
-REIGN consists of over 130,000 leader-month observations. To download the data, as well as shorter lists of leaders, political systems, election events, and instances of irregular governance, please find the most up-to-date REIGN .csv file in this respository. The dataset is updated during the last week of each month. To access previous versions of the data (back to October 2016), please use the archive folder found in this respository. For questions and recommended corrections, please contact Curtis Bell at cbell@oneearthfuture.org.
 
 ## Coding Guides and Technical Notes:
 
