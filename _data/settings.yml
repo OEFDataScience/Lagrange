@@ -6,7 +6,7 @@ disqus:
 google-ID: 'UA-112060364-1'
 
 menu:
-- {name: 'Home', url: 'https://oefdatascience.github.io/REIGN.github.io/'}
+- {name: 'Home', url: ''}
 - {name: 'REIGN April 2018', path: 'menu', url: 'reign_current.html'}
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
 # blogs are a maybe, just a placeholder for now.
