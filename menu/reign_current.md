@@ -8,6 +8,14 @@ Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/RE
 
 Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-march-2018-update)
 
+### Codebook and Technical Notes
+
+[Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_codebook.pdf)
+
+[Technical Notes](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_notes.pdf)
+
+
+
 ### Questions?
 
 If you are unable to download the data please contact Clayton Besaw <cbesaw@oneearthfuture.org>. If you have any questions about the data please contact Curtis Bell <cbell@oneearthfuture.org>
