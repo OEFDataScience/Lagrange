@@ -6,7 +6,7 @@ Content to be added later, this is a test
 
 ### REIGN Dataset: Updated April 2nd, 2018
 
-Find the most current REIGN version here
+Find the most current REIGN version [here](REIGN.github.io/data_sets/REIGN_2018_3.csv) 
 
 
 
