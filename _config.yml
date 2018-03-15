@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'REIGN: Rulers, Elections, and Irregular Governance dataset'
-description:	       'OEF Research a program of One Earth Future'
+description:	       'OEF Research'
 author:              'OEF Forecasting and Data Science'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
