@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-image: world_country_flags.jpg
 ---
 
 
