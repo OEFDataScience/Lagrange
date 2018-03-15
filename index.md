@@ -13,7 +13,7 @@ Clayton Besaw (<cbesaw@oneearthfuture.org>)
 
 **note**: The REIGN repository is hosted on GitHub using Jekyll. Jekyll is a static website format that can cause deprecated
 links to appear when content is updated. If you are not seeing what you expect to see, first try to refresh your browser before
-reaching out. 
+reaching out to us. 
 
 # Overview:
 
