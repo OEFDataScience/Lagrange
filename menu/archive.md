@@ -1,24 +1,18 @@
 ---
 layout: page
-title: Writing
+title: REIGN Archive
 ---
-<ul class="posts">
-  {% for post in site.posts %}
 
-    {% unless post.next %}
-      <h3>{{ post.date | date: '%Y' }}</h3>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h3>{{ post.date | date: '%Y' }}</h3>
-      {% endif %}
-    {% endunless %}
+Please find past REIGN data and update-blogs here:
 
-    <li itemscope>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
-    </li>
+## Archive
 
-  {% endfor %}
-</ul>
+# February 2018 
+
+**note**: February 2018 is deprecated and will not be corrected. We apologize for any inconvenience. Please 
+utilize March 2018 and beyond.
+
+[Dataset](https://www.dropbox.com/s/nupy5jgp1g7cpba/REIGN_2018_02.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-february-2018-update)
+
