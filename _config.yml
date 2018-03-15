@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'REIGN: Rulers, Elections, and Irregular Governance dataset'
-description:	       'OEF Research'
-author:              'OEF Conflict Trends and Forecasting'
+title:		           'REIGN'
+description:	       'Rulers, Elections, and Irregular Governance dataset'
+author:              'OEF Research: Conflict Trends and Forecasting Track'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
