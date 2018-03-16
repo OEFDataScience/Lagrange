@@ -27,10 +27,6 @@ The Rulers, Elections, and Irregular Governance (REIGN) dataset describes politi
 * Provides new data about election announcements, delays, and outcomes
 * Includes information about current conditions and scheduled future events, making it ideal for event forecasting.
 
-## Coding Guides and Technical Notes:
-
-A codebook for REIGN variables can be found [here](https://github.com/OEFDataScience/REIGN/blob/master/REIGN%20Data%20Variable%20Description.pdf), or manually navigated to in the repository file system. Technical notes can be found [here](https://github.com/OEFDataScience/REIGN/blob/master/REIGN%20Data%20Technical%20Notes.pdf), or manually navigated to in the repository file system.
-
 ## Citation:
 
 Bell, Curtis. 2016. The Rulers, Elections, and Irregular Governance Dataset (REIGN). Broomfield, CO: OEF Research. Available at oefresearch.org
