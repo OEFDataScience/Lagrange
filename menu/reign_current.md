@@ -5,7 +5,6 @@ title: REIGN Dataset
 **REIGN Dataset: Updated April 2nd, 2018** (Note: This is currently a test and not the actual update)
 
 **Key Events**
-
   * Jacob Zuma
   * Nepalese Parliament
   * Ecuadorian Referendum
