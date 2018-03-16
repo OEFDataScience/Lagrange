@@ -6,9 +6,12 @@ title: REIGN Archive
 Please find past REIGN data and update-blogs here:
 
 ## February 2018 
+George Weah | Cyprus
 
 **note**: February 2018 is deprecated and will not be corrected. We apologize for any inconvenience. Please 
 utilize March 2018 and beyond.
+
+
 
 [Dataset](https://dl.dropboxusercontent.com/s/nupy5jgp1g7cpba/REIGN_2018_02.csv?dl=0)
 

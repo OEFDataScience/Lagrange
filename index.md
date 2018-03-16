@@ -17,8 +17,6 @@ reaching out to us.
 
 # Overview:
 
-## REIGN Dataset Author: Curtis Bell
-
 The Rulers, Elections, and Irregular Governance (REIGN) dataset describes political conditions in every country each and every month. These conditions include the tenures and personal characteristics of world leaders, the types of political institutions and political regimes in effect, election outcomes and election announcements, and irregular events like coups, coup attempts and other violent conflicts. The dataset covers more than 200 countries for each month they were independent, January 1950 to the present. REIGN was created by gathering original data, compiling other datasets on political conditions, reviewing their coding rules, and updating all information to the present.
 
 ## Key Outputs:
