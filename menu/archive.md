@@ -5,19 +5,20 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
-## February 2018 
+## February 2018
+ 
 George Weah | Cyprus
-
-**note**: February 2018 is deprecated and will not be corrected. We apologize for any inconvenience. Please 
-utilize March 2018 and beyond.
-
-
 
 [Dataset](https://dl.dropboxusercontent.com/s/nupy5jgp1g7cpba/REIGN_2018_02.csv?dl=0)
 
 [Blog](http://oefresearch.org/news/international-elections-and-leaders-february-2018-update)
 
+**note**: February 2018 is deprecated and will not be corrected. We apologize for any inconvenience. Please 
+utilize March 2018 and beyond.
+
 ## January 2018 
+
+Sebastian Kurz | Andrej Babis | Alain Berset
 
 [Dataset](https://dl.dropboxusercontent.com/s/bca4i7wcuakf13i/REIGN_2018_01.csv?dl=0)
 
