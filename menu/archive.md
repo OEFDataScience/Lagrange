@@ -7,7 +7,10 @@ Please find past REIGN data and update-blogs here:
 
 ## February 2018
  
-George Weah | Cyprus
+**Key Events**
+
+  * George Weah
+  * Cyprus Election
 
 [Dataset](https://dl.dropboxusercontent.com/s/nupy5jgp1g7cpba/REIGN_2018_02.csv?dl=0)
 
@@ -17,8 +20,6 @@ George Weah | Cyprus
 utilize March 2018 and beyond.
 
 ## January 2018 
-
-Austrian Election | Czech Republic Election
 
 [Dataset](https://dl.dropboxusercontent.com/s/bca4i7wcuakf13i/REIGN_2018_01.csv?dl=0)
 
