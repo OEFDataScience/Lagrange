@@ -6,9 +6,9 @@ title: REIGN Dataset
 
 **Key Events**
 
-..* Jacob Zuma
-..* Nepalese Parliament
-..* Ecuadorian Referendum
+  * Jacob Zuma
+  * Nepalese Parliament
+  * Ecuadorian Referendum
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_3.csv) 
 
