@@ -21,6 +21,12 @@ utilize March 2018 and beyond.
 
 ## January 2018 
 
+**Key Events**
+
+  * Sebastian Kurz, Andrej Babis, Alain Berset
+  * Liberia Election
+  * Chile Election
+
 [Dataset](https://dl.dropboxusercontent.com/s/bca4i7wcuakf13i/REIGN_2018_01.csv?dl=0)
 
 [Blog](http://oefresearch.org/news/international-elections-and-leaders-january-2018-update)

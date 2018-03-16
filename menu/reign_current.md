@@ -2,7 +2,7 @@
 layout: page
 title: REIGN Dataset
 ---
-**REIGN Dataset: Updated April 2nd, 2018** (Note: This is currently a test and not the actual update)
+**REIGN Dataset: Updated March 1st, 2018
 
 **Key Events**
   * Jacob Zuma
