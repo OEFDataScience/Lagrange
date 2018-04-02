@@ -5,6 +5,17 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## March 2018
+
+**Key Events**
+  * Jacob Zuma
+  * Nepalese Parliament
+  * Ecuadorian Referendum
+  
+[Dataset](https://www.dl.dropboxusercontent.com/s/8h5yrd16k6oiwsa/REIGN_2018_03.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-march-2018-update)
+
 ## February 2018
  
 **Key Events**

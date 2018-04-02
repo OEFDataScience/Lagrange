@@ -2,16 +2,20 @@
 layout: page
 title: REIGN Dataset
 ---
-**REIGN Dataset: Updated March 1st, 2018**
+**REIGN Dataset: Updated April 2nd, 2018**
 
 **Key Events**
-  * Jacob Zuma
-  * Nepalese Parliament
-  * Ecuadorian Referendum
+  * Abdel-Fattah El-Sisi
+  * Sebastian Piñera
+  * Martin Viscarra
+  * Cuban Elections
+  * Italian Elections
+  * Russian Elections
+   
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_3.csv) 
 
-Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-march-2018-update)
+Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-april-2018-update)
 
 ### Codebook and Technical Notes
 
