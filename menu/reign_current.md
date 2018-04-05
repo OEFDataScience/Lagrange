@@ -12,7 +12,7 @@ title: REIGN Dataset
   * Italy Election
   * Russia Election
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_4.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_4_updated.csv) 
 
 Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-april-2018-update)
 
