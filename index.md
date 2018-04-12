@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![](assets/img/world_country_flags.jpg?raw=true)
+![](assets/img/regime_gif.gif?raw=true)
 
 Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
 is available above in the menu. Alongside the data, you will also find a link to the most current REIGN update
