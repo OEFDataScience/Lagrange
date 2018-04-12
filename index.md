@@ -4,6 +4,7 @@ title: Home
 ---
 
 ![](assets/img/regime_gif.gif?raw=true)
+*Regimes January 1950 -  April 2018: Code and visualization by [Joshua Lambert](https://sciences.ucf.edu/politicalscience/people/lambert-joshua/)*
 
 Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
 is available above in the menu. Alongside the data, you will also find a link to the most current REIGN update
