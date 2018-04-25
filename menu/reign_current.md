@@ -11,9 +11,9 @@ title: REIGN Dataset
   * Abiye Ahmed (Ethiopia)
   * Julius Maada Bio (Sierra Leone)
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_5csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_5.csv) 
 
-Find the most current REIGN update-blog [here *coming soon*]()
+Find the most current REIGN update-blog [here **coming soon**]()
 
 ### Codebook and Technical Notes
 
