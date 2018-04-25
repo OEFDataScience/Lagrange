@@ -2,19 +2,18 @@
 layout: page
 title: REIGN Dataset
 ---
-**REIGN Dataset: Updated April 2nd, 2018**
+**May 2018 REIGN Dataset: Updated April 25th, 2018**
 
 **Key Events**
-  * Abdel-Fattah El-Sisi (Egypt)
-  * Sebastian Piñera (Chile)
-  * Martin Viscarra (Peru)
-  * Cuba Election
-  * Italy Election
-  * Russia Election
+  * Sargsyan (Armenia)
+  * Quesada (Costa Rica)
+  * Orban (Hungary)
+  * Abiye Ahmed (Ethiopia)
+  * Julius Maada Bio (Sierra Leone)
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_4_updated.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_5csv) 
 
-Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-april-2018-update)
+Find the most current REIGN update-blog [here *coming soon*]()
 
 ### Codebook and Technical Notes
 

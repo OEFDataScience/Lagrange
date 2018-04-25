@@ -5,6 +5,21 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## April 2018
+
+**Key Events**
+  * Abdel-Fattah El-Sisi (Egypt)
+  * Sebastian Piñera (Chile)
+  * Martin Viscarra (Peru)
+  * Cuba Election
+  * Italy Election
+  * Russia Election
+  
+[Dataset](https://www.dl.dropboxusercontent.com/s/xbrruywjpuxmbxr/REIGN_2018_4.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-leaders-april-2018-update)
+
+
 ## March 2018
 
 **Key Events**
