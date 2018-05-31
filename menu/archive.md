@@ -14,7 +14,7 @@ Please find past REIGN data and update-blogs here:
   * Abiye Ahmed (Ethiopia)
   * Julius Maada Bio (Sierra Leone)
 
-[dataset](https://www.dl.dropboxusercontent.com/s/dm49t8yp6byec5b/REIGN_2018_5.csv?dl=0)
+[Dataset](https://www.dl.dropboxusercontent.com/s/dm49t8yp6byec5b/REIGN_2018_5.csv?dl=0)
 
 [Blog](http://oefresearch.org/news/international-elections-and-leaders-may-2018-update)
 
