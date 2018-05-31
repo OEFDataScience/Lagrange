@@ -5,6 +5,20 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## May 2018
+
+**Key Events**
+  * Sargsyan (Armenia)
+  * Quesada (Costa Rica)
+  * Orban (Hungary)
+  * Abiye Ahmed (Ethiopia)
+  * Julius Maada Bio (Sierra Leone)
+
+[dataset](https://www.dl.dropboxusercontent.com/s/dm49t8yp6byec5b/REIGN_2018_5.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-may-2018-update)
+
+
 ## April 2018
 
 **Key Events**
