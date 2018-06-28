@@ -5,6 +5,21 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## June 2018
+
+**Key Events**
+  * Muqtada al-Sadr (Iraq)
+  * Hezbollah (Lebanon)
+  * Nikol Pashinyan (Armenia)
+  * Mia Mottley (Barbados)
+  * Colombian Presidential Runoff
+ 
+[Dataset](https://www.dl.dropboxusercontent.com/s/1h2wo6bzb1njj4y/REIGN_2018_6.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-june-2018-update)
+
+  
+
 ## May 2018
 
 **Key Events**
