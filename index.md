@@ -6,7 +6,6 @@ title: Home
 ![](assets/img/dem_gif.gif?raw=true)
 *Democracies vs Non-Democracies 1950 - 2018: Visualization by [Joshua Lambert](https://sciences.ucf.edu/politicalscience/people/lambert-joshua/) and [Jean-Pierre Larroque](http://oneearthfuture.org/program/oef-operations/staff/jean-pierre-larroque)*
 
-**NOTE: THE REIGN UPDATE FOR AUGUST 2018 WILL EXPERIENCE A LAG OF FOUR TO FIVE DAYS DUE TO UNFOLDING EVENTS IN ZIMBABWE, MALI, AND COMOROS \\ Clayton Besaw - July 31st 2018**
 
 Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
 is available above in the menu. Alongside the data, you will also find a link to the most current REIGN update

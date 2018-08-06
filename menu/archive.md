@@ -5,6 +5,19 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## July 2018
+
+**Key Events**
+  * Erdogan (Turkey)
+  * Giuseppe Conte (Italy)
+  * Sanchez (Spain)
+  * Duque (Colombia)
+  * Slovenia Parliamentary Election
+
+[Dataset](https://www.dl.dropboxusercontent.com/s/s73agb5onpbehsb/REIGN_2018_7.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-july-2018-update)
+
 ## June 2018
 
 **Key Events**

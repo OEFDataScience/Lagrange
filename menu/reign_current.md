@@ -2,24 +2,25 @@
 layout: page
 title: REIGN Dataset
 ---
-**July 2018 REIGN Dataset: Updated June 28th, 2018**
+**August 2018 REIGN Dataset: Updated August 6th, 2018**
 
 **Key Events**
-  * Erdogan (Turkey)
-  * Giuseppe Conte (Italy)
-  * Sanchez (Spain)
-  * Duque (Colombia)
-  * Slovenia Parliamentary Election
+  * Zimbabwe
+  * Mali
+  * Comoros 
+  * Mexico
+  * Pakistan
+  *Cambodia
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_7.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_8.csv) 
 
-Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-july-2018-update)
+Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-august-2018-update)
 
-### Election and Leader lists (July 2018)
+### Election and Leader lists (August 2018)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/h1mstuiihgxl7tj/electionlist_7_18.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/ugtib0ghs6pxep1/electionlist_8_18.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/ldr159l9vn4erlr/leaderlist_7_18.csv?dl=0)
+[Leader List](https://www.dl.dropboxuercontent.com/s/hwbp36eheicey8n/leaderlist_8_18.csv?dl=0)
 
 ### Codebook and Technical Notes
 
