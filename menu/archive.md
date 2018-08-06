@@ -16,7 +16,7 @@ Please find past REIGN data and update-blogs here:
 
 [Dataset](https://www.dl.dropboxusercontent.com/s/s73agb5onpbehsb/REIGN_2018_7.csv?dl=0)
 
-[Blog](http://oefresearch.org/news/international-elections-and-leaders-july-2018-update)
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-july-2018)
 
 ## June 2018
 
