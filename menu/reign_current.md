@@ -20,7 +20,7 @@ Find the most current REIGN update-blog [here](http://oefresearch.org/news/inter
 
 [Election List](https://www.dl.dropboxusercontent.com/s/ugtib0ghs6pxep1/electionlist_8_18.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxuercontent.com/s/hwbp36eheicey8n/leaderlist_8_18.csv?dl=0)
+[Leader List](https://www.dl.dropboxusercontent.com/s/hwbp36eheicey8n/leaderlist_8_18.csv?dl=0)
 
 ### Codebook and Technical Notes
 
