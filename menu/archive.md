@@ -5,6 +5,20 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## August 2018
+
+**Key Events**
+  * Zimbabwe
+  * Mali
+  * Comoros 
+  * Mexico
+  * Pakistan
+  * Cambodia
+  
+[Dataset](https://www.dl.dropboxusercontent.com/s/4m3k4n0l8t7ia0m/REIGN_2018_8.csv?dl=0)
+
+[Blog](http://oefresearch.org/news/international-elections-and-leaders-august-2018-update)
+
 ## July 2018
 
 **Key Events**
