@@ -5,6 +5,17 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## September 2018
+
+**Key Events**
+  * Mali
+  * Ivan Duque (Colombia)
+  * Imran Khan (Pakistan)
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/xslos28ralqj3an/REIGN_2018_9.csv?dl=0)
+  
+  [Blog](http://oefresearch.org/news/international-elections-and-leaders-september-2018-update)
+
 ## August 2018
 
 **Key Events**
