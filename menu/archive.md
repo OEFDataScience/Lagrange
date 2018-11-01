@@ -5,6 +5,19 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## October 2018
+
+**Key Events**
+  * Madagascar
+  * Slovenia
+  * Bhutan
+  * Maldives
+  * Sweden
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/lxq3haayz9b959j/REIGN_2018_10.csv?dl=0)
+  
+  [Blog](http://oefresearch.org/news/international-elections-and-leaders-october-2018-update)
+
 ## September 2018
 
 **Key Events**
