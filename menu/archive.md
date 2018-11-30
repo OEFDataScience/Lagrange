@@ -5,6 +5,19 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**November 2018 REIGN Dataset: Updated November 1st, 2018**
+
+**Key Events**
+  * Brazil
+  * Bhutan
+  * Bosnia and Herzegovina
+  * Cameroon
+  * San Marino
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/41xam1136ha5c3j/REIGN_2018_11.csv?dl=0)
+  
+  [Blog](http://oefresearch.org/news/international-elections-and-leaders-november-2018-update)
+
 ## October 2018
 
 **Key Events**
