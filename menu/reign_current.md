@@ -2,24 +2,30 @@
 layout: page
 title: REIGN Dataset
 ---
-**December 2018 REIGN Dataset: Updated November 30th, 2018**
+**January 2019 REIGN Dataset: Updated January 3rd, 2019**
 
-**Key Events**
+**New Leaders**
+  * Obrador (Mexico)
+  * Maurer (Switzerland)
+  * Bakhtadze (Georgia)
+  * Bolsonero (Brazil)
+  
+**Key Elections**
+  * Armenia
+  * Bangladesh
+  * Democratic Republic of Congo
   * Madagascar
-  * Fiji
-  * Nepal
-  * Maldives
 
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2018_12.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_1.csv) 
 
-Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-december-2018-update)
+Find the most current REIGN update-blog [here](http://oefresearch.org/news/international-elections-and-leaders-january-2019-update)
 
-### Election and Leader lists (December 2018)
+### Election and Leader lists (January 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/wuvps47efhfud7j/electionlist_12_18.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/pzr8tucrzh4m0ti/electionlist_1_19.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/em7wajnez3kmyao/leaderlist_12_18.csv?dl=0)
+[Leader List](https://www.dl.dropboxusercontent.com/s/86v2yq3nh4i0tn5/leaderlist_1_19.csv?dl=0)
 
 ### Codebook and Technical Notes
 
