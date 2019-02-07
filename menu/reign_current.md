@@ -14,6 +14,7 @@ title: REIGN Dataset
   
 **Version Updates (As of February 7th, 2019)**
   * Fixed a number of wrongly coded election outcomes.
+  * Fixed a bug in leadership transition data regarding Liberia that caused duplicate leader-month rows.
   * Updated precipitation projections with December 2018 NOAA PREC/L numbers.
   * Updated armed conflict event data for new onsets and previous conflict termination. 
   * Added new coup event in Gabon - January 2019. 
