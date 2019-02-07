@@ -5,6 +5,24 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## January 2019
+
+**New Leaders**
+  * Obrador (Mexico)
+  * Maurer (Switzerland)
+  * Bakhtadze (Georgia)
+  * Bolsonero (Brazil)
+  
+**Key Elections**
+  * Armenia
+  * Bangladesh
+  * Democratic Republic of Congo
+  * Madagascar
+ 
+  [Dataset](https://www.dl.dropboxusercontent.com/s/aqppeo7hnavg3xs/REIGN_2019_1.csv?dl=0)
+  
+  [Blog](https://oefresearch.org/news/international-elections-and-leaders)
+
 ## December 2018
 
 **Key Events**
