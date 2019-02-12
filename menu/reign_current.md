@@ -22,7 +22,7 @@ title: REIGN Dataset
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_2.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders)
+Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-february-2019-update)
 
 ### Election and Leader lists (February 2019)
 
