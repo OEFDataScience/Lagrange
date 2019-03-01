@@ -5,6 +5,29 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## February 2019
+
+**New Leaders**
+  * Karins (Latvia)
+  * Rajoelina(Madagascar)
+  * Tschisekedi (Demcoratic Republic of Congo)
+  
+**Key Elections**
+  * None in January
+  
+**Version Updates (As of February 7th, 2019)**
+  * Fixed a number of wrongly coded election outcomes.
+  * Fixed a bug in leadership transition data regarding Liberia that caused duplicate leader-month rows.
+  * Updated precipitation projections with December 2018 NOAA PREC/L numbers.
+  * Updated armed conflict event data for new onsets and previous conflict termination. 
+  * Added new coup event in Gabon - January 2019. 
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/gwv6bgpmr02dqth/REIGN_2019_2.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-february-2019-update)
+ 
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/february-2019-coupcast-update-b89ce3b06489)
+
 ## January 2019
 
 **New Leaders**

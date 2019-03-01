@@ -13,6 +13,9 @@ provided by One Earth Future Research. Click on the archive menu to access a lis
 updated during the last week of each month. For any questions concerning this website and the current status of updates, please contact
 Clayton Besaw (<cbesaw@oneearthfuture.org>) 
 
+OEFR Forecasting now hosts a medium blog called the Die is Forecast. This blog is dedicated to technical analyses and code vignettes regarding our REIGN data and CoupCast/ELVIS forecasting projects. Feel free to check it out 
+[here](https://medium.com/the-die-is-forecast) if you interested in seeing how we use REIGN data to predict and understand the drivers of political violence and instability. 
+
 **note**: The REIGN repository is hosted on GitHub using Jekyll. Jekyll is a static website format that can cause deprecated
 links to appear when content is updated. If you are not seeing what you expect to see, first try to refresh your browser before
 reaching out to us. 
