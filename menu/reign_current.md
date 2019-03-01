@@ -33,7 +33,7 @@ Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-
 
 [Leader List](https://www.dl.dropboxusercontent.com/s/7afuphsbq2yv3nx/leaderlist_3_19.csv?dl=0)
 
-[Regime List]((https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
+[Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 
 ### Codebook and Technical Notes
 
