@@ -19,8 +19,7 @@ title: REIGN Dataset
   * Fixed Comoros presidential election dates/seqeuences. 
   * Fixed spelling of Canada country name. 
   * Added regularly accessible regime type data for download and for the [democracyData R package](https://github.com/xmarquez/democracyData)
-
-
+  
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_3.csv) 
 
