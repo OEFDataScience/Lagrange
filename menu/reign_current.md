@@ -16,7 +16,7 @@ title: REIGN Dataset
   
   
 **Version Updates (As of March 1st, 2019)**
-  * Fixed Comoros presidential election dates/seqeuences. 
+  * Fixed Comoros presidential election dates/sequences. 
   * Fixed spelling of Canada country name. 
   * Fixed duplicate leader-month rows for Colombia.
   * Fixed duplicate leader-month rows for Armenia.
