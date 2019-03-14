@@ -28,7 +28,7 @@ Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/RE
 
 Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
 
-Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/february-2019-coupcast-update-b89ce3b06489)
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224)
 
 ### Election and Leader lists (March 2019)
 
