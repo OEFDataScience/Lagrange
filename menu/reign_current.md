@@ -2,39 +2,38 @@
 layout: page
 title: REIGN Dataset
 ---
-**March 2019 REIGN Dataset: March 1st, 2019**
+**April 2019 REIGN Dataset: April 4th, 2019**
 
 **New Leaders**
-  * Abdou (Comoros)
+  * Kassym-Joymart Tokayev (Kazakhstan)
+  * Abdelkader Bensalah (Algeria)
   
 **Key Elections**
-  * Cuba
-  * El Salvador
-  * Moldova
-  * Nigeria
-  * Senegal
+  * Estonia
+  * North Korea
+  * Thailand
+  * Comoros
+  * Micronesia
   
   
-**Version Updates (As of March 1st, 2019)**
-  * Fixed Comoros presidential election dates/sequences. 
-  * Fixed spelling of Canada country name. 
-  * Fixed duplicate leader-month rows for Colombia.
-  * Fixed duplicate leader-month rows for Armenia.
-  * Added regularly accessible regime type data for download and for the [democracyData R package](https://github.com/xmarquez/democracyData)
+**Version Updates (As of April 4th, 2019)**
+  * Tuvalu 2019 election deadline fixed.
+  * Retroactively added Afghanistan December 2018 election delay/voiding.
+  * Changed North Korea election type from executive to legislative.
+  * Updated precipitation (SPI) estimates using NOAA's Jan 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html)
+ 
 
-  
-
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_3.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_4.csv) 
 
 Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
 
 Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224)
 
-### Election and Leader lists (March 2019)
+### Election and Leader lists (April 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/fze3isfdlw1nnrl/electionlist_3_19.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/pqclgpm87hpak1z/electionlist_4_19.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/7afuphsbq2yv3nx/leaderlist_3_19.csv?dl=0)
+[Leader List](https://www.dl.dropboxusercontent.com/s/j2brjoz7cb3kkok/leaderlist_4_19.csv?dl=0)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 

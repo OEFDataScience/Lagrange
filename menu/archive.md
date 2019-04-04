@@ -5,6 +5,32 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## March 2019
+
+**New Leaders**
+  * Abdou (Comoros)
+  
+**Key Elections**
+  * Cuba
+  * El Salvador
+  * Moldova
+  * Nigeria
+  * Senegal
+  
+  
+**Version Updates (As of March 1st, 2019)**
+  * Fixed Comoros presidential election dates/sequences. 
+  * Fixed spelling of Canada country name. 
+  * Fixed duplicate leader-month rows for Colombia.
+  * Fixed duplicate leader-month rows for Armenia.
+  * Added regularly accessible regime type data for download and for the [democracyData R package](https://github.com/xmarquez/democracyData)
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/dx6inv008343r9c/REIGN_2019_3.csv?dl=0)
+  
+ [REIGN Update Blog] (https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
+ 
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224))
+
 ## February 2019
 
 **New Leaders**
