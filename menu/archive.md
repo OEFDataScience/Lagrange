@@ -27,9 +27,9 @@ Please find past REIGN data and update-blogs here:
   
  [Dataset](https://www.dl.dropboxusercontent.com/s/dx6inv008343r9c/REIGN_2019_3.csv?dl=0)
   
- [REIGN Update Blog] (https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
  
- [CoupCast Update Blog](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224))
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224)
 
 ## February 2019
 
