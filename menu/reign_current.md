@@ -31,7 +31,7 @@ Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-
 
 ### Election and Leader lists (April 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/pqclgpm87hpak1z/electionlist_4_19.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/5w26dic19dmn2bt/electionlist_4_19.csv?dl=0)
 
 [Leader List](https://www.dl.dropboxusercontent.com/s/j2brjoz7cb3kkok/leaderlist_4_19.csv?dl=0)
 
