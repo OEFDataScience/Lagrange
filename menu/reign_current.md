@@ -16,12 +16,12 @@ title: REIGN Dataset
   * Micronesia
   
   
-**Version Updates (As of April 4th, 2019)**
+**Version Updates (As of April 9th, 2019)**
   * Tuvalu 2019 election deadline fixed.
   * Retroactively added Afghanistan December 2018 election delay/voiding.
   * Changed North Korea election type from executive to legislative.
   * Updated precipitation (SPI) estimates using NOAA's Jan 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html)
- 
+  * Corrected Israel's election date for April and announcement of early election in December 2018. 
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_4.csv) 
 
