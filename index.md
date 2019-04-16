@@ -4,7 +4,7 @@ title: Home
 ---
 
 ![](assets/img/dem_gif.gif?raw=true)
-*Democracies vs Non-Democracies 1950 - 2018: Visualization by [Joshua Lambert](https://sciences.ucf.edu/politicalscience/people/lambert-joshua/) and [Jean-Pierre Larroque](http://oneearthfuture.org/program/oef-operations/staff/jean-pierre-larroque)*
+*Democracies vs Non-Democracies 1950 - 2018: Visualization by [Joshua Lambert](https://sciences.ucf.edu/politicalscience/people/lambert-joshua/) and [Jean-Pierre Larroque](https://twitter.com/jplarroque)*
 
 
 Public repository for the Rulers, Elections, and Irregular Governance (REIGN) dataset. The most up-to-date REIGN data
