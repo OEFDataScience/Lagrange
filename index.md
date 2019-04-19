@@ -29,8 +29,9 @@ The Economist. [How to predict when a despot will fall.](https://www.economist.c
 
 [AI News Update: AI news glance for busy executives.](http://ainewsupdate.com/#/) April 5, 2019
 
+Business Insider. [The odds of a military coup in Venezuela rise every day Maduro stays in office.](https://www.businessinsider.com/venezuela-coup-odds-rise-as-maduro-stays-2019-2) February 1, 2019
 
-
+Business Insider. [2018 was the first year since 2007 without a coup. Here's what that means for 2019.](https://www.businessinsider.com/2018-had-no-couo-detat-heres-what-that-means-2019-2018-12) December 24, 2018
 
 # Overview:
 
