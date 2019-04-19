@@ -13,7 +13,7 @@ REIGN, created by [Dr. Curtis Bell](https://scholar.google.com/citations?user=WK
 
 REIGN is updated at the beginning of each month and the newest data versions can be found in this repository. Alongside the data, you will also find a link to the most current REIGN blog updates
 provided by One Earth Future Research. Click on the archive menu to access a list of links for past versions of REIGN. REIGN is 
-updated during the last week of each month. For any questions concerning this website and the current status of updates, please contact
+updated during the last week of each month. For any questions concerning this website and the current status of updates, please contact current project manager
 Clayton Besaw (<cbesaw@oneearthfuture.org>) 
 
 OEFR Forecasting now hosts a medium blog called the Die is Forecast. This blog is dedicated to technical analyses and code vignettes regarding our REIGN data and CoupCast/ELVIS forecasting projects. Feel free to check it out 
@@ -24,6 +24,13 @@ OEFR Forecasting now hosts a medium blog called the Die is Forecast. This blog i
 The Economist. [Sudan and Algeria overthrow despots but not their political systems.](https://www.economist.com/international/2019/04/20/sudan-and-algeria-overthrow-despots-but-not-their-political-systems) April 17, 2019
 
 The Economist. [How to predict when a despot will fall.](https://www.economist.com/international/2019/04/20/how-to-predict-when-a-despot-will-fall) April 17, 2019
+
+[Data Is Plural Newsletter.](https://tinyletter.com/data-is-plural) April 10, 2019
+
+[AI News Update: AI news glance for busy executives.](http://ainewsupdate.com/#/) April 5, 2019
+
+
+
 
 # Overview:
 
