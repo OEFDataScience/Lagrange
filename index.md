@@ -21,6 +21,8 @@ OEFR Forecasting now hosts a medium blog called the Die is Forecast. This blog i
 
 ## REIGN Data and Analysis Featured in:
 
+Global Investigative Journalism Network. [GIJN’s Data Journalism Top 10: Data Feminism, Blockchain for Investigations, Train Speeds, EU DataViz Conference](https://gijn.org/2019/04/25/gijns-data-journalism-top-10-data-feminism-blockchain-for-investigations-train-speeds-eu-dataviz-conference/) April 25, 2019
+
 The Economist. [Sudan and Algeria overthrow despots but not their political systems.](https://www.economist.com/international/2019/04/20/sudan-and-algeria-overthrow-despots-but-not-their-political-systems) April 17, 2019
 
 The Economist. [How to predict when a despot will fall.](https://www.economist.com/international/2019/04/20/how-to-predict-when-a-despot-will-fall) April 17, 2019
@@ -28,6 +30,8 @@ The Economist. [How to predict when a despot will fall.](https://www.economist.c
 [Data Is Plural Newsletter.](https://tinyletter.com/data-is-plural) April 10, 2019
 
 [AI News Update: AI news glance for busy executives.](http://ainewsupdate.com/#/) April 5, 2019
+
+Vanguard. [Dictatorship and election loss](https://www.vanguardngr.com/2019/02/dictatorship-and-election-loss-2/) February 5, 2019
 
 Business Insider. [The odds of a military coup in Venezuela rise every day Maduro stays in office.](https://www.businessinsider.com/venezuela-coup-odds-rise-as-maduro-stays-2019-2) February 1, 2019
 
