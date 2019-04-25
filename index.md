@@ -37,6 +37,20 @@ Business Insider. [The odds of a military coup in Venezuela rise every day Madur
 
 Business Insider. [2018 was the first year since 2007 without a coup. Here's what that means for 2019.](https://www.businessinsider.com/2018-had-no-couo-detat-heres-what-that-means-2019-2018-12) December 24, 2018
 
+Washington Post. [It’s been one year since Zimbabwe toppled Mugabe. Why isn’t it a democracy yet?](https://www.washingtonpost.com/news/monkey-cage/wp/2018/11/17/its-been-one-year-since-zimbabwe-toppled-mugabe-why-isnt-it-a-democracy-yet/?noredirect=on&utm_term=.f765194d58e1) November 17, 2018
+
+American Enterprise Institute. [Elections have spread throughout the world. But has democracy? That’s a different question.](http://www.aei.org/publication/elections-have-spread-but-has-democracy/) May 24, 2018
+
+American Enterprise Institute. [New data on democracy’s supposed decline](http://www.aei.org/publication/new-data-on-democracys-putative-decline/) April 26, 2018
+
+Koto AI. [An Anomaly in Armenia: Now what?](https://blog.koto.ai/2018/04/24/armenia-anomaly/) April 24, 2018
+
+American Enterprise Institute. [Is democracy actually in retreat? There’s some evidence to the contrary](https://www.aei.org/publication/is-democracy-actually-in-retreat-evidence-to-the-contrary/) April 4, 2018
+
+Koto AI. [Tenure track: China's term-limit change in comparative perspective](https://blog.koto.ai/2018/03/12/tenure-track-china-in-comparative-perspective/) March 12, 2018
+
+Koto AI. [Global: More Democracy, Less Freedom](https://blog.koto.ai/2018/01/19/more_democracy_less_freedom/) January 19, 2018
+
 # Overview:
 
 The Rulers, Elections, and Irregular Governance (REIGN) dataset describes political conditions in every country each and every month. These conditions include the tenures and personal characteristics of world leaders, the types of political institutions and political regimes in effect, election outcomes and election announcements, and irregular events like coups, coup attempts and other violent conflicts. The dataset covers more than 200 countries for each month they were independent, January 1950 to the present. REIGN was created by gathering original data, compiling other datasets on political conditions, reviewing their coding rules, and updating all information to the present.
