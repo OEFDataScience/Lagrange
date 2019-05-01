@@ -434,7 +434,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 591,Seychelles,Seychelles34138,6/18/1993,12/31/2019,party-based
 600,Morocco,Morocco20487,2/2/1956,12/31/2019,monarchy
 615,Algeria,Algeria22739,4/3/1962,1/11/1992,party-military
-615,Algeria,Algeria33614,1/11/1992,12/31/2019,military
+615,Algeria,Algeria33614,1/11/1992,4/2/2019,military
+615,Algeria,Algeria04319,4/2/2019,12/31/2019,civilian provisional
 616,Tunisia,Tunisia15826,4/30/1943,7/25/1957,monarchy
 616,Tunisia,Tunisia21026,7/25/1957,1/14/2011,party-based
 616,Tunisia,Tunisia40557,1/14/2011,1/1/2015,provisional
@@ -449,7 +450,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 625,Sudan,Sudan25348,5/25/1969,4/6/1985,personal
 625,Sudan,Sudan31143,4/6/1985,4/12/1986,provisional military
 625,Sudan,Sudan31514,4/12/1986,6/30/1989,parliamentary
-625,Sudan,Sudan32689,6/30/1989,12/31/2019,personal
+625,Sudan,Sudan32689,6/30/1989,4/10/2019,personal
+625,Sudan,Sudan041019,4/10/2019,12/31/2019,provisional military
 626,South Sudan,South Sudan40695,6/1/2011,12/31/2019,personal
 630,Iran,Iran9481,12/15/1925,1/16/1979,monarchy
 630,Iran,Iran28871,1/16/1979,12/31/2019,party-based

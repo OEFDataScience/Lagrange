@@ -2,38 +2,51 @@
 layout: page
 title: REIGN Dataset
 ---
-**April 2019 REIGN Dataset: April 4th, 2019**
+**May 2019 REIGN Dataset: May 1st, 2019**
 
 **New Leaders**
-  * Kassym-Joymart Tokayev (Kazakhstan)
+  * Assoumani (Comoros)
+  * Changing of the Captains Regents (San Marino)
+  * Ahmed Awad Ibn Auf (Sudan)
+  * Abdel Fattah Abdelrahman Burhan (Sudan)
+  * Manasseh Sogavare (Solomon Islands)
   * Abdelkader Bensalah (Algeria)
   
 **Key Elections**
-  * Estonia
-  * North Korea
-  * Thailand
-  * Comoros
-  * Micronesia
+  * Andorra
+  * Finland
+  * Indonesia
+  * Solomon Islands
+  * Ukraine
+  * Israel
+  * Egypt (Referendum)
+  * Spain
   
   
-**Version Updates (As of April 9th, 2019)**
-  * Tuvalu 2019 election deadline fixed.
-  * Retroactively added Afghanistan December 2018 election delay/voiding.
-  * Changed North Korea election type from executive to legislative.
-  * Updated precipitation (SPI) estimates using NOAA's Jan 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html)
-  * Corrected Israel's election date for April and announcement of early election in December 2018. 
+**Version Updates (As of May 1st, 2019)**
+  * Fixed election outcome information for Estonia 2019 as coalition outcome was previously unclear. 
+  * Preliminary outcome data is coded for Andorra, Finland, and Indonesia. These may change. 
+  * Changed regime type for Sudan to military provisional.
+  * Changed regime type for Algeria to civilian provisional.
+  * Changed regime type for Egypt to military personalist. 
+  * Updated precipitation (SPI) estimates using NOAA's March 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
+  * Updated GDP and population data using the April 2019 IMF world economic outlook release (https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx).
+  * Updated GDP using the newest World Bank release (https://data.worldbank.org/indicator/ny.gdp.mktp.cd).
+  * Updated infant mortality rate data with newest World Bank release (https://data.worldbank.org/indicator/sp.dyn.imrt.in). Implemented country-specific ARIMA modeling for forecasting mortality rate for unreleased years. These numbers were previously produced using forward filling for unknown years. 
+  * Added coup events in Sudan and Venezuela. 
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_4.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-march-2019-update)
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_5.csv) 
 
-Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/march-2019-coupcast-update-79a3dbe0f224)
+Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-april-2019-update)
 
-### Election and Leader lists (April 2019)
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/april-2019-coupcast-update-14ae895e8031)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/5w26dic19dmn2bt/electionlist_4_19.csv?dl=0)
+### Election and Leader lists (May 2019)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/j2brjoz7cb3kkok/leaderlist_4_19.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/2j2ws9u5ghzrsp9/electionlist_5_19.csv?dl=0)
+
+[Leader List](https://www.dl.dropboxusercontent.com/s/4svrrqbthcpjme8/leaderlist_5_19.csv?dl=0)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 
