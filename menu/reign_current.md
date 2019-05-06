@@ -34,6 +34,7 @@ title: REIGN Dataset
   * Updated GDP using the newest World Bank release (https://data.worldbank.org/indicator/ny.gdp.mktp.cd).
   * Updated infant mortality rate data with newest World Bank release (https://data.worldbank.org/indicator/sp.dyn.imrt.in). Implemented country-specific ARIMA modeling for forecasting mortality rate for unreleased years. These numbers were previously produced using forward filling for unknown years. 
   * Added coup events in Sudan and Venezuela. 
+  * Changed regime type for Turkey to party-personal hybrid (May 6th 2019) based on annulment of mayoral elections on May 6th. 
 
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_5.csv) 

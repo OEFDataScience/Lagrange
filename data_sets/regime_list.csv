@@ -461,7 +461,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 640,Turkey,Turkey22063,5/27/1960,10/15/1961,military
 640,Turkey,Turkey22569,10/15/1961,9/12/1980,parliamentary
 640,Turkey,Turkey29476,9/12/1980,11/6/1983,military
-640,Turkey,Turkey30626,11/6/1983,12/31/2019,presidential
+640,Turkey,Turkey30626,11/6/1983,5/6/2019,presidential
+640,Turkey,Turkey05619,5/6/2019,12/31/2019,party-personal
 645,Iraq,Iraq11975,10/13/1932,7/14/1958,monarchy
 645,Iraq,Iraq21380,7/14/1958,2/8/1963,personal
 645,Iraq,Iraq23050,2/8/1963,7/17/1968,personal
