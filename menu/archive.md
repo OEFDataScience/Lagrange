@@ -5,6 +5,46 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## May 2019
+
+**New Leaders**
+  * Assoumani (Comoros)
+  * Changing of the Captains Regents (San Marino)
+  * Ahmed Awad Ibn Auf (Sudan)
+  * Abdel Fattah Abdelrahman Burhan (Sudan)
+  * Manasseh Sogavare (Solomon Islands)
+  * Abdelkader Bensalah (Algeria)
+  
+**Key Elections**
+  * Andorra
+  * Finland
+  * Indonesia
+  * Solomon Islands
+  * Ukraine
+  * Israel
+  * Egypt (Referendum)
+  * Spain
+  
+  
+**Version Updates (As of May 1st, 2019)**
+  * Fixed election outcome information for Estonia 2019 as coalition outcome was previously unclear. 
+  * Preliminary outcome data is coded for Andorra, Finland, and Indonesia. These may change. 
+  * Changed regime type for Sudan to military provisional.
+  * Changed regime type for Algeria to civilian provisional.
+  * Changed regime type for Egypt to military personalist. 
+  * Updated precipitation (SPI) estimates using NOAA's March 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
+  * Updated GDP and population data using the April 2019 IMF world economic outlook release (https://www.imf.org/external/pubs/ft/weo/2019/01/weodata/index.aspx).
+  * Updated GDP using the newest World Bank release (https://data.worldbank.org/indicator/ny.gdp.mktp.cd).
+  * Updated infant mortality rate data with newest World Bank release (https://data.worldbank.org/indicator/sp.dyn.imrt.in). Implemented country-specific ARIMA modeling for forecasting mortality rate for unreleased years. These numbers were previously produced using forward filling for unknown years. 
+  * Added coup events in Sudan and Venezuela. 
+  * Changed regime type for Turkey to party-personal hybrid (May 6th 2019) based on annulment of mayoral elections on May 6th. 
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/ui9t0uysugrhqat/REIGN_2019_5.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-may-2019-update)
+ 
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/may-2019-coupcast-update-244d731e9d6f)
+
 ## April 2019
 
 **New Leaders**
