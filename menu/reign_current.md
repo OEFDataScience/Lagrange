@@ -2,46 +2,40 @@
 layout: page
 title: REIGN Dataset
 ---
-**June 2019 REIGN Dataset: June 3rd, 2019**
+**July 2019 REIGN Dataset: July 2nd, 2019**
 
 **New Leaders**
-  * Panuelo (Micronesia)
-  * Xavier Espot Zamora (Andorra)
-  * Hartwig Löger (Austria)
-  * Brigitte Bierlein (Austria)
-  * Zelensky (Ukraine)
+  * Nayib Bukele (El Salvador)
+  * Mette Frederiksen (Denmark)
+  * Antti Rinne (Finland)
+  * James Merape (Papua New Guinea)
+  * Cipriano Cassama (Guinea-Bissau)
   
 **Key Elections**
-  * Australia
-  * Belgium
-  * Lithuania
-  * Malawi
-  * Panama
-  * South Africa
-  * India
+  * Denmark
+  * Guatemala
+  * Kazakhstan
+  * Mauritania
 
-  
-  
-**Version Updates (As of June 3rd, 2019)**
-  * Corrected leadership change for Australia to Morrison. This was not originally changed in August 2018. 
-  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update.
-  * Election outcome for Thailand currently unknown, so the result is uncoded as of this update. 
-  * Finalized outcome data is coded for Andorra, Finland, and Indonesia.
-  * Updated precipitation (SPI) estimates using NOAA's April 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
+    
+**Version Updates (As of July 2nd, 2019)**
+  * Identified a number of leaders (DeRoburt, Da Costa, Nakyama, Lini, Remeliik, Pashinyan) who do not have country codings for the first month of their tenure. This is an unexpected bug in the leader panel creation process and is currently being worked on.
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. 
+  * Updated precipitation (SPI) estimates using NOAA's May 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
  
 
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_6.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_7.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-may-2019-update)
+Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-june-2019-update)
 
-Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/may-2019-coupcast-update-244d731e9d6f)
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/june-2019-coupcast-update-1deeff8a5907)
 
-### Election and Leader lists (June 2019)
+### Election and Leader lists (July 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/wj23kbwllymwcw8/electionlist_6_19.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/qaq3esvd04el3tx/electionlist_7_19.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/9tsp9g0xoqzskq6/leaderlist_6_19.csv?dl=0)
+[Leader List](https://www.dl.dropboxusercontent.com/s/yqn3ih2g7lh6e2y/leaderlist_7_19.csv?dl=0)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 

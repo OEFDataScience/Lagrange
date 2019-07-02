@@ -5,6 +5,37 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## June 2019
+
+**New Leaders**
+  * Panuelo (Micronesia)
+  * Xavier Espot Zamora (Andorra)
+  * Hartwig Löger (Austria)
+  * Brigitte Bierlein (Austria)
+  * Zelensky (Ukraine)
+  
+**Key Elections**
+  * Australia
+  * Belgium
+  * Lithuania
+  * Malawi
+  * Panama
+  * South Africa
+  * India
+
+**Version Updates (As of June 3rd, 2019)**
+  * Corrected leadership change for Australia to Morrison. This was not originally changed in August 2018. 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update.
+  * Election outcome for Thailand currently unknown, so the result is uncoded as of this update. 
+  * Finalized outcome data is coded for Andorra, Finland, and Indonesia.
+  * Updated precipitation (SPI) estimates using NOAA's April 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/gzm78kq6w1nriri/REIGN_2019_6.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-june-2019-update)
+ 
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/june-2019-coupcast-update-1deeff8a5907)
+
 ## May 2019
 
 **New Leaders**

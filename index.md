@@ -21,6 +21,8 @@ OEFR Forecasting now hosts a medium blog called the Die is Forecast. This blog i
 
 ## REIGN Data and Analysis Featured in:
 
+The Convesation. [Why Sudan’s deadly crackdown on protesters could escalate in coming weeks](https://theconversation.com/why-sudans-deadly-crackdown-on-protesters-could-escalate-in-coming-weeks-118499) Eric Keels and Joshua Lambert. June 11, 2019
+
 Global Investigative Journalism Network. [GIJN’s Data Journalism Top 10: Data Feminism, Blockchain for Investigations, Train Speeds, EU DataViz Conference](https://gijn.org/2019/04/25/gijns-data-journalism-top-10-data-feminism-blockchain-for-investigations-train-speeds-eu-dataviz-conference/) April 25, 2019
 
 The Economist. [Sudan and Algeria overthrow despots but not their political systems.](https://www.economist.com/international/2019/04/20/sudan-and-algeria-overthrow-despots-but-not-their-political-systems) April 17, 2019
