@@ -21,6 +21,7 @@ title: REIGN Dataset
     
 **Version Updates (As of July 2nd, 2019)**
   * Identified a number of leaders (DeRoburt, Da Costa, Nakyama, Lini, Remeliik, Pashinyan) who do not have country codings for the first month of their tenure. This is an unexpected bug in the leader panel creation process and is currently being worked on.
+  * Pavel Filip and Maia Sandu both switch head executive status twice during the month of June in the REIGN dataset. This isn't perfect, but it is difficult to code leadership shifts within a constitutional crisis. This coding may change based on future information. 
   * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. 
   * Updated precipitation (SPI) estimates using NOAA's May 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
  
