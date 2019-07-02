@@ -10,6 +10,7 @@ title: REIGN Dataset
   * Antti Rinne (Finland)
   * James Merape (Papua New Guinea)
   * Cipriano Cassama (Guinea-Bissau)
+  * Pavel Filip/Maia Sandu (Moldova - Contested due to Constitutional Crisis)
   
 **Key Elections**
   * Denmark
