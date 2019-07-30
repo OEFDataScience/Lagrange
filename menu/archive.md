@@ -5,6 +5,35 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## July 2019
+
+**New Leaders**
+  * Nayib Bukele (El Salvador)
+  * Mette Frederiksen (Denmark)
+  * Antti Rinne (Finland)
+  * James Merape (Papua New Guinea)
+  * Pavel Filip/Maia Sandu (Moldova - Contested due to Constitutional Crisis)
+  
+**Key Elections**
+  * Denmark
+  * Guatemala
+  * Kazakhstan
+  * Mauritania
+
+    
+**Version Updates (As of July 2nd, 2019)**
+  * Identified a number of leaders (DeRoburt, Da Costa, Nakyama, Lini, Remeliik, Pashinyan) who do not have country codings for the first month of their tenure. This is an unexpected bug in the leader panel creation process and is currently being worked on.
+  * Pavel Filip and Maia Sandu both switch head executive status twice during the month of June in the REIGN dataset. This isn't perfect, but it is difficult to code leadership shifts within a constitutional crisis. This coding may change based on future information. 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. 
+  * Updated precipitation (SPI) estimates using NOAA's May 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.precl.html).
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/3tw3159ayp56o8z/REIGN_2019_7.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-july-2019-update)
+ 
+ [CoupCast Update Blog] - None for July due to Vacation
+
+
 ## June 2019
 
 **New Leaders**
