@@ -31,7 +31,7 @@ Please find past REIGN data and update-blogs here:
   
  [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-july-2019-update)
  
- [CoupCast Update Blog] - None for July due to Vacation
+ [CoupCast Update Blog] - None for July due to vacation
 
 
 ## June 2019
