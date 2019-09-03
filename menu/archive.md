@@ -5,6 +5,30 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## August 2019
+
+**New Leaders**
+  * Laurentino Cortizo (Panama)
+  * Kyriakos Mitsotakis (Greece)
+  * Gitanas NausÄ—da (Lithuania)
+  * Boris Johnson (United Kingdom)
+  * Mohamed Ennaceur (Tunisia)
+  
+**Key Elections**
+  * Greece
+
+    
+**Version Updates (As of July 30th, 2019)**
+  * Identified a number of leaders (DeRoburt, Da Costa, Nakyama, Lini, Remeliik, Pashinyan) who do not have country codings for the first month of their tenure. This is an unexpected bug in the leader panel creation process and is currently being worked on.
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. 
+  
+  
+ [Dataset](https://www.dl.dropboxusercontent.com/s/suu1l79owwkrrdx/REIGN_2019_8.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-leaders-august-2019)
+ 
+ [CoupCast Update Blog] - https://medium.com/the-die-is-forecast/august-2019-coupcast-mini-update-5cf2a65eb66d
+
 ## July 2019
 
 **New Leaders**

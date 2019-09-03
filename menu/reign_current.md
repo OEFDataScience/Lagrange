@@ -2,39 +2,37 @@
 layout: page
 title: REIGN Dataset
 ---
-**August 2019 REIGN Dataset: July 30th, 2019**
+**September 2019 REIGN Dataset: September 3rd, 2019**
 
 **New Leaders**
-  * Laurentino Cortizo (Panama)
-  * Kyriakos Mitsotakis (Greece)
-  * Gitanas Nausėda (Lithuania)
-  * Boris Johnson (United Kingdom)
-  * Mohamed Ennaceur (Tunisia)
+  * Mohamed Ould Ghazouani (Mauritania)
+  * Lionel Aingimea (Nauru)
   
 **Key Elections**
-  * Greece
+  * Guatemala
+  * NAuru
 
     
-**Version Updates (As of July 30th, 2019)**
-  * Identified a number of leaders (DeRoburt, Da Costa, Nakyama, Lini, Remeliik, Pashinyan) who do not have country codings for the first month of their tenure. This is an unexpected bug in the leader panel creation process and is currently being worked on.
-  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. 
- 
+**Version Updates (As of September 3rd, 2019)**
+  * Hotfix implemented to detect and correct "blank" country names in the first month of tenure for the following leaders: De Roburt (Nauru), Nakyama (Micronesia), Pashinyan (Armenia), da Costa (Sao Tome), Lini (Vanautu), Remeliik (Paulau).
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
+  * Updated precipitation (SPI) estiamtes using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
 
 
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_8.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_9.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-august-2019-update)
+Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-leaders-august-2019)
 
-Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/june-2019-coupcast-update-1deeff8a5907)
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/august-2019-coupcast-mini-update-5cf2a65eb66d)
 
-### Election and Leader lists (August 2019)
+### Election and Leader lists (September 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/twvtlgpolazt7g5/electionlist_8_19.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/aai0hahioxmaifz/electionlist_9_19.csv?dl=0)
 
-[Leader List](https://www.dl.dropboxusercontent.com/s/ym4as0duq6g81yu/leaderlist_8_19.csv?dl=0)
+[Leader List](https://www.dl.dropboxusercontent.com/s/2u7mscp9t41281k/leaderlist_9_19.csv?dl=0)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
-
+	
 ### Codebook and Technical Notes
 
 [Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_codebook.pdf)
