@@ -16,7 +16,7 @@ title: REIGN Dataset
 **Version Updates (As of September 3rd, 2019)**
   * Hotfix implemented to detect and correct "blank" country names in the first month of tenure for the following leaders: De Roburt (Nauru), Nakyama (Micronesia), Pashinyan (Armenia), da Costa (Sao Tome), Lini (Vanautu), Remeliik (Paulau). Hotfix will dynamically fix any future problems with missing country names for future leaders. 
   * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
-  * Updated precipitation (SPI) estiamtes using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
+  * Updated precipitation (SPI) estimates using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
 
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_9.csv) 
