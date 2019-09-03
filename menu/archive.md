@@ -27,7 +27,7 @@ Please find past REIGN data and update-blogs here:
   
  [REIGN Update Blog](https://oefresearch.org/news/international-elections-leaders-august-2019)
  
- [CoupCast Update Blog] - https://medium.com/the-die-is-forecast/august-2019-coupcast-mini-update-5cf2a65eb66d
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/august-2019-coupcast-mini-update-5cf2a65eb66d)
 
 ## July 2019
 
