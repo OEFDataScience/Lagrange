@@ -21,9 +21,9 @@ title: REIGN Dataset
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_9.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-leaders-august-2019)
+Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-september-2019-update)
 
-Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/august-2019-coupcast-mini-update-5cf2a65eb66d)
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/september-2019-coupcast-update-500427418953)
 
 ### Election and Leader lists (September 2019)
 
