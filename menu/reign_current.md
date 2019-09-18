@@ -10,7 +10,7 @@ title: REIGN Dataset
   
 **Key Elections**
   * Guatemala
-  * NAuru
+  * Nauru
 
     
 **Version Updates (As of September 3rd, 2019)**
