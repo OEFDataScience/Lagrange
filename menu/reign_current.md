@@ -14,7 +14,6 @@ title: REIGN Dataset
   * Israel
   * Tunisia (1st round)
   * Tuvalu
-
     
 **Version Updates (As of October 2nd, 2019)**
   * The REIGN team identified a number of miscodings surrounding leader election dates and election event outcomes. Fixes were made over the month of September to reflect proper coding of the following country-leader periods. Guyana 1964-1968, Paraguay 1989, Belgium 1995, Luxembourg 1954, Andorra 1985, West Germany Kissinger;Schmidt, Czechoslovakia 1998, Greece 1958;1961, Bulgaria 1949;1953-1986, Estonia 2007;2015, Latvia 2006, Armenia Kocharyan, Azerbaijan 1993, Finland 1982, Norway Torp, Iceland 1959,  Mali 1974, Benin 1991;1996;2001;2006;2016, Guinea 1968;1974;1990;2001, Seychelles 2006;2015;2016, Sudan 1958, Israel Gengurion;Sharrett, Turkmenistan 2007, Tajikistan 1991;1994, South Korea 1979;1980, Myanmar Una;Ubaswe, Sri Lanka 1952, Cambodia 1976;1998, Australia 1966;1975, Tuvalu 2004;2010 
