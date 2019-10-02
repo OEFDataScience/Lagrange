@@ -5,6 +5,28 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## September 2019
+
+**New Leaders**
+  * Mohamed Ould Ghazouani (Mauritania)
+  * Lionel Aingimea (Nauru)
+  
+**Key Elections**
+  * Guatemala
+  * Nauru
+
+    
+**Version Updates (As of September 3rd, 2019)**
+  * Hotfix implemented to detect and correct "blank" country names in the first month of tenure for the following leaders: De Roburt (Nauru), Nakyama (Micronesia), Pashinyan (Armenia), da Costa (Sao Tome), Lini (Vanautu), Remeliik (Paulau). Hotfix will dynamically fix any problems with missing country names for future leaders. 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
+  * Updated precipitation (SPI) estimates using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
+  
+ [Dataset](https://www.dropbox.com/s/yfprg6uv9e6z2le/REIGN_2019_9.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-leaders-september-2019)
+ 
+ [CoupCast Update Blog](https://medium.com/the-die-is-forecast/september-2019-coupcast-update-500427418953)
+
 ## August 2019
 
 **New Leaders**
