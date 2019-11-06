@@ -24,6 +24,7 @@ Please find past REIGN data and update-blogs here:
   * Updated precipitation (SPI) estimates using NOAA's August 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
   * Updated regime type for Sudan. Sudan is now coded as a Civilian Provisional government as of August 2019. The REIGN team waited a month after the adoption of the Sovereignty Council of Sudan before making the decision. While the council will be headed by the military for the first 39 months of the transition, it lays the groundwork for civilian rule. 
 
+ [Dataset](https://www.dl.dropboxusercontent.com/s/d9ndc3p6fr83eo4/REIGN_2019_10.csv?dl=0)
   
  [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-october-2019-update)
 

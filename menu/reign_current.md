@@ -42,6 +42,7 @@ Find the most current REIGN update-blog [here](https://oefresearch.org/news/inte
 
 ### Election and Leader lists (November 2019)
 
+[Election List](https://www.dl.dropboxusercontent.com/s/05259trst1xk8o9/electionlist_11_19.csv?dl=0)
 
 [Leader List](https://www.dl.dropboxusercontent.com/s/ejo6wkuqz1fxt0r/leaderlist_11_19.csv?dl=0)
 
