@@ -13,9 +13,9 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'github', link: 'https://www.github.com/OEFDataScience'}
-- {icon: 'twitter', link: 'https://twitter.com/OEForg'}
+- {icon: 'twitter', link: 'https://twitter.com/oef_research'}
 - {icon: 'envelope', link: 'mailto:cbesaw@oneearthfuture.org'}
-- {icon: 'facebook', link: 'https://www.facebook.com/oneearthfuture/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/OEFResearch'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
