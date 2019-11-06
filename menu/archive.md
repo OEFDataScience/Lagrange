@@ -5,6 +5,50 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+## October 2019
+
+**New Leaders**
+  * Giorgi Gakharia (Georgia)
+  * Kausea Natano (Tuvalu)
+  
+**Key Elections**
+  * Afghanistan
+  * Austria
+  * Tunisia 
+  * Tuvalu
+
+    
+**Version Updates (As of October 1st, 2019)**
+  * Fixed leader election dates and national election outcomes related to the following leadership-country periods: Guyana 1964;1968, Paraguay 1989, Belgium 1995, Luxembourg 1954, Andorra 1985, West Germany Kissinger;Schdmit, Czechlosovakia 1990, Greece 1958;1961, Bulgaria 1949;1953-1986, Estonia 2007;2015, Latvia 2006, Armenia Kocheryan, Azerbaijan 1993; Finland 1982, Norway Torp, Iceland 1959, Mali 1974, Benin 1991;1996;2001;2006;2016, Guinea 1968;1974;1990;2001, Seychelles 2006;2015-2016, Sudan 1958, Israel Bengurion;Sharrett, Turkmenistan 2007; Tajikistan 1991;1994, South Korea 1979;1980, Myanmar Unu;Ubaswe, Sri Lanka 1952, Cambodia 1976;1998, Australia 1966;1975, Tuvalu 2004;2010 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
+  * Updated precipitation (SPI) estimates using NOAA's August 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
+  * Updated regime type for Sudan. Sudan is now coded as a Civilian Provisional government as of August 2019. The REIGN team waited a month after the adoption of the Sovereignty Council of Sudan before making the decision. While the council will be headed by the military for the first 39 months of the transition, it lays the groundwork for civilian rule. 
+
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-october-2019-update)
+
+## September 2019
+
+**New Leaders**
+  * Mohamed Ould Ghazouani (Mauritania)
+  * Lionel Aingimea (Nauru)
+  
+**Key Elections**
+  * Guatemala
+  * Nauru
+
+    
+**Version Updates (As of September 3rd, 2019)**
+  * Hotfix implemented to detect and correct "blank" country names in the first month of tenure for the following leaders: De Roburt (Nauru), Nakyama (Micronesia), Pashinyan (Armenia), da Costa (Sao Tome), Lini (Vanautu), Remeliik (Paulau). Hotfix will dynamically fix any problems with missing country names for future leaders. 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
+  * Updated precipitation (SPI) estimates using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
+
+ 
+ [Dataset](https://www.dl.dropboxusercontent.com/s/yfprg6uv9e6z2le/REIGN_2019_9.csv?dl=0)
+  
+ [REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-september-2019-update)
+ 
+
 
 ## August 2019
 
