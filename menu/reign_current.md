@@ -2,6 +2,7 @@
 layout: page
 title: REIGN Dataset
 ---
+
 **November 2019 REIGN Dataset: November 6th, 2019**
 
 **New Leaders**
@@ -39,10 +40,9 @@ Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/RE
 
 Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-october-2019-update)
 
-
 ### Election and Leader lists (November 2019)
 
-[Election List](https://www.dl.dropboxusercontent.com/s/0l7g4wwow62fjt8/electionlist_11_18.csv?dl=0)
+[Election List](https://www.dl.dropboxusercontent.com/s/05259trst1xk8o9/electionlist_11_19.csv?dl=0)
 
 [Leader List](https://www.dl.dropboxusercontent.com/s/ejo6wkuqz1fxt0r/leaderlist_11_19.csv?dl=0)
 
