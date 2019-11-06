@@ -2,6 +2,7 @@
 layout: page
 title: REIGN Dataset
 ---
+<<<<<<< HEAD
 
 **November 2019 REIGN Dataset: November 6th, 2019**
 
@@ -35,15 +36,45 @@ title: REIGN Dataset
   * Updated internal political violence indicator using newest UCDP Georeferenced Event Data release (https://ucdp.uu.se/downloads/)
   * Updated regime type for Bolivia. Bolivia is now coded as a party-personalist government as of October 25th, 2019. This was a difficult decision and the REIGN team waited until after the election to come to a conclusion. Given the government's behavior in previous term-limit debates and solid evidence of electoral irregularities, we have changed Bolivia from a presidential democracy to a party-personalist system. 
 
+=======
+**September 2019 REIGN Dataset: September 3rd, 2019**
+
+**New Leaders**
+  * Mohamed Ould Ghazouani (Mauritania)
+  * Lionel Aingimea (Nauru)
+  
+**Key Elections**
+  * Guatemala
+  * Nauru
+
+    
+**Version Updates (As of September 3rd, 2019)**
+  * Hotfix implemented to detect and correct "blank" country names in the first month of tenure for the following leaders: De Roburt (Nauru), Nakyama (Micronesia), Pashinyan (Armenia), da Costa (Sao Tome), Lini (Vanautu), Remeliik (Paulau). Hotfix will dynamically fix any problems with missing country names for future leaders. 
+  * Coalition outcome for Belgian general election is expected to take time, so the result is uncoded as of this update. (September Update: Looks like Belgium is in for a long caretaker period. If nothing changes, expect a PM change in December 2019 due to Michel's new commitments to the European Council). 
+  * Updated precipitation (SPI) estimates using NOAA's July 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
+
+
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_9.csv) 
+>>>>>>> parent of 252ab91... REIGN October 2019 Update
 
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_11.csv) 
 
+<<<<<<< HEAD
 Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-october-2019-update)
 
 ### Election and Leader lists (November 2019)
 
 
 [Leader List](https://www.dl.dropboxusercontent.com/s/ejo6wkuqz1fxt0r/leaderlist_11_19.csv?dl=0)
+=======
+Find the most current CoupCast update-blog [here](https://medium.com/the-die-is-forecast/september-2019-coupcast-update-500427418953)
+
+### Election and Leader lists (September 2019)
+
+[Election List](https://www.dl.dropboxusercontent.com/s/aai0hahioxmaifz/electionlist_9_19.csv?dl=0)
+
+[Leader List](https://www.dl.dropboxusercontent.com/s/2u7mscp9t41281k/leaderlist_9_19.csv?dl=0)
+>>>>>>> parent of 252ab91... REIGN October 2019 Update
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	

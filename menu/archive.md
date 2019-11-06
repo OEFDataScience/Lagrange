@@ -5,6 +5,7 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+<<<<<<< HEAD
 ## October 2019
 
 **New Leaders**
@@ -50,6 +51,8 @@ Please find past REIGN data and update-blogs here:
  
 
 
+=======
+>>>>>>> parent of 252ab91... REIGN October 2019 Update
 ## August 2019
 
 **New Leaders**
