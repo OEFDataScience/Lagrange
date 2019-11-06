@@ -6,8 +6,8 @@ title: REIGN Dataset
 **November 2019 REIGN Dataset: November 6th, 2019**
 
 **New Leaders**
-  * Luca Boschi and Mariella Mularoni (San Marino - Changing of the Captains Regent)
-  * Sophie Wilmès (Belgium)
+  * Luca Boschi and Mariella Mularoni (San Marino)
+  * Sophie WilmÃ¨s (Belgium)
   * Pohiva Tu'i'onetoa (Tonga)
   * Kais Saied (Tunisia)
   
@@ -26,7 +26,7 @@ title: REIGN Dataset
 **Version Updates (As of November 6th, 2019)**
   * An acting PM for Tonga has been retroactively added to account for their leadership tenure before October's selection of a new PM.
   * Leadership in Cuba has been retroactively changed back to Raul Castro after examining the current leadership structure in Cuba. 
-  * The coalition talks have been resolved in Belgium. Sophie Wilmès is now the first female prime minister in Belgian history.
+  * The coalition talks have been resolved in Belgium. Sophie WilmÃ¨s is now the first female prime minister in Belgian history.
   * Updated precipitation (SPI) estimates using NOAA's October 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html). 
   * Updated economic estimates with the IMF's October Global Economic Outlook release (https://www.imf.org/en/Publications/WEO/Issues/2019/10/01/world-economic-outlook-october-2019).
   * Updated economic estimates with the World Bank's newest GDP data (https://data.worldbank.org/indicator/ny.gdp.pcap.cd)
