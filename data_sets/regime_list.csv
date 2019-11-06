@@ -134,7 +134,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 145,Bolivia,Bolivia26166,8/21/1971,7/21/1978,military personal
 145,Bolivia,Bolivia29037,7/21/1978,7/17/1980,provisional
 145,Bolivia,Bolivia29419,7/17/1980,10/10/1982,military
-145,Bolivia,Bolivia30234,10/10/1982,12/31/2019,presidential
+145,Bolivia,Bolivia30234,10/10/1982,10/25/2019,presidential
+145,Bolivia,Bolivia102019,10/25/2019,12/31/2019,party-personal
 150,Paraguay,Paraguay17687,6/3/1948,5/7/1954,party-based
 150,Paraguay,Paraguay19851,5/7/1954,5/9/1993,party-personal-military
 150,Paraguay,Paraguay34098,5/9/1993,12/31/2019,presidential
@@ -451,7 +452,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 625,Sudan,Sudan31143,4/6/1985,4/12/1986,provisional military
 625,Sudan,Sudan31514,4/12/1986,6/30/1989,parliamentary
 625,Sudan,Sudan32689,6/30/1989,4/10/2019,personal
-625,Sudan,Sudan041019,4/10/2019,12/31/2019,provisional military
+625,Sudan,Sudan041019,4/10/2019,8/20/2019,provisional military
+625,Sudan,Sudan08202019,8/20/2019,12/31/2019,civilian provisional
 626,South Sudan,South Sudan40695,6/1/2011,12/31/2019,personal
 630,Iran,Iran9481,12/15/1925,1/16/1979,monarchy
 630,Iran,Iran28871,1/16/1979,12/31/2019,party-based
@@ -474,7 +476,9 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 651,Egypt,Egypt19198,7/23/1952,2/11/2011,party-personal-military
 651,Egypt,Egypt40585,2/11/2011,6/30/2012,provisional military
 651,Egypt,Egypt41090,6/30/2012,7/3/2013,presidential
-651,Egypt,Egypt41458,7/3/2013,12/31/2019,military personal
+651,Egypt,Egypt41458,7/3/2013,5/28/2014,provisional military
+651,Egypt,Egypt52514,5/28/2014,4/22/2019,presidential
+651,Egypt,Egypt42219,4/22/2019,12/31/2019,military personal
 652,Syria,Syria18251,12/19/1949,11/29/1951,indirect military
 652,Syria,Syria18961,11/29/1951,2/25/1954,military
 652,Syria,Syria19780,2/25/1954,2/26/1957,presidential
