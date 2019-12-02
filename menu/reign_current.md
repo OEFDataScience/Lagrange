@@ -22,7 +22,8 @@ title: REIGN Dataset
     
 **Version Updates (As of December 2nd, 2019)**
   * No technical updates beyond new leaders and elections this month. All other predictors are using most up-to-date information.
-  * The REIGN team has changed how the current leader and elections lists are stored. They are now stored directly into the GitHub repository for easier automation access. Archived datasets will remain accessible through our Dropbox. The stored files will follow the same naming pattern (ex: leaderlist_"2digitmonth"_"last2digityear".csv)
+  * The REIGN team has changed how the current leader and elections lists are stored. They are now stored directly into the GitHub repository for easier automation access. The stored files will follow the same naming pattern (ex: leaderlist_"2digitmonth"_"last2digityear".csv)
+  * Archived versions of the leaderlist, electionlist and REIGN are available by request from our organizational Dropbox.
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2019_12.csv) 
 
