@@ -5,6 +5,32 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**December 2019 REIGN Dataset: December 2nd, 2019**
+
+**New Leaders**
+  * Ion Chicu (Moldova)
+  * Gotabaya Rajapaksa (Sri Lanka)
+
+  
+**Key Elections**
+  * Mauritius 
+  * Romania
+  * Sri Lanka
+  * Marshall Islands
+  * Namibia 
+  * Guinea-Bissau
+  * Uruguay
+
+    
+**Version Updates (As of December 2nd, 2019)**
+  * No technical updates beyond new leaders and elections this month. All other predictors are using most up-to-date information.
+  * The REIGN team has changed how the current leader and elections lists are stored. They are now stored directly into the GitHub repository for easier automation access. The stored files will follow the same naming pattern (ex: leaderlist_"2digitmonth"_"last2digityear".csv)
+  * Archived versions of the leaderlist, electionlist and REIGN are available by request from our organizational Dropbox.
+  
+	[Dataset](https://www.dl.dropboxusercontent.com/s/7hsdbi696si0tpb/REIGN_2019_12.csv?dl=0) 
+
+	[REIGN Update Blog](https://oefresearch.org/news/international-elections-and-leaders-december-2019-update)
+
 ## November 2019
 
 **New Leaders**
