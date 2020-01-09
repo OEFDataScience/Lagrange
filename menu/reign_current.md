@@ -14,7 +14,6 @@ title: REIGN Dataset
   
 **Key Elections**
   * Guinea-Bissau (Presidential)
-  * Guyana (Legislative)
   * Papua New Guinea (Referendum)
   * United Kingdom (Legislative)
 
