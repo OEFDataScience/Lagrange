@@ -16,6 +16,9 @@ title: REIGN Dataset
   * Guinea-Bissau (Presidential)
   * Papua New Guinea (Referendum)
   * United Kingdom (Legislative)
+  * Algeria (Presidential)
+  * Dominica (Legislative)
+  * San Marino (Legislative)
 
     
 **Version Updates (As of January 8th, 2020)**
