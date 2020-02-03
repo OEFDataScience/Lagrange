@@ -5,6 +5,31 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**January 2020 REIGN Dataset: January 8th, 2020**
+
+**New Leaders**
+  * Fernandez (Argentina)
+  * Sanna Marin (Finland)
+  * Tebboune (Algeria)
+  * Hassan Diab (Lebanon)
+
+  
+**Key Elections**
+  * Guinea-Bissau (Presidential)
+  * Papua New Guinea (Referendum)
+  * United Kingdom (Legislative)
+  * Algeria (Presidential)
+  * Dominica (Legislative)
+  * San Marino (Legislative)
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/0vwlepc6t6jz8tj/REIGN_2020_1.csv?dl=0) 
+
+  [REIGN Update Blog](https://medium.com/the-die-is-forecast/international-elections-and-leaders-january-2020-update-e1347b5a7dc4?source=friends_link&sk=e53e9a7c869a6613a9139a7e7a75b4ec)
+
+    
+**Version Updates (As of January 8th, 2020)**
+  * No technical updates beyond new leaders and elections this month. All other predictors are using most up-to-date information.
+
 **December 2019 REIGN Dataset: December 2nd, 2019**
 
 **New Leaders**

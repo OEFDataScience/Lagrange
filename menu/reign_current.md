@@ -3,37 +3,32 @@ layout: page
 title: REIGN Dataset
 ---
 
-**January 2020 REIGN Dataset: January 8th, 2020**
+**February 2020 REIGN Dataset: February 3rd, 2020**
 
 **New Leaders**
-  * Fernandez (Argentina)
-  * Sanna Marin (Finland)
-  * Tebboune (Algeria)
-  * Hassan Diab (Lebanon)
+  * Spasovksi (Macedonia)
+  * Sommaruga (Switzerland)
+  * Kabua (Marshall Islands)
+  * Haitham ibn Tariq (Oman)
+  * Giammattei (Guatemala)
 
   
 **Key Elections**
-  * Guinea-Bissau (Presidential)
-  * Papua New Guinea (Referendum)
-  * United Kingdom (Legislative)
-  * Algeria (Presidential)
-  * Dominica (Legislative)
-  * San Marino (Legislative)
-
+  * None this month
     
-**Version Updates (As of January 8th, 2020)**
-  * No technical updates beyond new leaders and elections this month. All other predictors are using most up-to-date information.
-
+**Version Updates (As of February 3rd, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s December 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * The methodology used for SPI projection beyond the NOAA measurements has changed since the last update. Previously, a single seasonal ARIMA model was used for every country. We now use an auto.arima function to fit the best model for each country during SPI forecasting.
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_1.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_2.csv) 
 
-Find the most current REIGN update-blog [here](https://oefresearch.org/news/international-elections-and-leaders-december-2019-update)
+Find the most current REIGN update-blog [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-january-2020-update-e1347b5a7dc4?source=friends_link&sk=e53e9a7c869a6613a9139a7e7a75b4ec)
 
-### Election and Leader lists (December 2019)
+### Election and Leader lists (February 2020)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_1_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_2_20.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_1_20.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_2_20.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	
