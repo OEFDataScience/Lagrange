@@ -16,7 +16,8 @@ title: REIGN Dataset
 **Key Elections**
   * None this month
     
-**Version Updates (As of February 3rd, 2020)**
+**Version Updates (As of February 12th, 2020)**
+  * **February 12th**: Fixed a bug in which leaders who began their tenure in 2020 were not fully captured beyond January. The current REIGN dataset reflects this fix. 
   * Updated precipitation (SPI) estimates using NOAA’s December 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
   * The methodology used for SPI projection beyond the NOAA measurements has changed since the last update. Previously, a single seasonal ARIMA model was used for every country. We now use an auto.arima function to fit the best model for each country during SPI forecasting.
   
