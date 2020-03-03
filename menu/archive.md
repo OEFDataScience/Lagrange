@@ -5,6 +5,29 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**February 2020 REIGN Dataset: February 3rd, 2020**
+
+**New Leaders**
+  * Spasovksi (Macedonia)
+  * Sommaruga (Switzerland)
+  * Kabua (Marshall Islands)
+  * Haitham ibn Tariq (Oman)
+  * Giammattei (Guatemala)
+
+  
+**Key Elections**
+  * None this month
+
+  [Dataset](https://www.dl.dropboxusercontent.com/s/un9cke9u8oa4olu/REIGN_2020_2.csv?dl=0) 
+
+  [REIGN Update Blog](https://medium.com/the-die-is-forecast/international-elections-and-leaders-february-2020-update-e6f58cddedd1)
+ 
+    
+**Version Updates (As of February 12th, 2020)**
+  * **February 12th**: Fixed a bug in which leaders who began their tenure in 2020 were not fully captured beyond January. The current REIGN dataset reflects this fix. 
+  * Updated precipitation (SPI) estimates using NOAA’s December 2019 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * The methodology used for SPI projection beyond the NOAA measurements has changed since the last update. Previously, a single seasonal ARIMA model was used for every country. We now use an auto.arima function to fit the best model for each country during SPI forecasting.
+
 **January 2020 REIGN Dataset: January 8th, 2020**
 
 **New Leaders**
