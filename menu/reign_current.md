@@ -8,7 +8,7 @@ title: REIGN Dataset
 **New Leaders**
   * Kurti (Kosovo)
   * Embalo (Guinea-Bissau)
-  * Tawfiq-Allawi (Iraq)
+
 
   
 **Key Elections**
@@ -16,10 +16,10 @@ title: REIGN Dataset
   * Slovakia (coalition talks on-going)
   * Togo (incumbent win, no leader change)
     
-**Version Updates (As of February 12th, 2020)**
+**Version Updates (As of March 5th, 2020)**
   * Fixed coding error in which Paraguay's leadership change in 2018 was not accounted for. 
   * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-
+  * Removed Tawfiq-Allawi (Iraq) as a leader following the withdrawal of his nomination earlier this month.
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_3.csv) 
 
