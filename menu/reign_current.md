@@ -16,10 +16,12 @@ title: REIGN Dataset
   * Slovakia (coalition talks on-going)
   * Togo (incumbent win, no leader change)
     
-**Version Updates (As of March 5th, 2020)**
+**Version Updates (As of March 6th, 2020)**
   * Fixed coding error in which Paraguay's leadership change in 2018 was not accounted for. 
   * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
   * Removed Tawfiq-Allawi (Iraq) as a leader following the withdrawal of his nomination earlier this month.
+  * Fixed miscoding of start date for James Marape in Papua New Guinea. This fixed a bug in which Marape's tenure as PNG leader was not captured in the data.
+  * Fixed coding bug concerning Raul Casto. We had originally replaced Castro as leader with Diaz-Canel. However, we changed the coding back to Raul Castro after digging deeper into the Cuban political structure. When this occured, we failed to remove the exit date information for Raul Castro, effectively removing Cuba from the data for 2019/2020.
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_3.csv) 
 

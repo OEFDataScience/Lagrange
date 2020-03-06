@@ -3425,7 +3425,8 @@ ccode,electionnumber,country,elec_year,elec_month,elec_day,sequence,event,elecnu
 317,6,Slovakia,2012,3,10,2,"Vote, Early",317006,L,Y,Y,N,Y,N
 317,6,Slovakia,2012,6,12,3,Deadline Met,317006,L,Y,Y,N,Y,N
 317,7,Slovakia,2016,3,5,1,"Vote, As Scheduled",317007,L,Y,Y,Y,N,N
-317,8,Slovakia,2020,2,29,1,"Upcoming, Scheduled",317008,L,Y,Y,,,N
+317,8,Slovakia,2020,2,29,1,"Vote, As Scheduled",317008,L,Y,Y,,,N
+,,,,,,,,,,,,,,
 349,0,Slovenia,1990,4,8,1,"Vote, As Scheduled",349000,L,Y,N,N,Y,N
 349,1,Slovenia,1992,12,6,1,"Vote, As Scheduled",349001,L,Y,Y,Y,N,N
 349,2,Slovenia,1996,11,10,1,"Vote, As Scheduled",349002,L,Y,Y,Y,N,N
