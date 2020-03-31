@@ -5,6 +5,28 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**March 2020 REIGN Dataset: March 3rd, 2020**
+
+**New Leaders**
+  * Kurti (Kosovo)
+  * Embalo (Guinea-Bissau)
+  
+**Key Elections**
+  * Ireland (coalition talks on-going)
+  * Slovakia (coalition talks on-going)
+  * Togo (incumbent win, no leader change)
+    
+**Version Updates (As of March 6th, 2020)**
+  * Fixed coding error in which Paraguay's leadership change in 2018 was not accounted for. 
+  * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Removed Tawfiq-Allawi (Iraq) as a leader following the withdrawal of his nomination earlier this month.
+  * Fixed miscoding of start date for James Marape in Papua New Guinea. This fixed a bug in which Marape's tenure as PNG leader was not captured in the data.
+  * Fixed coding bug concerning Raul Casto. We had originally replaced Castro as leader with Diaz-Canel. However, we changed the coding back to Raul Castro after digging deeper into the Cuban political structure. When this occured, we failed to remove the exit date information for Raul Castro, effectively removing Cuba from the data for 2019/2020.
+
+  [Dataset](https://www.dl.dropboxusercontent.com/s/970g10a3seivdzg/REIGN_2020_3.csv?dl=0)
+  
+  [REIGN Update Blog](https://medium.com/the-die-is-forecast/international-elections-and-leaders-march-2020-briefing-b6664e7334ef)
+  
 **February 2020 REIGN Dataset: February 3rd, 2020**
 
 **New Leaders**

@@ -180,7 +180,8 @@ cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
 305,Austria,Austria1945,4/10/1945,10/26/1955,foreign-occupied
 305,Austria,Austria19420,10/26/1955,12/31/2019,parliamentary
 310,Hungary,Hungary17223,2/25/1947,3/25/1990,party-based
-310,Hungary,Hungary33154,3/25/1990,12/31/2019,parliamentary
+310,Hungary,Hungary33154,3/25/1990,3/30/2020,parliamentary
+310,Hungary,Hungary33020,3/30/2020,12/31/2020,party-based
 315,Czechoslovakia,Czechoslovakia17588,2/25/1948,12/4/1989,party-based
 315,Czechoslovakia,Czechoslovakia32846,12/4/1989,12/31/1992,parliamentary
 316,Czech Rep,Czech Rep33939,12/1/1992,12/31/2019,parliamentary
