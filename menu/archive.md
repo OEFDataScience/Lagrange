@@ -5,6 +5,35 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**April 2020 REIGN Dataset: April 1st, 2020**
+
+**New Leaders**
+  * Luis Alberto Lacalle Pou (Centre-Right Christian Democrat) - Uruguay
+  * Muhyiddin Yassin (Centrist Nationalist) - Malaysia
+  * Janez Jansa (Right-wing Populism) - Slovenia
+  * Igor Matovic (Centre-Right Populism) - Slovakia
+  * Sefik Dzaferovic (Centre-Right Nationalism) - Bosnia and Herzegovina
+  
+**Key Elections**
+  * Guyana (Incumbent win, no leader change)
+  * Israel (Incumbent win, no leader change)
+  * Vanuatu (Incumbent loss with leadership change - updated May 4th, 2020)
+    
+**Version Updates (As of April 1st, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s February 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added final outcome information regarding the following elections: Afghanistan 2019, Israel 2020, Guyana 2020
+  * Added correct election date for the following election events: Kiribati 2020
+  * Added information about 2020 election delays for the following countries: Serbia 2020, Russia 2020, North Macedonia 2020, Chile 2020
+  * Changed regime type for Hungary from parliamentary democracy to single-party authoritarianism. This coding change was conducted in light of a recent bill granting the ruling Fidesz party unlimited emergency powers without a timeline (https://www.ft.com/content/0029e6e2-7344-11ea-95fe-fcd274e920ca).
+
+  [Dataset](https://www.dl.dropboxusercontent.com/s/rveyn1c0koqtdqw/REIGN_2020_4.csv?dl=0)
+  
+  [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-april-2020-briefing-bb3aaac4e2bf?source=friends_link&sk=dcce81f8edfd745ab3f51ffa3908bf2c)
+  
+  [COVID-19 REIGN Briefing](https://medium.com/the-die-is-forecast/elections-and-governance-under-covid-19-april-2020-a63505d253fd?source=friends_link&sk=bc92339dc8de7446a22de4e567179cd7)
+  
+
+
 **March 2020 REIGN Dataset: March 3rd, 2020**
 
 **New Leaders**

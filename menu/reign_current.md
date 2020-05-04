@@ -3,37 +3,31 @@ layout: page
 title: REIGN Dataset
 ---
 
-**April 2020 REIGN Dataset: as of April 1st, 2020**
+**May 2020 REIGN Dataset: as of May 4th, 2020**
 
 **New Leaders**
-  * Luis Alberto Lacalle Pou - Centre-Right Christian Democrat (Uruguay)
-  * Muhyiddin Yassin - Centrist Nationalism (Malaysia)
-  * Janez Jansa - Right-wing Populism (Slovenia)
-  * Igor Matovic - Centre-Right Populism (Slovakia)
-  * Sefik Dzaferovic - Centre-Right Nationalism (Bosnia and Herzegovina)
-  
+  * Alessandro Mancini (Social Democratic) and Grazia Zafferani (Environmental/Left-Wing) - San Marino
+  * Bob Loughman (Democratic Socialist) - Vanuatu
   
 **Key Elections**
-  * Guyana (Incumbent win, no leader change)
-  * Israel (Incumbent win, no leader change)
-  * Vanuatu (Unclear outcome, but suggests incumbent victory)
+  * Kiribati (final outcome currently unclear)
     
-**Version Updates (As of April 1st, 2020)**
-  * Updated precipitation (SPI) estimates using NOAA’s February 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Added final outcome information regarding the following elections: Afghanistan 2019, Israel 2020, Guyana 2020
-  * Added correct election date for the following election events: Kiribati 2020
-  * Added information about 2020 election delays for the following countries: Serbia 2020, Russia 2020, North Macedonia 2020, Chile 2020
-  * Changed regime type for Hungary from parliamentary democracy to single-party authoritarianism. This coding change was conducted in light of a recent bill granting the ruling Fidesz party unlimited emergency powers without a timeline (https://www.ft.com/content/0029e6e2-7344-11ea-95fe-fcd274e920ca).
+**Version Updates (As of May 4th, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s March 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Made changes to the inputs for gdp measures related to CoupCast/ELVIS forecasting pipeline. Usually we would update GDP figures using the IMF's World Economic Outlook release for April. However, COVID-19 has substantially disrupted IMF's normal process. As a result we have replaced the original IMF gdp input with gdp PPP in international dollars. 
+  * Updated armed conflict data to reflect new peace-deals for 2020 and added previously uncoded conflicts for the following countries: Libya, Egypt, Ukraine, Cameroon, Iraq, Iran, United States, United Kingdom, Mali, Philippines, Central African Republic, Somalia, Afghanistan
+  * Corrected leadership coding for Austria. Austria was coded as still having intermin Chancellor Bierlein as the chief executive. This has been changed to reflect Kurz's return to the position.
+  * Added previously missed information about elections or election delays for the following countries: Guinea, Bolivia, Ethiopia, Dominican Republic
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_4.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_5.csv) 
 
-Find the most current REIGN update-blog [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-march-2020-briefing-b6664e7334ef)
+Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-april-2020-briefing-bb3aaac4e2bf?source=friends_link&sk=dcce81f8edfd745ab3f51ffa3908bf2c)
 
-### Election and Leader lists (April 2020)
+### Election and Leader lists (May 2020)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_4_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_5_20.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_4_20.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_5_20.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	
