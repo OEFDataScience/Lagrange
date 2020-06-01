@@ -5,6 +5,29 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**May 2020 REIGN Dataset: as of May 4th, 2020**
+
+**New Leaders**
+  * Alessandro Mancini (Social Democratic) and Grazia Zafferani (Environmental/Left-Wing) - San Marino
+  * Bob Loughman (Democratic Socialist) - Vanuatu
+  
+**Key Elections**
+  * Kiribati (final outcome currently unclear)
+    
+**Version Updates (As of May 4th, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s March 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Made changes to the inputs for gdp measures related to CoupCast/ELVIS forecasting pipeline. Usually we would update GDP figures using the IMF's World Economic Outlook release for April. However, COVID-19 has substantially disrupted IMF's normal process. As a result we have replaced the original IMF gdp input with gdp PPP in international dollars. 
+  * Updated armed conflict data to reflect new peace-deals for 2020 and added previously uncoded conflicts for the following countries: Libya, Egypt, Ukraine, Cameroon, Iraq, Iran, United States, United Kingdom, Mali, Philippines, Central African Republic, Somalia, Afghanistan
+  * Corrected leadership coding for Austria. Austria was coded as still having intermin Chancellor Bierlein as the chief executive. This has been changed to reflect Kurz's return to the position.
+  * Added previously missed information about elections or election delays for the following countries: Guinea, Bolivia, Ethiopia, Dominican Republic
+
+  [Dataset](https://www.dl.dropboxusercontent.com/s/av4yn0z0gdcwc82/REIGN_2020_5.csv?dl=0)
+  
+  [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-may-2020-briefing-4d73216e1470?source=friends_link&sk=89839afd4a797567589b3606601a39d9)
+  
+  [COVID-19 REIGN Briefing](https://medium.com/the-die-is-forecast/elections-and-governance-under-covid-19-may-2020-b0f8b9742b1a?source=friends_link&sk=4f50f8ebd261d4d796308bdde0da5525)
+  
+  
 **April 2020 REIGN Dataset: April 1st, 2020**
 
 **New Leaders**

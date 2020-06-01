@@ -3,31 +3,33 @@ layout: page
 title: REIGN Dataset
 ---
 
-**May 2020 REIGN Dataset: as of May 4th, 2020**
+**June 2020 REIGN Dataset: as of June 1st, 2020**
 
 **New Leaders**
-  * Alessandro Mancini (Social Democratic) and Grazia Zafferani (Environmental/Left-Wing) - San Marino
-  * Bob Loughman (Democratic Socialist) - Vanuatu
+  * Mustafa al-Kadhimi (Independent) - Iraq
+  * Moeketsi Majoro, PhD. (Liberal) - Lesotho
   
 **Key Elections**
-  * Kiribati (final outcome currently unclear)
+  * Burundi (Ruling party victory with leader change)
+  * Suriname (Opposition victory with likely leader change)
     
 **Version Updates (As of May 4th, 2020)**
-  * Updated precipitation (SPI) estimates using NOAA’s March 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Made changes to the inputs for gdp measures related to CoupCast/ELVIS forecasting pipeline. Usually we would update GDP figures using the IMF's World Economic Outlook release for April. However, COVID-19 has substantially disrupted IMF's normal process. As a result we have replaced the original IMF gdp input with gdp PPP in international dollars. 
-  * Updated armed conflict data to reflect new peace-deals for 2020 and added previously uncoded conflicts for the following countries: Libya, Egypt, Ukraine, Cameroon, Iraq, Iran, United States, United Kingdom, Mali, Philippines, Central African Republic, Somalia, Afghanistan
-  * Corrected leadership coding for Austria. Austria was coded as still having intermin Chancellor Bierlein as the chief executive. This has been changed to reflect Kurz's return to the position.
-  * Added previously missed information about elections or election delays for the following countries: Guinea, Bolivia, Ethiopia, Dominican Republic
+  * Updated precipitation (SPI) estimates using NOAA’s April 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added election delays for the following countries: Poland, Malawi
+  * Added previously missing election event for St. Kitts and Nevis
+
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_5.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_6.csv) 
 
-Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-april-2020-briefing-bb3aaac4e2bf?source=friends_link&sk=dcce81f8edfd745ab3f51ffa3908bf2c)
+Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-may-2020-briefing-4d73216e1470?source=friends_link&sk=89839afd4a797567589b3606601a39d9)
 
-### Election and Leader lists (May 2020)
+Find the most current COVID-19 REIGN briefing [here](https://medium.com/the-die-is-forecast/elections-and-governance-under-covid-19-may-2020-b0f8b9742b1a?source=friends_link&sk=4f50f8ebd261d4d796308bdde0da5525)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_5_20.csv)
+### Election and Leader lists (June 2020)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_5_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_6_20.csv)
+
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_6_20.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	
