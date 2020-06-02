@@ -21,9 +21,8 @@ title: REIGN Dataset
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_6.csv) 
 
-Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-may-2020-briefing-4d73216e1470?source=friends_link&sk=89839afd4a797567589b3606601a39d9)
+Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-june-2020-briefing-40e006979ac7?source=friends_link&sk=3f157922a09bd4999c0a6e0a94104857)
 
-Find the most current COVID-19 REIGN briefing [here](https://medium.com/the-die-is-forecast/elections-and-governance-under-covid-19-may-2020-b0f8b9742b1a?source=friends_link&sk=4f50f8ebd261d4d796308bdde0da5525)
 
 ### Election and Leader lists (June 2020)
 
