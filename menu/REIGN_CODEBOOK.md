@@ -3,6 +3,7 @@ title: "Rulers, Elections and Irregular Governance Dataset (REIGN) Codebook"
 author: "Clayton Besaw (cbesaw@oneearthfuture.org)"
 date: 'June 3, 2020'
 output: html_document
+layout: page
 ---
 
 ```{R include=FALSE}
