@@ -34,7 +34,6 @@ Find the most current REIGN briefing [here](https://medium.com/the-die-is-foreca
 	
 ### Codebook and Technical Notes
 
-[Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_codebook.pdf)
 
 [Technical Notes](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_notes.pdf)
 
