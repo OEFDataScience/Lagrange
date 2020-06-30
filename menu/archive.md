@@ -5,6 +5,25 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**June 2020 REIGN Dataset: as of June 1st, 2020
+
+**New Leaders**
+  * Mustafa al-Kadhimi (Independent) - Iraq
+  * Moeketsi Majoro, PhD. (Liberal) - Lesotho
+  
+**Key Elections**
+  * Burundi (Ruling party victory with leader change)
+  * Suriname (Opposition victory with likely leader change)
+    
+**Version Updates (As of June 1st, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s April 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added election delays for the following countries: Poland, Malawi
+  * Added previously missing election event for St. Kitts and Nevis
+  
+ [Dataset](https://www.dropbox.com/s/n79aswbg3hffyn9/REIGN_2020_6.csv?dl=0)
+  
+ [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-june-2020-briefing-40e006979ac7?source=friends_link&sk=3f157922a09bd4999c0a6e0a94104857)
+
 **May 2020 REIGN Dataset: as of May 4th, 2020**
 
 **New Leaders**
