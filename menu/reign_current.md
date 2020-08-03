@@ -22,7 +22,7 @@ title: REIGN Dataset
 **Version Updates (As of August 3rd, 2020)**
   * Updated precipitation (SPI) estimates using NOAA’s June 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
   * Corrected election dates for the following countries: Belarus, New Zealand
-  * MAJOR UPDATE: Starting last year our team made an effort to audit our full election list to correct for potential miscodings surrounding election types, dates and outcomes. As a result, 156 corrections have been made to both the election list and our August 2020 REIGN data. You can find a table of changes made [here](menu/AUDIT_CHANGES.html)
+  * MAJOR UPDATE: Starting last year our team made an effort to audit our full election list to correct for potential miscodings surrounding election types, dates and outcomes. As a result, 156 corrections have been made to both the election list and our August 2020 REIGN data. You can find a table of changes made [here](AUDIT_CHANGES.html)
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_8.csv) 
 
