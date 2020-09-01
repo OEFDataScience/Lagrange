@@ -5,6 +5,32 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**August 2020 REIGN Dataset: as of August 3rd, 2020**
+
+**New Leaders in July 2020**
+  * Surprisngly, no key executive leadership changes in the month of July.
+  
+**Key July 2020 Election Outcomes**
+  * Croatia (Incumbent victory with no leader change) - July 5
+  * Dominican Republic (Incumbent loss with leadership change) - July 5
+  * North Macedonia (Outcome to be determined) - July 15
+  * Poland (Incumbent victory with no leader change) - July 12
+  * Russia (Constitutional referendum passed) - July 1
+  
+**Key August 2020 Elections**
+  * Belarus (Presidential election) - August 9
+  * Montenegro (Legislative election) - August 30 (deadline)
+    
+**Version Updates (As of August 3rd, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s June 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Corrected election dates for the following countries: Belarus, New Zealand
+  * MAJOR UPDATE: Starting last year our team made an effort to audit our full election list to correct for potential miscodings surrounding election types, dates and outcomes. As a result, 156 corrections have been made to both the election list and our August 2020 REIGN data. You can find a table of changes made [here](AUDIT_CHANGES.html). Credit to OEF Researcher [Matthew Frank](https://oneearthfuture.org/program/open-nuclear-network/staff/matthew-frank) for leading our elections audit.
+
+  [Dataset](https://www.dl.dropboxusercontent.com/s/7z9m0lw1wwjhk60/REIGN_2020_8.csv?dl=0)
+  
+  [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-august-2020-briefing-12e68137c4b0?source=friends_link&sk=21454a1908ebc89115cb9e9936bac3d7)
+  
+  
 **July 2020 REIGN Dataset: as of July 1st, 2020**
 
 **New Leaders**
