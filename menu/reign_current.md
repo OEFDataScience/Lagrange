@@ -8,7 +8,7 @@ title: REIGN Dataset
 **New Leaders in September 2020**
   * Yoshihide Suga (Centre-right/right) - Japan
   * Bah Ndaw or N'Daw (Military transitional government) - Mali
-  * Nawaf Al-Ahmad Al-Jaber Al-Sabah (Hereditary monarch) - Dominican Republic
+  * Nawaf Al-Ahmad Al-Jaber Al-Sabah (Hereditary monarch) - Kuwait
 
   
 **Key September 2020 Election Outcomes**
