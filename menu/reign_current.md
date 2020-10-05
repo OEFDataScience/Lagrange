@@ -3,40 +3,46 @@ layout: page
 title: REIGN Dataset
 ---
 
-**September 2020 REIGN Dataset: as of September 1st, 2020**
+**October 2020 REIGN Dataset: as of October 5th, 2020**
 
-**New Leaders in August 2020**
-  * Mohamed Irfaan Ali (Centre-left/left) - Guyana
-  * Zoran Zaev (Centre-left) - North Macedonia
-  * Luis Abinader (Centre/Centre-left) - Dominican Republic
-  * Col. Assimi Goita (Malian Armed Forces) - Mali 
+**New Leaders in September 2020**
+  * Yoshihide Suga (Centre-right/right) - Japan
+  * Bah Ndaw or N'Daw (Military transitional government) - Mali
+  * Nawaf Al-Ahmad Al-Jaber Al-Sabah (Hereditary monarch) - Dominican Republic
+
   
-**Key August 2020 Election Outcomes**
-  * Belarus (Incumbent victory with no leadership change *contested*) - August 9
-  * Trinidad and Tobago (Incumbent victory with no leadership change) - August 10
-  * Montenegro (Outcome unclear as of September 1st) - August 30
+**Key September 2020 Election Outcomes**
+  * Jamaica (Incumbent victory with no leadership change) - September 3
+
   
-**Key September 2020 Elections**
-  * Jamaica (General election) - September 3
+**Key October 2020 Elections**
+  * Bolivia (General election) - October 18
+  * Chile (Referendum) - October 25
+  * Ivory Coast (General election) - October 31
+  * Georgia (Parliamentary election) - October 31
+  * Guinea (Presidential election) - October 18
+  * New Zealand (General election) - October 17
+  * Tanzania (General election) - October 28
+  * Tajikistan (Presidential election) - October 11
+  * Seychelles (Presidential election) - October 22
 
     
-**Version Updates (As of September 1st, 2020)**
-  * Updated precipitation (SPI) estimates using NOAA’s July 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Corrected election dates for the following countries: New Zealand
-  * Added previously missing 2020 election events in the following countries: Singapore, Jamaica
-  * Added final outcome information for the following election events: Guyana, North Macedonia 
-  * Regime changes: Mali changed from presidential to transitional militiary following a successful coup event
+**Version Updates (As of October 5th, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s August 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added new data for infant mortality rate from the World Bank. Future IMR forecasts now based on data up to 2019. 
+  * Corrected election dates for the following countries: Tajikistan, Seychelles
+  * Added final outcome information for the following election events: Belgium
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_9.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_10.csv) 
 
-Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-august-2020-briefing-12e68137c4b0?source=friends_link&sk=21454a1908ebc89115cb9e9936bac3d7)
+Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-september-2020-briefing-d8e8f831f0cc?source=friends_link&sk=2b9dbfcbeb532224ddc7a6eace7296b8)
 
 
-### Election and Leader lists (September 2020)
+### Election and Leader lists (October 2020)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_9_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_10_20.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_9_20.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_10_20.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	

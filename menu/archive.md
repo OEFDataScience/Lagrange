@@ -5,6 +5,33 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**September 2020 REIGN Dataset: as of September 1st, 2020**
+
+**New Leaders in August 2020**
+  * Mohamed Irfaan Ali (Centre-left/left) - Guyana
+  * Zoran Zaev (Centre-left) - North Macedonia
+  * Luis Abinader (Centre/Centre-left) - Dominican Republic
+  * Col. Assimi Goita (Malian Armed Forces) - Mali 
+  
+**Key August 2020 Election Outcomes**
+  * Belarus (Incumbent victory with no leadership change *contested*) - August 9
+  * Trinidad and Tobago (Incumbent victory with no leadership change) - August 10
+  * Montenegro (Outcome unclear as of September 1st) - August 30
+  
+**Key September 2020 Elections**
+  * Jamaica (General election) - September 3
+
+**Version Updates (As of September 1st, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s July 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Corrected election dates for the following countries: New Zealand
+  * Added previously missing 2020 election events in the following countries: Singapore, Jamaica
+  * Added final outcome information for the following election events: Guyana, North Macedonia 
+  * Regime changes: Mali changed from presidential to transitional militiary following a successful coup event
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/pe3jyjzg0mdcn1w/REIGN_2020_9.csv?dl=0)
+  
+  [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-september-2020-briefing-d8e8f831f0cc?source=friends_link&sk=2b9dbfcbeb532224ddc7a6eace7296b8)
+
 **August 2020 REIGN Dataset: as of August 3rd, 2020**
 
 **New Leaders in July 2020**
