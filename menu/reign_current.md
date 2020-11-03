@@ -3,46 +3,52 @@ layout: page
 title: REIGN Dataset
 ---
 
-**October 2020 REIGN Dataset: as of October 5th, 2020**
+**November 2020 REIGN Dataset: as of November 3rd, 2020**
 
-**New Leaders in September 2020**
-  * Yoshihide Suga (Centre-right/right) - Japan
-  * Bah Ndaw or N'Daw (Military transitional government) - Mali
-  * Nawaf Al-Ahmad Al-Jaber Al-Sabah (Hereditary monarch) - Kuwait
-
-  
-**Key September 2020 Election Outcomes**
-  * Jamaica (Incumbent victory with no leadership change) - September 3
+**New Leaders in October 2020**
+  * Alexander De Croo (Centre-right) - Belgium
+  * Alessandro Cardelli and Mirko Dolcini (Centrist and Independent) - Captains Regent of San Marino
+  * Sadyr Japarov (Populist but unclear political compass) - Kyrgyzstan
+  * Wavel Ramkalawan (Liberal/centre) - Seychelles 
 
   
-**Key October 2020 Elections**
-  * Bolivia (General election) - October 18
-  * Chile (Referendum) - October 25
-  * Ivory Coast (General election) - October 31
-  * Georgia (Parliamentary election) - October 31
-  * Guinea (Presidential election) - October 18
-  * New Zealand (General election) - October 17
-  * Tanzania (General election) - October 28
-  * Tajikistan (Presidential election) - October 11
-  * Seychelles (Presidential election) - October 22
+**Key October 2020 Election Outcomes**
+  * Bolivia (Incumbent loss, leadership change) - October 18
+  * Chile (Constitutional referendum approved) - October 25
+  * Guinea (Incumbent victory, no leadership change) - October 18
+  * New Zealand (Incumbent victory, no leadership change) - October 17
+  * Seychelles (Incumbent loss, leadership change) - October 22 - 24
+  * Tajikistan (Incumbent victory, no leadership change) - October 11
+  * Tanzania (Incumbent victory, no leadership change) - October 28
+  * Georgia (Election goes to run-off round in November) - October 31
+  * Ivory Coast (Incumbent victory, no leadership change) - October 31
+
+  
+**Key November 2020 Elections**
+  * Algeria (Referendum) - November 1
+  * Belize (Legislative) - November 11
+  * Burkina Faso (Referendum and Presidential) - November 22
+  * Myanmar (Legislative) - November 8
+  * Palau (Presidential) - November 3
+  * United States (Presidential) - November 3
 
     
-**Version Updates (As of October 5th, 2020)**
-  * Updated precipitation (SPI) estimates using NOAA’s August 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Added new data for infant mortality rate from the World Bank. Future IMR forecasts now based on data up to 2019. 
-  * Corrected election dates for the following countries: Tajikistan, Seychelles
-  * Added final outcome information for the following election events: Belgium
+**Version Updates (As of November 3rd, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s September 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added new ground-truth and projected GDP estimates using the IMF's October 2020 World Economic Outlook projections and the World Bank's 2019 estimates.
+  * Added new population data based on the IMF's October 2020 World Economic Outlook projections.
+  * Added previously  missing election events for the following countries: Algeria
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_10.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_11.csv) 
 
 Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-october-2020-briefing-2b6d14c44da3?source=friends_link&sk=cf826fbe324502952023b9dede751402)
 
 
-### Election and Leader lists (October 2020)
+### Election and Leader lists (November 2020)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_10_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_11_20.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_10_20.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_11_20.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	

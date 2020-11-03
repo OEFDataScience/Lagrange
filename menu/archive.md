@@ -5,6 +5,40 @@ title: REIGN Archive
 
 Please find past REIGN data and update-blogs here:
 
+**October 2020 REIGN Dataset: as of October 5th, 2020**
+
+**New Leaders in September 2020**
+  * Yoshihide Suga (Centre-right/right) - Japan
+  * Bah Ndaw or N'Daw (Military transitional government) - Mali
+  * Nawaf Al-Ahmad Al-Jaber Al-Sabah (Hereditary monarch) - Kuwait
+
+  
+**Key September 2020 Election Outcomes**
+  * Jamaica (Incumbent victory with no leadership change) - September 3
+
+  
+**Key October 2020 Elections**
+  * Bolivia (General election) - October 18
+  * Chile (Referendum) - October 25
+  * Ivory Coast (General election) - October 31
+  * Georgia (Parliamentary election) - October 31
+  * Guinea (Presidential election) - October 18
+  * New Zealand (General election) - October 17
+  * Tanzania (General election) - October 28
+  * Tajikistan (Presidential election) - October 11
+  * Seychelles (Presidential election) - October 22
+
+    
+**Version Updates (As of October 5th, 2020)**
+  * Updated precipitation (SPI) estimates using NOAA’s August 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Added new data for infant mortality rate from the World Bank. Future IMR forecasts now based on data up to 2019. 
+  * Corrected election dates for the following countries: Tajikistan, Seychelles
+  * Added final outcome information for the following election events: Belgium
+  
+  [Dataset](https://www.dl.dropboxusercontent.com/s/tmatyazqo0xc7ly/REIGN_2020_10.csv?dl=0)
+  
+  [REIGN Briefing](https://medium.com/the-die-is-forecast/international-elections-and-leaders-october-2020-briefing-2b6d14c44da3?source=friends_link&sk=cf826fbe324502952023b9dede751402)
+
 **September 2020 REIGN Dataset: as of September 1st, 2020**
 
 **New Leaders in August 2020**

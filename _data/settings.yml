@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'REIGN October 2020 (Download Data)', path: 'menu', url: 'reign_current.html'}
+- {name: 'REIGN November 2020 (Download Data)', path: 'menu', url: 'reign_current.html'}
 - {name: 'Codebook', path: 'menu', url: 'REIGN_CODEBOOK.html'}
 - {name: 'Archive', path: 'menu', url: 'archive.html'}
 # blogs are a maybe, just a placeholder for now.
