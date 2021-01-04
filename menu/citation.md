@@ -1,4 +1,3 @@
-## Citations:
 
 *When using REIGN, please use the following citation:*
 

@@ -13,6 +13,8 @@ please contact Clayton Besaw (cbesaw@oneearthfuture.org) with your request.
   * Added new 2019 numbers from [UCDP's Georeferenced Event Dataset](https://ucdp.uu.se/downloads/) for political violence indicator forecast. 
   * Fixed election information for elections in the following countries: St Vincent, Niger
   * Fixed leadership information for the following countries: Malta
+  * Substantially changed GitHub repo site for REIGN data to include new citation information, access to ELVI, new versioning information
+  * We have discontinued our online archive for monthly leader/election update information. This information is accessible through REIGN itself and the data should be consulted for historical leadership start dates and election outcomes.
   
 # PREVIOUS VERSION NOTES  
 

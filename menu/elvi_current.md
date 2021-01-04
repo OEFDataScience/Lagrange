@@ -3,7 +3,7 @@ layout: page
 title: ELVI Dataset
 ---
 
-![](assets/img/ELVI_TRENDS_2021_1.png?raw=true)
+![](assets/img/ELVI_PLOT.png?raw=true)
 *Last updated January 5, 2021
 
 **January 2021 ELVI Dataset: as of January 5th, 2021**

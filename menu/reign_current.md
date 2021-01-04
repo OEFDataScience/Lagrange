@@ -18,13 +18,6 @@ title: REIGN Dataset
   * Uganda (Executive) - January 14
   * Portugal (Executive) - January 24
   * Kosovo (Legislative) - January 30 Deadline
- 
-**Version Updates (As of January 5, 2021)**
-  * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Audited and updated inter-state conflict statuses for end of 2020. 
-  * Added new 2019 numbers from [UCDP's Georeferenced Event Dataset](https://ucdp.uu.se/downloads/) for political violence indicator forecast. 
-  * Fixed election information for elections in the following countries: St Vincent, Niger
-  * Fixed leadership information for the following countries: Malta
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2021_1.csv) 
 
