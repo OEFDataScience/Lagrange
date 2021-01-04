@@ -1,4 +1,6 @@
 
+## Citations
+
 *When using REIGN, please use the following citation:*
 
 Bell, Curtis, Besaw, Clayton., Frank, Matthew. 2021. The Rulers, Elections, and Irregular Governance (REIGN) Dataset. Broomfield, CO: One Earth Future. Available at https://oefdatascience.github.io/REIGN.github.io/

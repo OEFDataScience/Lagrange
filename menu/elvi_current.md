@@ -3,12 +3,10 @@ layout: page
 title: ELVI Dataset
 ---
 
-![](assets/img/ELVI_PLOT.png?raw=true)
-*Last updated January 5, 2021
 
-**January 2021 ELVI Dataset: as of January 5th, 2021**
+**January 2021 ELVI Dataset (Updated as of January 5):**
 
-**January 2021 Election Violence Forecast**
+**January Election Violence Forecast**
   * Kyrgyz Republic (January 10) - 46% chance of violence
   * Uganda (January 14) - 92% chance of violence
   * Kazakhstan (January 21) - 27% chance of violence
