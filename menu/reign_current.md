@@ -3,59 +3,48 @@ layout: page
 title: REIGN Dataset
 ---
 
-**November 2020 REIGN Dataset: as of November 3rd, 2020**
+**January 2021 REIGN Dataset: as of January 5th, 2021**
 
-**New Leaders in October 2020**
-  * Alexander De Croo (Centre-right) - Belgium
-  * Alessandro Cardelli and Mirko Dolcini (Centrist and Independent) - Captains Regent of San Marino
-  * Sadyr Japarov (Populist but unclear political compass) - Kyrgyzstan
-  * Wavel Ramkalawan (Liberal/centre) - Seychelles 
-
+**New Leaders in December 2020**
+  * Zdravko Krivokaptic (Independent) - Montenegro 
   
-**Key October 2020 Election Outcomes**
-  * Bolivia (Incumbent loss, leadership change) - October 18
-  * Chile (Constitutional referendum approved) - October 25
-  * Guinea (Incumbent victory, no leadership change) - October 18
-  * New Zealand (Incumbent victory, no leadership change) - October 17
-  * Seychelles (Incumbent loss, leadership change) - October 22 - 24
-  * Tajikistan (Incumbent victory, no leadership change) - October 11
-  * Tanzania (Incumbent victory, no leadership change) - October 28
-  * Georgia (Election goes to run-off round in November) - October 31
-  * Ivory Coast (Incumbent victory, no leadership change) - October 31
-
+**Key December 2020 Election Outcomes**
+  * Central African Republic (Incumbent victory, no leader change) - December 27
+  * Ghana (Incumbent victory, no leader change) - December 7
+  * Niger (No victor, run-off round required) - December 27
   
-**Key November 2020 Elections**
-  * Algeria (Referendum) - November 1
-  * Belize (Legislative) - November 11
-  * Burkina Faso (Referendum and Presidential) - November 22
-  * Myanmar (Legislative) - November 8
-  * Palau (Presidential) - November 3
-  * United States (Presidential) - November 3
-
-    
-**Version Updates (As of November 3rd, 2020)**
-  * Updated precipitation (SPI) estimates using NOAA’s September 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
-  * Added new ground-truth and projected GDP estimates using the IMF's October 2020 World Economic Outlook projections and the World Bank's 2019 estimates.
-  * Added new population data based on the IMF's October 2020 World Economic Outlook projections.
-  * Added previously  missing election events for the following countries: Algeria
+**Key January 2021 Elections**
+  * Kyrgz Republic (Executive) - January 10
+  * Uganda (Executive) - January 14
+  * Portugal (Executive) - January 24
+  * Kosovo (Legislative) - January 30 Deadline
+ 
+**Version Updates (As of January 5, 2021)**
+  * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
+  * Audited and updated inter-state conflict statuses for end of 2020. 
+  * Added new 2019 numbers from [UCDP's Georeferenced Event Dataset](https://ucdp.uu.se/downloads/) for political violence indicator forecast. 
+  * Fixed election information for elections in the following countries: St Vincent, Niger
+  * Fixed leadership information for the following countries: Malta
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2020_11.csv) 
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2021_1.csv) 
 
 Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-october-2020-briefing-2b6d14c44da3?source=friends_link&sk=cf826fbe324502952023b9dede751402)
 
 
-### Election and Leader lists (November 2020)
+### Election and Leader lists (January 2020)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_11_20.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_1_21.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_11_20.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_1_21.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	
-### Technical Notes
+### Codebook and Notes
 
+[Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/REIGN_CODEBOOK.html)
 
 [Technical Notes](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_notes.pdf)
+
 
 
 ### Questions?
