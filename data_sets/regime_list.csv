@@ -1,608 +1,624 @@
-cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype,notes
-2,USA,USA9/1/1787,3/4/1789,12/31/2020,presidential,Presidential
-20,Cananda,Cananda11668,12/11/1931,12/31/2020,parliamentary,Parliamentary
-31,Bahamas,Bahamas6/30/1973,6/30/1973,12/31/2020,parliamentary,Parliamentary
-40,Cuba,Cuba12298,10/10/1940,3/10/1952,presidential,"Presidential, dominated by Batista"
-40,Cuba,Cuba19063,3/10/1952,1/1/1959,personal,Batista dictatorship
-40,Cuba,Cuba21551,1/1/1959,12/31/2020,party-personal,Castro/Communist
-41,Haiti,Haiti17030,8/16/1946,5/10/1950,presidential,Estime's regime
-41,Haiti,Haiti18393,5/10/1950,12/12/1956,personal,Magloire
-41,Haiti,Haiti20801,12/12/1956,4/2/1957,provisional military,Set-up by military
-41,Haiti,Haiti20912,4/2/1957,5/20/1957,military,"Brief reign by an executive military council, before overthrow by Cantave"
-41,Haiti,Haiti20966,5/20/1957,6/14/1957,provisional military,"Transitional government under Fignole/Cantave, overthrown by Kebreau"
-41,Haiti,Haiti20985,6/14/1957,2/7/1986,personal,Duvalier dictatorship
-41,Haiti,Haiti31450,2/7/1986,2/7/1988,provisional military,"Duvalier overthrown, transition government in place."
-41,Haiti,Haiti20000,2/7/1988,9/17/1988,military,Namphy overthrown
-41,Haiti,Haiti32403,9/17/1988,3/10/1990,military personal,"Overthrown again, Avril dictatorship"
-41,Haiti,Haiti32942,3/10/1990,2/7/1991,provisional,"Transitional government, following overthrow of Avril"
-41,Haiti,Haiti33276,2/7/1991,9/30/1991,presidential,Democratic under Aristide
-41,Haiti,Haiti33511,9/30/1991,10/12/1994,military,Cedras
-41,Haiti,Haiti34619,10/12/1994,1/12/1999,presidential,Preval
-41,Haiti,Haiti36172,1/12/1999,2/29/2004,personal,Aristide consolidates control. Overthrown.
-41,Haiti,Haiti38046,2/29/2004,5/14/2006,provisional,provisional government following Aristide's ouster
-41,Haiti,Haiti38851,5/14/2006,2/8/2016,presidential,Presidential democracy
-41,Haiti,Haiti38852,2/8/2016,2/7/2017,provisional,civilian provisional after multiple cancelled lections
-41,Haiti,Haiti40000,2/7/2017,12/31/2020,presidential,Presidential democracy
-42,Dominican Rep,Dominican Rep11186,8/16/1930,12/29/1961,personal,Trujillo dictatorship.
-42,Dominican Rep,Dominican Rep22644,12/29/1961,1/19/1962,provisional,Post-assassination transitional regime.
-42,Dominican Rep,Dominican Rep22665,1/19/1962,2/27/1963,foreign-occupied,US occupies DR
-42,Dominican Rep,Dominican Rep23069,2/27/1963,9/26/1963,presidential,"Bosch wins election, begins brief democratic period."
-42,Dominican Rep,Dominican Rep23280,9/26/1963,4/24/1965,military,Bosch ousted. Military takes power.
-42,Dominican Rep,Dominican Rep23856,4/24/1965,7/1/1966,foreign-occupied,OAS intervention to force elections.
-42,Dominican Rep,Dominican Rep24289,7/1/1966,5/16/1978,personal,"Balaguer personalit regime, faux elections."
-42,Dominican Rep,Dominican Rep28626,5/16/1978,12/31/2020,presidential,Balaguer's defeat in a f&f election signals beginning of democratic period. (presidential)
-51,Jamaica,Jamaica22833,7/6/1962,12/31/2020,parliamentary,parliamentary
-52,Trinidad and Tobago,Trinidad and Tobago22858,7/31/1962,12/31/2020,parliamentary,parliamentary
-53,Barbados,Barbados24368,10/30/1966,12/31/2020,parliamentary,parliamentary
-54,Dominica,Dominica28766,10/3/1978,12/31/2020,parliamentary,parliamentary
-55,Grenada,Grenada27036,1/7/1974,3/13/1979,parliamentary,parliamentary
-55,Grenada,Grenada28927,3/13/1979,10/19/1983,personal,dictatorship of Maurice Bishop
-55,Grenada,Grenada30608,10/19/1983,10/25/1983,military,"coup overthrows and executes bishop, US invaded in October."
-55,Grenada,Grenada20650,10/25/1983,12/9/1983,foreign-occupied,US occupation
-55,Grenada,Grenada30659,12/9/1983,12/4/1984,provisional,provisional government established after US invasion
-55,Grenada,Grenada31020,12/4/1984,12/31/2020,parliamentary,Parliamentary
-56,St Lucia,St Lucia28877,1/22/1979,12/31/2020,parliamentary,Parliamentary
-57,St Vincent,St Vincent29125,9/27/1979,12/31/2020,parliamentary,Parliamentary
-58,Antigua and Barbuda,Antigua and Barbuda29860,10/1/1981,12/31/2020,parliamentary,Parliamentary
-60,St Kitts and Nevis,St Kitts and Nevis30547,8/19/1983,12/31/2020,parliamentary,Parliamentary
-70,Mexico,Mexico5693,8/2/1915,7/2/2000,party-based,PRI single party state
-70,Mexico,Mexico36709,7/2/2000,12/31/2020,presidential,Presidential democracy
-80,Belize,Belize22319,8/1/1981,12/31/2020,parliamentary,Parliamentary
-90,Guatemala,Guatemala16510,3/14/1945,6/27/1954,presidential,Presidential democracy after US occupation
-90,Guatemala,Guatemala19902,6/27/1954,7/8/1954,military,Democracy overthrown in US backed coup.
-90,Guatemala,Guatemala19913,7/8/1954,7/20/1957,personal,Sham plebiscite brings Armas to power
-90,Guatemala,Guatemala21021,7/20/1957,10/28/1957,provisional military,"Armas assassinated, transition to election led by civilian named Gonzalez Lopez."
-90,Guatemala,Guatemala21121,10/28/1957,3/2/1958,military,Coup just days after the 1957 election.
-90,Guatemala,Guatemala21246,3/2/1958,3/30/1963,personal,Avendano in as a puppet until the Jan 1958 election legitimized Fuente
-90,Guatemala,Guatemala23100,3/30/1963,5/10/1966,military,"Fuente overthrown, this is the Peralta Azurdia dictatorship"
-90,Guatemala,Guatemala24237,5/10/1966,3/1/1970,indirect military,"Azurdia organized the election of Mendez, a civilian puppet"
-90,Guatemala,Guatemala25628,3/1/1970,3/23/1982,military,Return to direct military rule by Arana and successors
-90,Guatemala,Guatemala25999,3/23/1982,8/8/1983,military,Rios Montt regime following coup
-90,Guatemala,Guatemala 26000,8/8/1983,1/14/1986,military,Victores regime following coup
-90,Guatemala,Guatemala31426,1/14/1986,6/1/1993,indirect military,"Elections, but military controls everything"
-90,Guatemala,Guatemala34121,6/1/1993,11/12/1995,provisional,Transitional government following Serrano's self-coup failed
-90,Guatemala,Guatemala35015,11/12/1995,12/31/2020,presidential,Presidential
-91,Honduras,Honduras12086,2/1/1933,11/15/1954,party-personal,PNH control
-91,Honduras,Honduras19739,11/15/1954,10/21/1956,personal,Lozano dictatorship
-91,Honduras,Honduras20749,10/21/1956,12/21/1957,provisional military,Military provisional following coup that ousted Lozano
-91,Honduras,Honduras21175,12/21/1957,10/3/1963,presidential,Military overthrows government shortly before second election (six year cycle)
-91,Honduras,Honduras23287,10/3/1963,3/28/1971,party-military,Military rules through a constituent assembly.
-91,Honduras,Honduras26020,3/28/1971,12/4/1972,presidential,Brief democratic spell under Ucles ended by another Arellano coup
-91,Honduras,Honduras26637,12/4/1972,4/22/1975,military,Lopez Arellano dictatorship
-91,Honduras,Honduras27000,4/22/1975,8/7/1978,military,Melgar Castro dictatorship
-91,Honduras,Honduras28000,8/7/1978,11/29/1981,military,Paz Garcia dictatorship
-91,Honduras,Honduras29919,11/29/1981,12/31/2020,presidential,Presidential
-92,El Salvador,El Salvador17881,12/14/1948,9/14/1950,military,Came into power after coup in 1948
-92,El Salvador,El Salvador18520,9/14/1950,10/26/1960,party-military,Military party dominates flawed elections in 1950 and 1956. Overthrown 10/26/60
-92,El Salvador,El Salvador22215,10/26/1960,1/25/1962,military,junta leaders hold power and organize militarized one-party state
-92,El Salvador,El Salvador22671,1/25/1962,10/15/1979,party-military,one party state under party of national conciliation
-92,El Salvador,El Salvador230000,10/15/1979,5/2/1982,military,junta came into power by coup
-92,El Salvador,ElSalvador240000,5/2/1982,6/1/1989,indirect military,military-CIA backed candidates in presidential system
-92,El Salvador,El Salvador30834,6/1/1989,12/31/2020,presidential,Presidential system
-93,Nicaragua,Nicaragua13516,1/1/1937,7/17/1979,personal,Somoza dictatorship
-93,Nicaragua,Nicaragua29053,7/17/1979,2/25/1990,party-based,Sandanista Regime
-93,Nicaragua,Nicaragua32929,2/25/1990,12/31/2020,presidential,Presidential
-94,Costa Rica,Costa Rica18210,11/8/1949,12/31/2020,presidential,Presidential
-95,Panama,Panama18226,11/24/1949,5/10/1951,personal,Arosomena/ Remon
-95,Panama,Panama18758,5/10/1951,10/1/1952,provisional military,Remon
-95,Panama,Panama19268,10/1/1952,1/3/1955,party-personal-military,"Remon elected, assassinated in 1955"
-95,Panama,Panama20092,1/3/1955,10/1/1960,party-based,"Post-Remon, regime carries on as PNC party"
-95,Panama,Panama22190,10/1/1960,10/11/1968,presidential,Presidential
-95,Panama,Panama25122,10/11/1968,3/3/1982,military personal,"Torrijos regime (there were presidential elections, but his title was ""maximum leader"""
-95,Panama,Panama30013,3/3/1982,12/20/1989,military personal,"Paredes/Noriega dictatorship, 1984/89 elections for lower ranking officials"
-95,Panama,Panama32862,12/20/1989,12/31/2020,presidential,Presidential
-100,Colombia,Colombia18211,11/9/1949,6/13/1953,party-based,Conservative Party domination
-100,Colombia,Colombia19523,6/13/1953,5/10/1958,military personal,"Military coup brings brings Rojas to power, overthrown again in 1957."
-100,Colombia,Colombia21315,5/10/1958,12/31/2020,presidential,National Front agreement and then competitive presidential democracy
-101,Venezuela,Venezuela17861,11/24/1948,1/23/1958,military personal,Jimenez military dictatorship
-101,Venezuela,Venezuela21208,1/23/1958,12/4/2005,presidential,Presidential Democracy
-101,Venezuela,Venezuela38690,12/4/2005,12/31/2020,personal,Chavez/Maduro dictatorship
-110,Guyana,Guyana24223,4/26/1966,10/9/1992,party-based,PNC one-party state
-110,Guyana,Guyana33886,10/9/1992,12/31/2020,parliamentary,Parliamentary dem. Parliament elects the PRESIDENT
-115,Suriname,Suriname27692,10/25/1975,2/15/1980,party-based,One-Party state until military coup
-115,Suriname,Suriname29266,2/15/1980,1/25/1988,indirect military,"military holds power through the 80s, organizes elections in 1988"
-115,Suriname,Suriname32167,1/25/1988,12/24/1990,parliamentary,Shankar overthrown in telephone coup
-115,Suriname,Suriname33000,12/24/1990,9/16/1991,provisional military,brief military regime until elections are organized
-115,Suriname,Suriname34000,9/16/1991,12/31/2020,parliamentary,Parliament elects a PRESIDENT.
-130,Ecuador,Ecuador17777,9/1/1948,7/11/1963,presidential,"Presidential, ended by anti-Velasco coup in 1961 and anti-Arosemena coup of 1963"
-130,Ecuador,Ecuador23203,7/11/1963,3/29/1966,military,Military junta fell during student/leftist protests in 1966
-130,Ecuador,Ecuador24195,3/29/1966,9/1/1968,provisional,Civilian provisional government organized 1968 elections.
-130,Ecuador,Ecuador25082,9/1/1968,6/22/1970,presidential,"Presidential, short-lived."
-130,Ecuador,Ecuador25741,6/22/1970,2/15/1972,personal,Velasco dictatorship. Overthrown in a coup
-130,Ecuador,Ecuador26344,2/15/1972,1/11/1976,military,Junta under Lara
-130,Ecuador,Ecuador 27000,1/11/1976,4/29/1979,military,Junta under Conzalez Alvear
-130,Ecuador,Ecuador28974,4/29/1979,12/31/2020,presidential,Presidential
-135,Peru,Peru17833,10/27/1948,6/17/1956,military personal,Odria dictatorship
-135,Peru,Peru20623,6/17/1956,7/18/1962,presidential,Military overthrows government after presidential elections.
-135,Peru,Peru22845,7/18/1962,6/9/1963,provisional military,Godoy provisional government
-135,Peru,Peru23171,6/9/1963,10/3/1968,presidential,"Belaunde, Presidential Democracy"
-135,Peru,Peru25114,10/3/1968,5/18/1980,military,Junta
-135,Peru,Peru29359,5/18/1980,4/5/1992,presidential,Presidential
-135,Peru,Peru33699,4/5/1992,11/21/2000,personal,Fujimori dictatorship
-135,Peru,Peru36851,11/21/2000,7/28/2001,provisional,"post-Fujimori, civilian"
-135,Peru,Peru37100,7/28/2001,12/31/2020,presidential,Presidential
-140,Brazil,Brazil16833,1/31/1946,9/8/1961,presidential,"Presidential, change to parliamentary in 1961 and back to presidential in 1963."
-140,Brazil,Brazil17000,9/8/1961,1/23/1963,parliamentary,"Presidential, change to parliamentary in 1961 and back to presidential in 1963."
-140,Brazil,Brazil20000,1/23/1963,4/1/1964,presidential,Presidential
-140,Brazil,Brazil23468,4/1/1964,1/15/1985,military,"Junta rule, indirect elections."
-140,Brazil,Brazil31062,1/15/1985,12/31/2020,presidential,Presidential
-145,Bolivia,Bolivia17004,7/21/1946,5/16/1951,oligarchy,
-145,Bolivia,Bolivia18764,5/16/1951,4/9/1952,military,
-145,Bolivia,Bolivia19093,4/9/1952,11/4/1964,party-based,MNR single party state
-145,Bolivia,Bolivia23685,11/4/1964,9/26/1969,personal,"Barrientos dictatorship, installed in US-backed coup d'etat."
-145,Bolivia,Bolivia25472,9/26/1969,8/21/1971,military,"Junta, overthrown by Banzer and allies."
-145,Bolivia,Bolivia26166,8/21/1971,7/21/1978,military personal,Banzer military dictatorship
-145,Bolivia,Bolivia29037,7/21/1978,7/17/1980,provisional,Civilian government that fails during coups.
-145,Bolivia,Bolivia29419,7/17/1980,10/10/1982,military,Military overthrows government several times after first few elections.
-145,Bolivia,Bolivia30234,10/10/1982,12/31/2020,presidential,"Presidential, though congress chooses president if a candidate does not get 50% of the vote."
-150,Paraguay,Paraguay17687,6/3/1948,5/7/1954,party-based,Colorado party
-150,Paraguay,Paraguay19851,5/7/1954,5/9/1993,party-personal-military,Stroessner dictatorship
-150,Paraguay,Paraguay34098,5/9/1993,12/31/2020,presidential,Presidential
-155,Chile,Chile12055,1/1/1933,9/11/1973,presidential,"Presidential, ended by coup against Allende in 1973"
-155,Chile,Chile26918,9/11/1973,12/14/1989,military personal,Pinochet dictatorship
-155,Chile,Chile32856,12/14/1989,12/31/2020,presidential,presidential
-160,Argentina,Argentina16857,2/24/1946,9/28/1951,presidential,Peron
-160,Argentina,Argentina18899,9/28/1951,9/16/1955,personal,Peron dictatorship
-160,Argentina,Argentina20348,9/16/1955,2/23/1958,military,post-coup junta
-160,Argentina,Argentina21239,2/23/1958,6/28/1966,indirect military,"civil/military, some alternation between political parties"
-160,Argentina,Argentina24286,6/28/1966,3/11/1973,military,Junta
-160,Argentina,Argentina26734,3/11/1973,3/24/1976,presidential,Brief period following 1973 election of Peron
-160,Argentina,Argentina27843,3/24/1976,10/30/1983,military,Junta
-160,Argentina,Argentina30619,10/30/1983,12/31/2020,presidential,Presidential
-165,Uruguay,Uruguay15766,3/1/1943,1/25/1952,presidential,Presidential
-165,Uruguay,Uruguay20000,1/25/1952,2/15/1967,presidential,Colegiado committee system
-165,Uruguay,Uruguay20001,2/15/1967,6/27/1973,presidential,Presidential
-165,Uruguay,Uruguay26842,6/27/1973,11/25/1984,military,"Self-coup by elected president empowers military, who overthrows him in 1976."
-165,Uruguay,Uruguay31011,11/25/1984,12/31/2020,presidential,Presidential
-200,UKG,UKG4384,1/1/1912,12/31/2020,parliamentary,"Parliamentary, Prime Ministers"
-205,Ireland,Ireland8037,1/1/1922,12/31/2020,parliamentary,"Parliamentary, Equivalent of PM called Taoiseach"
-210,Netherlands,Netherlands1/1/1871,1/1/1871,12/31/2020,parliamentary,"Parliamentary, Prime Ministers"
-211,Belgium,Belgium7672,1/1/1921,12/31/2020,parliamentary,"Parliamentary, Prime ministers"
-212,Luxembourg,Luxembourg1/1/1871,1/1/1871,12/31/2020,parliamentary,"Parliamentary, Prime ministers"
-220,France,France1/1/1876,10/14/1946,10/4/1958,parliamentary,"4th republic, parliamentary"
-220,France,France2090,10/4/1958,12/31/2020,presidential,"5th republic, presidential"
-221,Monaco,Monaco4019,1/1/1911,12/31/2020,monarchy,monarchy
-223,Liechtenstein,LIE7915,9/1/1921,12/31/2020,monarchy,monarchy
-225,Switzerland,Switzerland1/1/1871,9/12/1848,12/31/2020,parliamentary,Parliamentary
-230,Spain,Spain14332,3/28/1939,11/1/1975,personal,Franco dictatorship
-230,Spain,Spain27699,11/1/1975,7/1/1976,provisional,transitional government that followed Franco's death
-230,Spain,Spain27942,7/1/1976,12/31/2020,parliamentary,"parliamentary, led by prime minister"
-232,Andorra,Andorra29921,12/1/1981,12/31/2020,parliamentary,parliamentary
-235,Portugal,Portugal9642,5/25/1926,4/25/1974,personal,"Salazar dictatorship, with other puppet presidents"
-235,Portugal,Portugal27144,4/25/1974,7/23/1976,provisional,"provisional, following Carnation Revolution"
-235,Portugal,Portugal27964,7/23/1976,12/31/2020,presidential,Presidential democracy
-255,Germany,Germany33117,9/1/1990,12/31/2020,parliamentary,"reunited, Parliamentary with a Chancellor"
-260,Germany,Germany18157,9/16/1949,10/1/1990,parliamentary,"West Germany, Parliamentary with a Chancellor"
-265,Germany East,Germany East18178,10/7/1949,10/1/1990,party-based,Single Party communist
-290,Poland,Poland16437,12/31/1944,6/18/1989,party-based,single party communist (BD)
-290,Poland,Poland32677,6/18/1989,12/31/2020,presidential,Presidential democracy
-305,Austria,Austria1945,4/10/1945,10/26/1955,foreign-occupied,"Parliamentary, head of government is the chancellor"
-305,Austria,Austria19420,10/26/1955,12/31/2020,parliamentary,Single Party communist
-310,Hungary,Hungary17223,2/25/1947,3/25/1990,party-based,occupied by allies post-war
-310,Hungary,Hungary33154,3/25/1990,3/30/2020,parliamentary,Parliamentary democracy
-310,Hungary,Hungary3302020,3/30/2020,12/31/2020,party-based,single party rule with unlimited emergency powers granted to party leader
-315,Czechoslovakia,Czechoslovakia17588,2/25/1948,12/4/1989,party-based,Single Party communist
-315,Czechoslovakia,Czechoslovakia32846,12/4/1989,12/31/1992,parliamentary,"parliamentary, led by prime minister"
-316,Czech Rep,Czech Rep33939,12/1/1992,12/31/2020,parliamentary,"parliamentary, led by prime minister"
-317,Slovakia,Slovakia33939,12/1/1992,12/31/2020,parliamentary,"parliamentary, led by prime minister"
-325,Italy,Italy16781,12/10/1945,12/31/2020,parliamentary,"parliamentary, led by prime minister"
-331,San Marino,San Marino1/1/1700,10/8/1600,12/31/2020,parliamentary,parliamentary
-338,Malta,Malta22682,2/5/1962,12/31/2020,parliamentary,parliamentary
-339,Albania,Albania16405,11/29/1944,6/1/1991,party-based,Communist one party state
-339,Albania,Albania33390,6/1/1991,12/31/2020,parliamentary,parliamentary
-341,Montenegro,Montenegro38840,5/3/2006,12/31/2020,parliamentary,parliamentary
-343,North Macedonia,Macedonia33802,10/17/1991,12/31/2020,parliamentary,parliamentary
-344,Croatia,Croatia33383,5/25/1991,11/9/2000,party-based,"Tudjman's one-party state, leaders are PRESIDENTS"
-344,Croatia,Croatia36839,11/9/2000,12/31/2020,parliamentary,parliamentary
-345,Yugoslavia,Yugoslavia16503,3/7/1945,6/25/1991,party-based,Single Party communist state
-345,Serbia,Serbia33414,6/25/1991,10/5/2000,party-personal,Milosevic dictatorship
-345,Serbia,Serbia36804,10/5/2000,12/31/2020,parliamentary,"hodgepodge of presidential/parliamentary. now just serbia, parliamentary"
-346,Bosnia,Bosnia33197,2/3/1992,12/14/1995,warlordism,Balkan War
-346,Bosnia,Bosnia35047,12/14/1995,12/31/2020,foreign-occupied,Governed by the Dayton Accords
-347,Kosovo,Kosovo39464,1/17/2008,6/15/2008,foreign-occupied,"Occupied by Serbia, not recognized as independent"
-347,Kosovo,Kosovo39614,6/15/2008,12/31/2020,parliamentary,parliamentary
-349,Slovenia,Slovenia33565,11/23/1991,12/31/2020,parliamentary,parliamentary
-350,Greece,Greece17418,9/8/1947,4/21/1967,parliamentary,parliamentary
-350,Greece,Greece24583,4/21/1967,7/23/1974,military,"military junta by committee, mostly under papadopoulos"
-350,Greece,Greece27233,7/23/1974,12/31/2020,parliamentary,parliamentary
-352,Cyprus,Cyprus22113,7/16/1960,12/31/2020,foreign-occupied,"occupied by Turkey/Greece, presidential system"
-355,Bulgaria,Bulgaria16324,9/9/1944,8/1/1990,party-based,"single party, communist"
-355,Bulgaria,Bulgaria33086,8/1/1990,12/31/2020,parliamentary,parliamentary
-359,Moldova,Moldova33088,8/3/1990,12/31/2020,parliamentary,Parliamentary
-360,Romania,Romania16502,3/6/1945,12/22/1989,party-personal,Communist one party state
-360,Romania,Romania32864,12/22/1989,9/30/1991,provisional,transition to democracy
-360,Romania,Romania33511,9/30/1991,12/31/2020,parliamentary,parliamentary
-365,Soviet Union,Soviet Union6521,11/7/1917,8/21/1991,party-based,Communist one party state
-365,Russia,Soviet Union33471,8/21/1991,9/21/1993,parliamentary,
-365,Russia,Russia34233,9/21/1993,12/31/2020,personal,
-366,Estonia,Estonia33456,8/6/1991,12/31/2020,parliamentary,
-367,Latvia,Latvia32966,4/3/1990,12/31/2020,parliamentary,
-368,Lithuania,Lithuania32915,2/11/1990,12/31/2020,parliamentary,
-369,Ukraine,Ukraine33042,6/18/1990,12/31/2020,presidential,presidential
-370,Belarus,Belarus33475,8/25/1991,7/10/1994,party-based,
-370,Belarus,Belarus34536,7/21/1994,12/31/2020,personal,
-371,Armenia,Armenia33497,9/16/1991,12/31/2020,personal,
-372,Georgia,Georgia33309,3/12/1991,1/6/1992,personal,
-372,Georgia,Georgia33609,1/6/1992,11/23/2003,personal,
-372,Georgia,Georgia37948,11/23/2003,1/25/2004,provisional,
-372,Georgia,Georgia38011,1/25/2004,12/31/2020,presidential,
-373,Azerbaijan,Azerbaijan33468,8/18/1991,5/15/1992,personal,
-373,Azerbaijan,Azerbaijan33739,5/15/1992,6/16/1993,presidential,
-373,Azerbaijan,Azerbaijan34136,6/16/1993,12/31/2020,personal,
-375,Finland,Finland16438,1/1/1945,3/1/2000,presidential,"strong president until March 2000, then parliamentary"
-375,Finland,Finland16440,3/1/2000,12/31/2020,parliamentary,parliamentary
-380,Sweden,Sweden6941,1/1/1919,12/31/2020,parliamentary,parliamentary
-385,Norway,Norway1/1/1885,1/1/1885,12/31/2020,parliamentary,parliamentary
-390,Denmark,Denmark367,1/1/1901,12/31/2020,parliamentary,parliamentary
-395,Iceland,Iceland16438,1/1/1945,12/31/2020,parliamentary,parliamentary
-402,Cape Verde,Cape Verde27553,6/8/1975,4/4/1991,party-based,PAICGV
-402,Cape Verde,Cape Verde33332,4/4/1991,12/31/2020,parliamentary,"semi-presidential, prime minister is H-o-G"
-403,Sao Tome and Principe,Sao Tome and Principe27546,6/1/1975,10/1/1987,personal,da Costa dictatorship
-403,Sao Tome and Principe,Sao Tome and Principe32051,10/1/1987,3/4/1991,provisional,transition to democracy
-403,Sao Tome and Principe,Sao Tome and Principe33301,3/4/1991,12/31/2020,parliamentary,"semi-presidential, prime minister is H-o-G"
-404,Guinea Bissau,Guinea Bissau27251,8/10/1974,11/14/1980,party-based,PAIGC state
-404,Guinea Bissau,Guinea Bissau29539,11/14/1980,5/7/1999,personal,Vieira dictatorship
-404,Guinea Bissau,Guinea Bissau36287,5/7/1999,2/18/2000,provisional military,post-coup
-404,Guinea Bissau,Guinea Bissau36574,2/18/2000,9/14/2003,presidential,presidential
-404,Guinea Bissau,Guinea Bissau37878,9/14/2003,10/1/2005,provisional military,post-coup
-404,Guinea Bissau,Guinea Bissau38626,10/1/2005,3/2/2009,presidential,presidential
-404,Guinea Bissau,Guinea Bissau39874,3/2/2009,6/23/2014,provisional,"post-coup, turned over to civilians"
-404,Guinea Bissau,GNB39000,6/23/2014,12/31/2020,presidential,presidential
-411,Equatorial Guinea,Equatorial Guinea23330,11/15/1963,5/7/1971,presidential,presidential
-411,Equatorial Guinea,Equatorial Guinea23530,5/7/1971,8/3/1979,personal,nguema dictatorship
-411,Equatorial Guinea,Equatorial Guinea24330,8/3/1979,12/31/2020,personal,Obiang Nguema
-420,Gambia,Gambia23760,1/18/1965,7/22/1994,party-based,"parliamentary elections until 1982, then direct presidential elections"
-420,Gambia,Gambia25000,7/22/1994,8/8/1996,provisional military,Jammeh
-420,Gambia,Gambia34537,8/8/1996,12/31/2020,personal,Jammeh
-432,Mali,Mali22150,8/22/1960,11/19/1968,party-based,Single Party under Keita
-432,Mali,Mali25161,11/19/1968,3/26/1991,personal,Traore
-432,Mali,Mali33323,3/26/1991,6/6/1992,provisional military,coup before election
-432,Mali,Mali33761,6/6/1992,3/22/2012,presidential,presidential
-432,Mali,Mali40990,3/22/2012,4/12/2012,provisional military,Sanogo
-432,Mali,Mali41011,4/12/2012,9/4/2013,provisional,transition to democracy
-432,Mali,Mali41521,9/4/2013,8/18/2020,presidential,presidential
-432,Mali,Mali81820,8/18/2020,12/31/2020,provisional military,military council
-433,Senegal,Senegal22117,7/20/1960,4/2/2000,party-based,Senghor/Diouf
-433,Senegal,Senegal36618,4/2/2000,12/31/2020,presidential,presidential
-434,Benin,Benin21885,12/1/1959,10/28/1963,personal,Maga
-434,Benin,Benin23312,10/28/1963,1/19/1964,personal,Soglo
-434,Benin,Benin24000,1/19/1964,11/29/1965,provisional military,Apithy
-434,Benin,Benin24098,11/29/1965,12/17/1967,military,Soglo
-434,Benin,Benin24823,12/17/1967,12/10/1969,military,Alley
-434,Benin,Benin25547,12/10/1969,5/7/1970,military,Zinsou/Sousa
-434,Benin,Benin25695,5/7/1970,10/26/1972,provisional,Triumverate
-434,Benin,Benin26598,10/26/1972,2/25/1990,personal,Kerekou
-434,Benin,Benin32929,2/25/1990,4/4/1991,provisional,Kerekou pre-democratization
-434,Benin,Benin33332,4/4/1991,12/31/2017,presidential,presidential
-435,Mauritania,Mauritania22217,10/28/1960,7/10/1978,personal,Ould Daddah
-435,Mauritania,Mauritania28681,7/10/1978,8/3/2005,personal,Taya and others
-435,Mauritania,Mauritania38567,8/3/2005,3/25/2007,provisional military,military organizes elections
-435,Mauritania,Mauritania39166,3/25/2007,8/6/2008,presidential,"Abdallah, overthrown by Aziz"
-435,Mauritania,Mauritania39666,8/6/2008,12/31/2017,personal,Aziz
-436,Niger,Niger22131,8/3/1960,4/15/1974,party-based,Diori (PPN-RDA)
-436,Niger,Niger27134,4/15/1974,7/29/1991,military personal,Kountche
-436,Niger,Niger33448,7/29/1991,4/16/1993,provisional,Seibou transition
-436,Niger,Niger34075,4/16/1993,1/27/1996,presidential,presidential
-436,Niger,Niger35091,1/27/1996,4/11/1999,personal,Mainassara
-436,Niger,Niger36261,4/11/1999,12/22/1999,provisional military,junta organizes elections
-436,Niger,Niger36516,12/22/1999,2/8/2010,presidential,"Tandja, tries to abolish term limits and is overthrown"
-436,Niger,Niger40217,2/8/2010,4/7/2011,provisional military,"post-coup, transition to issoufou"
-436,Niger,Niger40640,4/7/2011,12/31/2017,presidential,presidential
-437,Ivory Coast,Ivory Coast22104,7/7/1960,12/24/1999,party-based,one-party under houphet
-437,Ivory Coast,Ivory Coast36518,12/24/1999,10/26/2000,personal,guei
-437,Ivory Coast,Ivory Coast36825,10/26/2000,4/11/2011,personal,gbagbo
-437,Ivory Coast,Ivory Coast40644,4/11/2011,12/31/2017,presidential,presidential (under ouattara so far)
-438,Guinea,Guinea21430,9/2/1958,4/3/1984,party-based,single party under Sekou Toure mostly
-438,Guinea,Guinea30775,4/3/1984,12/23/2008,personal,Conte dictatorship
-438,Guinea,Guinea39805,12/23/2008,12/21/2010,military,"junta under Camara, until he is shot in head"
-438,Guinea,Guinea40533,12/21/2010,12/31/2017,presidential,presidential
-439,Burkina Faso,Burkina Faso22102,7/5/1960,1/3/1966,personal,yameogo
-439,Burkina Faso,Burkina Faso24110,1/3/1966,6/14/1970,military,"lanzana leads junta until new constitution personalizes the state, increases civilian control"
-439,Burkina Faso,Burkina Faso 25000,6/14/1970,11/25/1980,personal,"Lamizana rules as president, and then as president and prime minister after 1974"
-439,Burkina Faso,Burkina Faso29550,11/25/1980,11/7/1982,military,Zerbo
-439,Burkina Faso,Burkina Faso30262,11/7/1982,10/15/1987,personal,Sankara
-439,Burkina Faso,Burkina Faso32065,10/15/1987,10/31/2014,personal,Compaore
-439,Burkina Faso,Burkina Faso41943,10/31/2014,12/29/2015,provisional,post Compaore
-439,Burkina Faso,Burkina Faso 42000,12/29/2015,12/31/2017,presidential,presidential
-450,Liberia,Liberia16072,1/1/1944,4/12/1980,party-personal,Tubman
-450,Liberia,Liberia29323,4/12/1980,9/9/1990,personal,Doe
-450,Liberia,Liberia33125,9/9/1990,7/19/1997,warlordism,Liberian Civil War
-450,Liberia,Liberia35630,7/19/1997,8/11/2003,personal,Taylor
-450,Liberia,Liberia37844,8/11/2003,1/16/2006,provisional,post-war transition to democracy
-450,Liberia,Liberia38733,1/16/2006,12/31/2017,presidential,presidential
-451,Sierra Leone,Sierra Leone22367,3/27/1961,3/23/1967,parliamentary,parliamentary under Margai
-451,Sierra Leone,Sierra Leone24554,3/23/1967,4/18/1968,military,"Lansasa coup, followed election of APC"
-451,Sierra Leone,Sierra Leone24946,4/18/1968,4/29/1992,party-based,APC single-party state
-451,Sierra Leone,Sierra Leone33723,4/29/1992,3/29/1996,military personal,Strasser
-451,Sierra Leone,Sierra Leone35153,3/29/1996,5/25/1997,presidential,Second Republic under Kabbah
-451,Sierra Leone,Sierra Leone35575,5/25/1997,3/10/1998,military personal,Koroma
-451,Sierra Leone,Sierra Leone35864,3/10/1998,12/31/2017,presidential,"Third Republic, presidential"
-452,Ghana,Ghana19045,2/6/1957,4/27/1960,parliamentary,"Kwame Nkrumah's CPP, but fair parliamentary elections"
-452,Ghana,Ghana20000,4/27/1960,2/24/1966,party-personal,"Kwame Nkrumah's CPP, following referendum to create strong presidency (First Republic)"
-452,Ghana,Ghana24162,2/24/1966,8/29/1969,military,Ankrah/Afrifa lead the National Liberation Council
-452,Ghana,Ghana25000,8/29/1969,8/7/1970,provisional military,Afrifa post-election
-452,Ghana,Ghana25444,8/7/1970,1/13/1972,parliamentary,Second Republic (Busia)
-452,Ghana,Ghana26311,1/13/1972,7/9/1979,military,"Junta rule, falls in coup in June 1979"
-452,Ghana,Ghana29045,7/9/1979,12/31/1981,presidential,Presidential System (Limann)
-452,Ghana,Ghana29951,12/31/1981,1/1/1993,personal,Rawlings
-452,Ghana,Ghana33970,1/1/1993,12/31/2017,presidential,Fourth Republic (Rawlings)
-461,Togo,Togo22000,3/27/1960,4/9/1961,parliamentary,parliamentary
-461,Togo,Togo22002,4/9/1961,1/13/1963,personal,Olympio
-461,Togo,Togo23024,1/13/1963,12/31/2017,personal,Eyadema/Gnassigbe (father/son)
-471,Cameroon,Cameroon21885,12/1/1959,8/22/1983,party-personal,Ahidjo
-471,Cameroon,Cameroon30550,8/22/1983,12/31/2017,personal,Biya
-475,Nigeria,Nigeria22160,9/1/1960,1/15/1966,parliamentary,"parliamentary, prime ministers"
-475,Nigeria,Nigeria24317,1/15/1966,7/30/1975,military,"junta under gowon, others"
-475,Nigeria,Nigeria25000,7/30/1975,8/11/1979,provisional military,muhammed and obasanjo
-475,Nigeria,Nigeria29078,8/11/1979,12/31/1983,presidential,presidential
-475,Nigeria,Nigeria30681,12/31/1983,8/26/1993,military,junta
-475,Nigeria,Nigeria34207,8/26/1993,11/17/1993,provisional military,Shonekan transition
-475,Nigeria,Nigeria 35000,11/17/1993,5/31/1998,military personal,"Abacha, then Abubakar"
-475,Nigeria,Nigeria35946,5/31/1998,5/1/1999,provisional military,"post reform, pre election"
-475,Nigeria,Nigeria36281,5/1/1999,12/31/2017,presidential,Presidential
-481,Gabon,Gabon22114,7/17/1960,12/31/2017,party-personal,Bongo and others
-482,Cen African Rep,Cen African Rep22128,7/31/1960,12/31/1965,personal,"Dacko, single-party"
-482,Cen African Rep,Cen African Rep24107,12/31/1965,9/20/1979,personal,Bokassa regime
-482,Cen African Rep,Cen African Rep29118,9/20/1979,9/1/1981,personal,Dacko again
-482,Cen African Rep,Cen African Rep29830,9/1/1981,9/19/1993,military personal,Kolingba
-482,Cen African Rep,Cen African Rep34231,9/19/1993,3/15/2003,presidential,Patasse
-482,Cen African Rep,Cen African Rep37695,3/15/2003,3/24/2013,personal,bozize
-482,Cen African Rep,Cen African Rep41357,3/24/2013,3/1/2016,provisional,post-war transition to democracy
-482,Cen African Rep,Cen African Rep42000,3/1/2016,12/31/2017,presidential,presidential
-483,Chad,Chad22108,7/11/1960,4/13/1975,party-personal,Tombalbaye
-483,Chad,Chad27497,4/13/1975,3/23/1979,military,Malloum
-483,Chad,Chad28937,3/23/1979,6/7/1982,warlordism,Chad war
-483,Chad,Chad30109,6/7/1982,12/1/1990,personal,Habre
-483,Chad,Chad33208,12/1/1990,12/31/2017,personal,Deby
-484,Congo-Brz,Congo-Brz22112,7/15/1960,8/15/1963,personal,Youlou
-484,Congo-Brz,Congo-Brz23238,8/15/1963,9/4/1968,party-personal,Debat
-484,Congo-Brz,Congo-Brz25085,9/4/1968,2/25/1991,party-military,Mostly Nguesso
-484,Congo-Brz,Congo-Brz33294,2/25/1991,8/31/1992,provisional,democratic transition
-484,Congo-Brz,Congo-Brz33847,8/31/1992,10/14/1997,presidential,presidential
-484,Congo-Brz,Congo-Brz35717,10/14/1997,12/31/2017,personal,Sassou Nguesso comes back
-490,Congo/Zaire,Congo/Zaire22066,5/30/1960,9/14/1960,parliamentary,Lumumba
-490,Congo/Zaire,Congo/Zaire23000,9/14/1960,11/24/1965,indirect military,KasaVubu
-490,Congo/Zaire,Congo/Zaire25000,11/24/1965,5/17/1997,personal,Mobutu
-490,Congo/Zaire,Congo/Zaire35567,5/17/1997,12/31/2017,personal,Kabila
-500,Uganda,Uganda00000,9/9/1962,4/15/1966,parliamentary,parliamentary
-500,Uganda,Uganda22898,4/15/1966,1/25/1971,personal,president of authoritarian regime
-500,Uganda,Uganda25958,1/25/1971,4/11/1979,personal,idi Amin 
-500,Uganda,Uganda28956,4/11/1979,12/11/1980,provisional,Presidential Commission
-500,Uganda,Uganda29566,12/11/1980,7/27/1985,personal,Obote
-500,Uganda,Uganda31255,7/27/1985,1/27/1986,warlordism,Ugandan Bush War
-500,Uganda,Uganda31439,1/27/1986,12/31/2017,personal,Museveni
-501,Kenya,Kenya23327,11/12/1963,12/27/2002,party-based,KANU dominance
-501,Kenya,Kenya37617,12/27/2002,12/31/2017,presidential,presidential
-510,Tanzania,Tanzania00000,10/9/1961,4/26/1964,parliamentary,parliamentary
-510,Tanzania,Tanzania22563,4/26/1964,12/31/2017,party-based,CCM/TANU one-party state
-516,Burundi,Burundi22798,6/1/1962,7/8/1966,monarchy,Mwambutsa
-516,Burundi,Burundi24296,7/8/1966,9/3/1987,party-military,Micombero/Bagaza
-516,Burundi,Burundi32023,9/3/1987,7/10/1993,military,Buyoya
-516,Burundi,Burundi34160,7/10/1993,10/21/1993,presidential,presidential
-516,Burundi,Burundi34263,10/21/1993,7/25/1996,presidential,Presidential
-516,Burundi,Burundi35271,7/25/1996,4/30/2003,military personal,Buyoya dictatorship
-516,Burundi,Burundi37741,4/30/2003,8/26/2005,provisional,civilian transition to democracy
-516,Burundi,Burundi38590,8/26/2005,12/31/2017,presidential,Presidential
-517,Rwanda,Rwanda22525,9/1/1961,7/5/1973,party-based,Kayibanda
-517,Rwanda,Rwanda26850,7/5/1973,7/4/1994,military personal,Habyarimana
-517,Rwanda,Rwanda34519,7/4/1994,12/31/2017,party-military,Kagame
-520,Somalia,Somalia22068,6/1/1960,10/21/1969,presidential,parliamentary
-520,Somalia,Somalia25497,10/21/1969,1/26/1991,personal,Siad Barre
-520,Somalia,Somalia33264,1/26/1991,9/16/2012,warlordism,Somali war
-520,Somalia,Somalia41168,9/16/2012,12/31/2017,provisional,"provisional authority, no general elections yet"
-522,Djibouti,Djibouti28272,5/27/1977,12/31/2017,personal,Gulleah
-530,Ethiopia,Ethiopia001,1/1/1890,9/12/1974,monarchy,Selassie
-530,Ethiopia,Ethiopia27284,9/12/1974,5/21/1991,military personal,The Derg/Mengistu
-530,Ethiopia,Ethiopia33385,5/27/1991,12/31/2017,party-based,Meles and the EPRDF
-531,Eritrea,Eritrea34083,4/24/1993,12/31/2017,party-personal,Afwerki
-540,Angola,Angola27678,10/11/1975,12/31/2017,party-based,MPLA
-541,Mozambique,Mozambique27539,5/25/1975,12/31/2017,party-based,FRELIMO
-551,Zambia,Zambia23644,9/24/1964,10/31/1991,party-based,Kaunda
-551,Zambia,Zambia33542,10/31/1991,5/28/1996,presidential,presidential
-551,Zambia,Zambia35213,5/28/1996,9/23/2011,party-based,MMD
-551,Zambia,Zambia40809,9/23/2011,12/31/2017,presidential,"PF, presidential"
-552,Zimbabwe,Zimbabwe24026,10/11/1965,5/29/1979,oligarchy,white rhodesian
-552,Zimbabwe,Zimbabwe29004,5/29/1979,4/18/1980,provisional,peace agreement after war with ZANU
-552,Zimbabwe,Zimbabwe29329,4/18/1980,12/31/2017,party-based,Mugabe
-553,Malawi,Malawi23534,6/6/1964,5/17/1994,personal,Hastings Banda
-553,Malawi,Malawi34471,5/17/1994,12/31/2017,presidential,presidential
-560,South Africa,South Africa3804,5/31/1910,4/29/1994,oligarchy,apartheid
-560,South Africa,South Africa34453,4/29/1994,12/31/2017,parliamentary,ANC
-565,Namibia,Namibia32925,2/21/1990,12/31/2017,party-based,SWAPO
-570,Lesotho,Lesotho24354,9/4/1966,1/31/1970,parliamentary,parliamentary
-570,Lesotho,Lesotho25599,1/31/1970,1/20/1986,party-based,BCP
-570,Lesotho,Lesotho31432,1/20/1986,3/27/1993,military,junta
-570,Lesotho,Lesotho34055,3/27/1993,12/31/2017,parliamentary,parliamentary
-571,Botswana,Botswana24349,8/30/1966,12/31/2017,party-based,only one party has ever held power
-572,Swaziland,Swaziland25056,8/6/1968,12/31/2017,monarchy,monarchy
-580,Madagascar,Madagascar22062,5/26/1960,5/18/1972,party-based,TSiranana SDP
-580,Madagascar,Madagascar26437,5/18/1972,6/15/1975,military,junta under Ramanantsoa
-580,Madagascar,Madagascar27560,6/15/1975,2/10/1993,personal,Ratsirika
-580,Madagascar,Madagascar34010,2/10/1993,3/17/2009,presidential,"strong presidential
-"
-580,Madagascar,Madagascar39889,3/17/2009,1/25/2014,personal,Rajoelina
-580,Madagascar,Madagascar41664,1/25/2014,12/31/2017,presidential,"strong presidential
-"
-581,Comoros,Comoros27551,6/6/1975,11/26/1989,military personal,bob denard de facto government
-581,Comoros,Comoros28000,11/26/1989,9/29/1995,provisional,"djohar, after denard's puppets removed"
-581,Comoros,Comoros 29000,9/29/1995,4/30/1999,provisional,Several short-term leaders between coups
-581,Comoros,Comoros30000,4/30/1999,5/26/2006,military personal,Assoumani
-581,Comoros,Comoros38863,5/26/2006,12/31/2017,presidential,"presidential, rotates between islands"
-590,Mauritius,Mauritius24880,2/12/1968,12/31/2017,parliamentary,parliamentary
-591,Seychelles,Seychelles27909,5/29/1976,7/1/1977,parliamentary,parliamentary
-591,Seychelles,Seychelles28307,7/1/1977,6/18/1993,personal,Rene
-591,Seychelles,Seychelles34138,6/18/1993,12/31/2017,party-based,presidential
-600,Morocco,Morocco20487,2/2/1956,12/31/2017,monarchy,Monarch with parliament that has grown in power after recent referendums
-615,Algeria,Algeria22739,4/3/1962,1/11/1992,party-military,FLN
-615,Algeria,Algeria33614,1/11/1992,12/31/2017,military,junta in power during and after algerian civil war
-616,Tunisia,Tunisia15826,4/30/1943,7/25/1957,monarchy,"short-lived monarchy, not yet independent"
-616,Tunisia,Tunisia21026,7/25/1957,1/14/2011,party-based,Bourguiba and Ben Ali
-616,Tunisia,Tunisia40557,1/14/2011,1/1/2015,provisional,Transitional
-616,Tunisia,Tunisia42005,1/1/2015,12/31/2017,presidential,Presidential
-620,Libya,Libya18652,1/24/1951,9/1/1969,monarchy,IDris
-620,Libya,Libya25447,9/1/1969,8/15/2011,personal,Qaddahfi
-620,Libya,Libya40770,8/15/2011,12/31/2017,warlordism,"Civil War, no central government"
-625,Sudan,Sudan20090,1/1/1955,11/17/1958,parliamentary,parliamentary
-625,Sudan,Sudan21506,11/17/1958,10/29/1964,military,junta in power
-625,Sudan,Sudan23679,10/29/1964,6/14/1965,provisional,Al-Khalifa pre-election
-625,Sudan,Sudan23907,6/14/1965,5/25/1969,parliamentary,"parliamentary, post-1965 election"
-625,Sudan,Sudan25348,5/25/1969,4/6/1985,personal,Nimeiri
-625,Sudan,Sudan31143,4/6/1985,4/12/1986,provisional military,"post Nimeiri coup, democratic elections organized"
-625,Sudan,Sudan31514,4/12/1986,6/30/1989,parliamentary,parliamentary
-625,Sudan,Sudan32689,6/30/1989,12/31/2017,personal,omar al-bashir
-626,South Sudan,South Sudan40695,6/1/2011,12/31/2017,personal,personalist under Kiir
-630,Iran,Iran9481,12/15/1925,1/16/1979,monarchy,Reza monarchy overthrown in Islamic Revolution
-630,Iran,Iran28871,1/16/1979,12/31/2017,party-based,"Led by Supreme Leader, who was weakened by 1989 referendum"
-640,Turkey,Turkey8703,10/29/1923,5/14/1950,party-based,parliamentary
-640,Turkey,Turkey18397,5/14/1950,10/27/1957,parliamentary,parliamentary
-640,Turkey,Turkey21120,10/27/1957,5/27/1960,party-based,parliamentary
-640,Turkey,Turkey22063,5/27/1960,10/15/1961,military,junta
-640,Turkey,Turkey22569,10/15/1961,9/12/1980,parliamentary,parliamentary
-640,Turkey,Turkey29476,9/12/1980,11/6/1983,military,junta under Evren
-640,Turkey,Turkey30626,11/6/1983,12/31/2017,presidential,presidential
-645,Iraq,Iraq11975,10/13/1932,7/14/1958,monarchy,Faisal
-645,Iraq,Iraq21380,7/14/1958,2/8/1963,personal,Qasim
-645,Iraq,Iraq23050,2/8/1963,7/17/1968,personal,al-Bakr/Arif
-645,Iraq,Iraq25036,7/17/1968,7/16/1979,party-personal,Ba'ath
-645,Iraq,Iraq29052,7/16/1979,4/7/2003,personal,Saddam Hussein
-645,Iraq,Iraq37718,4/7/2003,12/31/2011,foreign-occupied,US occupation
-645,Iraq,Iraq40908,12/31/2011,12/31/2017,parliamentary,Parliamentary
-651,Egypt,Egypt8095,2/28/1922,7/23/1952,monarchy,
-651,Egypt,Egypt19198,7/23/1952,2/11/2011,party-personal-military,Nasser/Sadat/Mubarak
-651,Egypt,Egypt40585,2/11/2011,6/30/2012,provisional military,pre-election under military
-651,Egypt,Egypt41090,6/30/2012,7/3/2013,presidential,presidential (Morsi)
-651,Egypt,Egypt41458,7/3/2013,12/31/2017,military personal,al-Sisi
-652,Syria,Syria18251,12/19/1949,11/29/1951,indirect military,Shishakli
-652,Syria,Syria18961,11/29/1951,2/25/1954,military,Junta
-652,Syria,Syria19780,2/25/1954,2/26/1957,presidential,
-652,Syria,Syria20877,2/26/1957,2/28/1958,personal, 
-652,Syria,Syria21244,2/28/1958,3/28/1962,foreign-occupied,
-652,Syria,Syria22733,3/28/1962,3/8/1963,indirect military,
-652,Syria,Syria23078,3/8/1963,12/31/2017,party-personal-military,Assad
-660,Lebanon,Lebanon16032,11/22/1943,9/23/1976,parliamentary,
-660,Lebanon,Lebanon28026,9/23/1976,4/26/2005,foreign-occupied,
-660,Lebanon,Lebanon38468,4/26/2005,12/31/2017,parliamentary,
-663,Jordan,Jordan16947,5/25/1946,12/31/2017,monarchy,
-666,Israel,Israel17667,5/14/1948,12/31/2017,parliamentary,
-670,Saudi Arabia,Saudi Arabia10002,5/20/1927,12/31/2017,monarchy,
-678,Yemen,Yemen6878,10/30/1918,9/26/1962,monarchy,
-678,Yemen,Yemen22915,9/26/1962,11/5/1967,military,
-678,Yemen,Yemen24781,11/5/1967,6/13/1974,personal,
-678,Yemen,Yemen27193,6/13/1974,7/17/1978,military,
-678,Yemen,Yemen28688,7/17/1978,5/22/1990,personal,
-679,Yemen,Yemen32985,4/22/1990,2/6/2015,personal,
-679,Yemen,Yemen33000,2/6/2015,12/31/2017,warlordism,
-680,Yemen South,Yemen South24775,10/30/1967,5/22/1990,party-based,
-690,Kuwait,Kuwait18068,6/19/1949,12/31/2017,monarchy,
-692,Bahrain,Bahrain26129,7/15/1971,12/31/2017,monarchy,
-694,Qatar,Qatar26117,7/3/1971,12/31/2017,monarchy,
-696,United Arab Emirates,United Arab Emirates26116,7/2/1971,12/31/2017,monarchy,
-698,Oman,Oman12/31/1741,12/31/1741,12/31/2017,monarchy,
-700,Afghanistan,Afghanistan10876,10/10/1929,7/17/1973,monarchy,
-700,Afghanistan,Afghanistan26862,7/17/1973,4/27/1978,personal,
-700,Afghanistan,Afghanistan28607,4/27/1978,4/16/1992,party-personal,
-700,Afghanistan,Afghanistan33710,4/16/1992,9/27/1996,warlordism,
-700,Afghanistan,Afghanistan35335,9/27/1996,11/13/2001,party-based,
-700,Afghanistan,Afghanistan37208,11/13/2001,12/31/2017,foreign-occupied,
-701,Turkmenistan,Turkmenistan33143,9/27/1990,12/31/2017,party-personal,
-702,Tajikistan,Tajikistan33428,7/9/1991,12/31/2017,personal,
-703,Kyrgyzstan,Kyrgyzstan33146,9/30/1990,3/24/2005,personal,
-703,Kyrgyzstan,Kyrgyzstan38435,3/24/2005,12/31/2017,personal,
-704,Uzbekistan,Uzbekistan32932,2/28/1990,12/31/2017,party-personal,
-705,Kazakhstan,Kazakhstan32948,3/16/1990,12/31/2017,personal,
-710,China,China17920,1/22/1949,12/31/2017,party-based,
-712,Mongolia,Mongolia7928,9/14/1921,6/6/1993,party-based,
-712,Mongolia,Mongolia34126,6/6/1993,12/31/2017,presidential,
-731,Korea North,Korea North17785,9/9/1948,12/31/2017,party-personal,
-732,Korea South,Korea South17758,8/13/1948,4/27/1960,personal,
-732,Korea South,Korea South22033,4/27/1960,5/16/1961,parliamentary,
-732,Korea South,Korea South22417,5/16/1961,6/29/1987,military,
-732,Korea South,Korea South31957,6/29/1987,12/31/2017,presidential,
-740,Japan,Japan16267,8/14/1945,4/11/1951,foreign-occupied,
-740,Japan,Japanz,4/11/1951,12/31/2017,parliamentary,
-750,India,India17394,8/15/1947,12/31/2017,parliamentary,
-760,Bhutan,Bhutan19048,2/24/1952,4/9/2008,monarchy,
-760,Bhutan,Bhutan39547,4/9/2008,12/31/2017,parliamentary,
-770,Pakistan,Pakistan17393,8/14/1947,10/27/1958,oligarchy,
-770,Pakistan,Pakistan21485,10/27/1958,12/20/1971,military personal,
-770,Pakistan,Pakistan26287,12/20/1971,2/9/1975,parliamentary,
-770,Pakistan,Pakistan27434,2/9/1975,7/5/1977,personal,
-770,Pakistan,Pakistan28311,7/5/1977,11/16/1988,military personal,
-770,Pakistan,Pakistan32463,11/16/1988,10/12/1999,parliamentary,
-770,Pakistan,Pakistan36445,10/12/1999,8/18/2008,military personal,
-770,Pakistan,Pakistan39678,8/18/2008,12/31/2017,parliamentary,
-771,Bangladesh,Bangladesh26003,3/11/1971,11/7/1975,party-personal,
-771,Bangladesh,Bangladesh27705,11/7/1975,3/24/1982,personal,
-771,Bangladesh,Bangladesh30034,3/24/1982,12/6/1990,personal,
-771,Bangladesh,Bangladesh33213,12/6/1990,1/11/2007,parliamentary,
-771,Bangladesh,Bangladesh39093,1/11/2007,1/6/2009,military,
-771,Bangladesh,Bangladesh39819,1/6/2009,12/31/2017,parliamentary,
-775,Myanmar,Myanmar17536,1/4/1948,9/26/1958,parliamentary,
-775,Myanmar,Myanmar21454,9/26/1958,2/6/1960,military,
-775,Myanmar,Myanmar21952,2/6/1960,3/2/1962,parliamentary,
-775,Myanmar,Myanmar22707,3/2/1962,9/18/1988,military personal,
-775,Myanmar,Myanmar32404,9/18/1988,3/30/2011,military,
-775,Myanmar,Myanmar40632,3/30/2011,12/31/2017,party-military,
-780,Sri Lanka,Sri Lanka17899,1/1/1949,9/7/1978,parliamentary,
-780,Sri Lanka,Sri Lanka28740,9/7/1978,11/9/1994,party-based,
-780,Sri Lanka,Sri Lanka34647,11/9/1994,12/31/2017,presidential,
-781,Maldives,Maldives23919,6/26/1965,11/11/2008,personal,
-781,Maldives,Maldives39763,11/11/2008,12/31/2017,presidential,
-790,Nepal,Nepal0000,9/15/1846,2/18/1951,monarchy,rana dynasty
-790,Nepal,Nepal18677,2/18/1951,5/12/1991,monarchy,
-790,Nepal,Nepal33370,5/12/1991,10/4/2002,parliamentary,
-790,Nepal,Nepal37533,10/4/2002,4/24/2006,monarchy,
-790,Nepal,Nepal38831,4/24/2006,12/31/2017,parliamentary,
-800,Thailand,Thailand17479,11/8/1947,9/16/1957,military personal,
-800,Thailand,Thailand21079,9/16/1957,10/14/1973,military personal,
-800,Thailand,Thailand26951,10/14/1973,3/17/1975,provisional,
-800,Thailand,Thailand27470,3/17/1975,10/6/1976,parliamentary,
-800,Thailand,Thailand28039,10/6/1976,7/24/1988,military personal,
-800,Thailand,Thailand32348,7/24/1988,2/23/1991,parliamentary,
-800,Thailand,Thailand33292,2/23/1991,5/20/1992,military,
-800,Thailand,Thailand33744,5/20/1992,9/19/2006,parliamentary,
-800,Thailand,Thailand38979,9/19/2006,12/23/2007,military,
-800,Thailand,Thailand39439,12/23/2007,5/7/2014,parliamentary,
-800,Thailand,Thailand41766,5/7/2014,12/31/2017,military,
-811,Cambodia,Cambodia19641,10/9/1953,3/18/1970,monarchy,
-811,Cambodia,Cambodia25645,3/18/1970,4/17/1975,personal,
-811,Cambodia,Cambodia27501,4/17/1975,1/7/1979,party-based,
-811,Cambodia,Cambodia28862,1/7/1979,12/31/2017,party-based,
-812,Laos,Laos18922,11/24/1954,12/24/1959,parliamentary,
-812,Laos,Laos21908,12/24/1959,12/16/1960,personal,
-812,Laos,Laos22266,12/16/1960,7/24/1962,personal,
-812,Laos,Laos22851,7/24/1962,11/29/1975,warlordism,
-812,Laos,Laos27727,11/29/1975,12/31/2017,party-based,
-816,Vietnam,Vietnam18263,12/31/1949,12/31/2017,party-based,
-817,Vietnam South,Vietnam South19724,12/31/1953,11/2/1963,personal,
-817,Vietnam South,Vietnam South23317,11/2/1963,4/30/1975,military,
-820,Malaysia,Malaysia21032,7/31/1957,12/31/2017,party-based,
-830,Singapore,Singapore23928,7/5/1965,12/31/2017,party-based,
-835,Brunei,Brunei24719,9/4/1967,12/31/2017,monarchy,
-840,Philippines,Philippines17168,1/1/1947,9/22/1972,presidential,
-840,Philippines,Philippines26564,9/22/1972,2/25/1986,personal,
-840,Philippines,Philippines31468,2/25/1986,12/31/2017,presidential,
-850,Indonesia,Indonesia18259,12/27/1949,3/11/1966,personal,
-850,Indonesia,Indonesia24177,3/11/1966,6/7/1999,party-personal-military,
-850,Indonesia,Indonesia36318,6/7/1999,12/31/2017,presidential,
-860,East Timor,East Timor37366,4/20/2002,12/31/2017,presidential,
-900,Australia,Australia732,1/1/1902,12/31/2017,parliamentary,
-910,Papua New Guinea,Papua New Guinea27622,8/16/1975,12/31/2017,parliamentary,
-920,New Zealand,New Zealand2923,1/1/1908,12/31/2017,parliamentary,
-935,Vanuatu,Vanuatu1,7/30/1980,12/31/2017,parliamentary,
-940,Solomon Islands,Solomon Islands28648,6/7/1978,12/31/2017,parliamentary,
-946,Kiribati,Kiribati,7/12/1979,12/31/2017,presidential,
-947,Tuvalu,Tuvalu,9/1/1978,12/31/2017,parliamentary,
-950,Fiji,Fiji25821,9/10/1970,4/12/1987,party-based,
-950,Fiji,Fiji31880,4/13/1987,5/14/1987,parliamentary,
-950,Fiji,Fiji31911,5/14/1987,6/2/1992,military personal,
-950,Fiji,Fiji33757,6/2/1992,5/19/1999,party-based,
-950,Fiji,Fiji36299,5/19/1999,5/27/2000,parliamentary,
-950,Fiji,Fiji36673,5/27/2000,12/5/2006,party-based,
-950,Fiji,Fiji39056,12/5/2006,12/31/2017,military personal,
-955,Tonga,Tonga,5/4/1970,12/31/2017,monarchy,
-970,Nauru,Nauru,1/31/1968,12/31/2017,parliamentary,
-983,Marshall Islands,Marshall Islands,10/1/1979,12/31/2017,presidential,
-986,Palau,Palau,1/1/1981,12/31/2017,presidential,
-987,Micronesia,Micronesia,5/11/1979,12/31/2017,parliamentary,
-990,Samoa,Samoa,12/1/1961,12/31/2017,parliamentary,
+cowcode,gwf_country,gwf_casename,gwf_startdate,gwf_enddate,gwf_regimetype
+2,USA,USA9/1/1787,3/4/1789,12/31/2020,presidential
+20,Canada,Canada11668,12/11/1931,12/31/2020,parliamentary
+31,Bahamas,Bahamas6/30/1973,6/30/1973,12/31/2020,parliamentary
+40,Cuba,Cuba12298,10/10/1940,3/10/1952,presidential
+40,Cuba,Cuba19063,3/10/1952,1/1/1959,personal
+40,Cuba,Cuba21551,1/1/1959,12/31/2020,party-personal
+41,Haiti,Haiti17030,8/16/1946,5/10/1950,presidential
+41,Haiti,Haiti18393,5/10/1950,12/12/1956,personal
+41,Haiti,Haiti20801,12/12/1956,4/2/1957,provisional military
+41,Haiti,Haiti20912,4/2/1957,5/20/1957,military
+41,Haiti,Haiti20966,5/20/1957,6/14/1957,provisional military
+41,Haiti,Haiti20985,6/14/1957,2/7/1986,personal
+41,Haiti,Haiti31450,2/7/1986,2/7/1988,provisional military
+41,Haiti,Haiti20000,2/7/1988,9/17/1988,military
+41,Haiti,Haiti32403,9/17/1988,3/10/1990,military personal
+41,Haiti,Haiti32942,3/10/1990,2/7/1991,provisional
+41,Haiti,Haiti33276,2/7/1991,9/30/1991,presidential
+41,Haiti,Haiti33511,9/30/1991,10/12/1994,military
+41,Haiti,Haiti34619,10/12/1994,1/12/1999,presidential
+41,Haiti,Haiti36172,1/12/1999,2/29/2004,personal
+41,Haiti,Haiti38046,2/29/2004,5/14/2006,provisional
+41,Haiti,Haiti38851,5/14/2006,2/8/2016,presidential
+41,Haiti,Haiti38852,2/8/2016,2/7/2017,provisional
+41,Haiti,Haiti39000,2/7/2017,12/31/2020,presidential
+42,Dominican Rep,Dominican Rep11186,8/16/1930,12/29/1961,personal
+42,Dominican Rep,Dominican Rep22644,12/29/1961,1/19/1962,provisional
+42,Dominican Rep,Dominican Rep22665,1/19/1962,2/27/1963,foreign-occupied
+42,Dominican Rep,Dominican Rep23069,2/27/1963,9/26/1963,presidential
+42,Dominican Rep,Dominican Rep23280,9/26/1963,4/24/1965,military
+42,Dominican Rep,Dominican Rep23856,4/24/1965,7/1/1966,foreign-occupied
+42,Dominican Rep,Dominican Rep24289,7/1/1966,5/16/1978,personal
+42,Dominican Rep,Dominican Rep28626,5/16/1978,12/31/2020,presidential
+51,Jamaica,Jamaica22833,7/6/1962,12/31/2020,parliamentary
+52,Trinidad and Tobago,Trinidad and Tobago22858,7/31/1962,12/31/2020,parliamentary
+53,Barbados,Barbados24368,10/30/1966,12/31/2020,parliamentary
+54,Dominica,Dominica28766,10/3/1978,12/31/2020,parliamentary
+55,Grenada,Grenada27036,1/7/1974,3/13/1979,parliamentary
+55,Grenada,Grenada28927,3/13/1979,10/19/1983,personal
+55,Grenada,Grenada30608,10/19/1983,10/25/1983,military
+55,Grenada,Grenada20650,10/25/1983,12/9/1983,foreign-occupied
+55,Grenada,Grenada30659,12/9/1983,12/4/1984,provisional
+55,Grenada,Grenada31020,12/4/1984,12/31/2020,parliamentary
+56,St Lucia,St Lucia28877,1/22/1979,12/31/2020,parliamentary
+57,St Vincent,St Vincent29125,9/27/1979,12/31/2020,parliamentary
+58,Antigua and Barbuda,Antigua and Barbuda29860,10/1/1981,12/31/2020,parliamentary
+60,St Kitts and Nevis,St Kitts and Nevis30547,8/19/1983,12/31/2020,parliamentary
+70,Mexico,Mexico5693,8/2/1915,7/2/2000,party-based
+70,Mexico,Mexico36709,7/2/2000,12/31/2020,presidential
+80,Belize,Belize22319,8/1/1981,12/31/2020,parliamentary
+90,Guatemala,Guatemala16510,3/14/1945,6/27/1954,presidential
+90,Guatemala,Guatemala19902,6/27/1954,7/8/1954,military
+90,Guatemala,Guatemala19913,7/8/1954,7/20/1957,personal
+90,Guatemala,Guatemala21021,7/20/1957,10/28/1957,provisional military
+90,Guatemala,Guatemala21121,10/28/1957,3/2/1958,military
+90,Guatemala,Guatemala21246,3/2/1958,3/30/1963,personal
+90,Guatemala,Guatemala23100,3/30/1963,5/10/1966,military
+90,Guatemala,Guatemala24237,5/10/1966,3/1/1970,indirect military
+90,Guatemala,Guatemala25628,3/1/1970,3/23/1982,military
+90,Guatemala,Guatemala25999,3/23/1982,8/8/1983,military
+90,Guatemala,Guatemala 26000,8/8/1983,1/14/1986,military
+90,Guatemala,Guatemala31426,1/14/1986,6/1/1993,indirect military
+90,Guatemala,Guatemala34121,6/1/1993,11/12/1995,provisional
+90,Guatemala,Guatemala35015,11/12/1995,12/31/2020,presidential
+91,Honduras,Honduras12086,2/1/1933,11/15/1954,party-personal
+91,Honduras,Honduras19739,11/15/1954,10/21/1956,personal
+91,Honduras,Honduras20749,10/21/1956,12/21/1957,provisional military
+91,Honduras,Honduras21175,12/21/1957,10/3/1963,presidential
+91,Honduras,Honduras23287,10/3/1963,3/28/1971,party-military
+91,Honduras,Honduras26020,3/28/1971,12/4/1972,presidential
+91,Honduras,Honduras26637,12/4/1972,4/22/1975,military
+91,Honduras,Honduras27000,4/22/1975,8/7/1978,military
+91,Honduras,Honduras28000,8/7/1978,11/29/1981,military
+91,Honduras,Honduras29919,11/29/1981,12/31/2020,presidential
+92,El Salvador,El Salvador17881,12/14/1948,9/14/1950,military
+92,El Salvador,El Salvador18520,9/14/1950,10/26/1960,party-military
+92,El Salvador,El Salvador22215,10/26/1960,1/25/1962,military
+92,El Salvador,El Salvador22671,1/25/1962,10/15/1979,party-military
+92,El Salvador,El Salvador230000,10/15/1979,5/2/1982,military
+92,El Salvador,ElSalvador240000,5/2/1982,6/1/1989,indirect military
+92,El Salvador,El Salvador30834,6/1/1989,12/31/2020,presidential
+93,Nicaragua,Nicaragua13516,1/1/1937,7/17/1979,personal
+93,Nicaragua,Nicaragua29053,7/17/1979,2/25/1990,party-based
+93,Nicaragua,Nicaragua32929,2/25/1990,12/31/2020,presidential
+94,Costa Rica,Costa Rica18210,11/8/1949,12/31/2020,presidential
+95,Panama,Panama18226,11/24/1949,5/10/1951,personal
+95,Panama,Panama18758,5/10/1951,10/1/1952,provisional military
+95,Panama,Panama19268,10/1/1952,1/3/1955,party-personal-military
+95,Panama,Panama20092,1/3/1955,10/1/1960,party-based
+95,Panama,Panama22190,10/1/1960,10/11/1968,presidential
+95,Panama,Panama25122,10/11/1968,3/3/1982,military personal
+95,Panama,Panama30013,3/3/1982,12/20/1989,military personal
+95,Panama,Panama32862,12/20/1989,12/31/2020,presidential
+100,Colombia,Colombia18211,11/9/1949,6/13/1953,party-based
+100,Colombia,Colombia19523,6/13/1953,5/10/1958,military personal
+100,Colombia,Colombia21315,5/10/1958,12/31/2020,presidential
+101,Venezuela,Venezuela17861,11/24/1948,1/23/1958,military personal
+101,Venezuela,Venezuela21208,1/23/1958,12/4/2005,presidential
+101,Venezuela,Venezuela38690,12/4/2005,12/31/2020,personal
+110,Guyana,Guyana24223,4/26/1966,10/9/1992,party-based
+110,Guyana,Guyana33886,10/9/1992,12/31/2020,parliamentary
+115,Suriname,Suriname27692,10/25/1975,2/15/1980,party-based
+115,Suriname,Suriname29266,2/15/1980,1/25/1988,indirect military
+115,Suriname,Suriname32167,1/25/1988,12/24/1990,parliamentary
+115,Suriname,Suriname33000,12/24/1990,9/16/1991,provisional military
+115,Suriname,Suriname34000,9/16/1991,12/31/2020,parliamentary
+130,Ecuador,Ecuador17777,9/1/1948,7/11/1963,parliamentary
+130,Ecuador,Ecuador23203,7/11/1963,3/29/1966,military
+130,Ecuador,Ecuador24195,3/29/1966,9/1/1968,provisional
+130,Ecuador,Ecuador25082,9/1/1968,6/22/1970,presidential
+130,Ecuador,Ecuador25741,6/22/1970,2/15/1972,personal
+130,Ecuador,Ecuador26344,2/15/1972,1/11/1976,military
+130,Ecuador,Ecuador 27000,1/11/1976,4/29/1979,military
+130,Ecuador,Ecuador28974,4/29/1979,12/31/2020,presidential
+135,Peru,Peru17833,10/27/1948,6/17/1956,military personal
+135,Peru,Peru20623,6/17/1956,7/18/1962,presidential
+135,Peru,Peru22845,7/18/1962,6/9/1963,provisional military
+135,Peru,Peru23171,6/9/1963,10/3/1968,presidential
+135,Peru,Peru25114,10/3/1968,5/18/1980,military
+135,Peru,Peru29359,5/18/1980,4/5/1992,presidential
+135,Peru,Peru33699,4/5/1992,11/21/2000,personal
+135,Peru,Peru36851,11/21/2000,7/28/2001,provisional
+135,Peru,Peru37100,7/28/2001,12/31/2020,presidential
+140,Brazil,Brazil16833,1/31/1946,9/8/1961,presidential
+140,Brazil,Brazil17000,9/8/1961,1/23/1963,parliamentary
+140,Brazil,Brazil20000,1/23/1963,4/1/1964,presidential
+140,Brazil,Brazil23468,4/1/1964,1/15/1985,military
+140,Brazil,Brazil31062,1/15/1985,12/31/2020,presidential
+145,Bolivia,Bolivia17004,7/21/1946,5/16/1951,oligarchy
+145,Bolivia,Bolivia18764,5/16/1951,4/9/1952,military
+145,Bolivia,Bolivia19093,4/9/1952,11/4/1964,party-based
+145,Bolivia,Bolivia23685,11/4/1964,9/26/1969,personal
+145,Bolivia,Bolivia25472,9/26/1969,8/21/1971,military
+145,Bolivia,Bolivia26166,8/21/1971,7/21/1978,military personal
+145,Bolivia,Bolivia29037,7/21/1978,7/17/1980,provisional
+145,Bolivia,Bolivia29419,7/17/1980,10/10/1982,military
+145,Bolivia,Bolivia30234,10/10/1982,12/3/2017,presidential
+145,Bolivia,Bolivia102019,12/3/2017,11/10/2019,party-personal
+145,Bolivia,Boliviactb2,11/10/2019,10/18/2020,provisional 
+145,Bolivia,Boliviactb1,10/18/2020,12/31/2021,presidential
+150,Paraguay,Paraguay17687,6/3/1948,5/7/1954,party-based
+150,Paraguay,Paraguay19851,5/7/1954,5/9/1993,party-personal-military
+150,Paraguay,Paraguay34098,5/9/1993,12/31/2020,presidential
+155,Chile,Chile12055,1/1/1933,9/11/1973,presidential
+155,Chile,Chile26918,9/11/1973,12/14/1989,military personal
+155,Chile,Chile32856,12/14/1989,12/31/2020,presidential
+160,Argentina,Argentina16857,2/24/1946,9/28/1951,presidential
+160,Argentina,Argentina18899,9/28/1951,9/16/1955,personal
+160,Argentina,Argentina20348,9/16/1955,2/23/1958,military
+160,Argentina,Argentina21239,2/23/1958,6/28/1966,indirect military
+160,Argentina,Argentina24286,6/28/1966,3/11/1973,military
+160,Argentina,Argentina26734,3/11/1973,3/24/1976,presidential
+160,Argentina,Argentina27843,3/24/1976,10/30/1983,military
+160,Argentina,Argentina30619,10/30/1983,12/31/2020,presidential
+165,Uruguay,Uruguay15766,3/1/1943,1/25/1952,presidential
+165,Uruguay,Uruguay20000,1/25/1952,2/15/1967,presidential
+165,Uruguay,Uruguay20001,2/15/1967,6/27/1973,presidential
+165,Uruguay,Uruguay26842,6/27/1973,11/25/1984,military
+165,Uruguay,Uruguay31011,11/25/1984,12/31/2020,presidential
+200,UKG,UKG4384,1/1/1912,12/31/2020,parliamentary
+205,Ireland,Ireland8037,1/1/1922,12/31/2020,parliamentary
+210,Netherlands,Netherlands1/1/1871,1/1/1871,12/31/2020,parliamentary
+211,Belgium,Belgium7672,1/1/1921,12/31/2020,parliamentary
+212,Luxembourg,Luxembourg1/1/1871,1/1/1871,12/31/2020,parliamentary
+220,France,France1/1/1876,10/14/1946,10/4/1958,parliamentary
+220,France,France2090,10/4/1958,12/31/2020,presidential
+221,Monaco,Monaco4019,1/1/1911,12/31/2020,monarchy
+223,Liechtenstein,LIE7915,9/1/1921,12/31/2020,monarchy
+225,Switzerland,Switzerland1/1/1871,9/12/1848,12/31/2020,parliamentary
+230,Spain,Spain14332,3/28/1939,11/1/1975,personal
+230,Spain,Spain27699,11/1/1975,7/1/1976,provisional
+230,Spain,Spain27942,7/1/1976,12/31/2020,parliamentary
+232,Andorra,Andorra29921,12/1/1981,12/31/2020,parliamentary
+235,Portugal,Portugal9642,5/25/1926,4/25/1974,personal
+235,Portugal,Portugal27144,4/25/1974,7/23/1976,provisional
+235,Portugal,Portugal27964,7/23/1976,12/31/2020,presidential
+255,Germany,Germany33117,9/1/1990,12/31/2020,parliamentary
+260,Germany,Germany18157,9/16/1949,10/1/1990,parliamentary
+265,Germany East,Germany East18178,10/7/1949,10/1/1990,party-based
+290,Poland,Poland16437,12/31/1944,6/18/1989,party-based
+290,Poland,Poland32677,6/18/1989,12/31/2020,presidential
+305,Austria,Austria1945,4/10/1945,10/26/1955,foreign-occupied
+305,Austria,Austria19420,10/26/1955,12/31/2020,parliamentary
+310,Hungary,Hungary17223,2/25/1947,3/25/1990,party-based
+310,Hungary,Hungary33154,3/25/1990,3/30/2020,parliamentary
+310,Hungary,Hungary33020,3/30/2020,12/31/2020,party-based
+315,Czechoslovakia,Czechoslovakia17588,2/25/1948,12/4/1989,party-based
+315,Czechoslovakia,Czechoslovakia32846,12/4/1989,12/31/1992,parliamentary
+316,Czech Rep,Czech Rep33939,12/1/1992,12/31/2020,parliamentary
+317,Slovakia,Slovakia33939,12/1/1992,12/31/2020,parliamentary
+325,Italy,Italy16781,12/10/1945,12/31/2020,parliamentary
+331,San Marino,San Marino1/1/1700,10/8/1600,12/31/2020,parliamentary
+338,Malta,Malta22682,2/5/1962,12/31/2020,parliamentary
+339,Albania,Albania16405,11/29/1944,6/1/1991,party-based
+339,Albania,Albania33390,6/1/1991,12/31/2020,parliamentary
+341,Montenegro,Montenegro38840,5/3/2006,12/31/2020,parliamentary
+343,Macedonia,Macedonia33802,10/17/1991,12/31/2020,parliamentary
+344,Croatia,Croatia33383,5/25/1991,11/9/2000,party-based
+344,Croatia,Croatia36839,11/9/2000,12/31/2020,parliamentary
+345,Yugoslavia,Yugoslavia16503,3/7/1945,6/25/1991,party-based
+345,Serbia,Serbia33414,6/25/1991,10/5/2000,party-personal
+345,Serbia,Serbia36804,10/5/2000,12/31/2020,parliamentary
+346,Bosnia,Bosnia33197,2/3/1992,12/14/1995,warlordism
+346,Bosnia,Bosnia35047,12/14/1995,12/31/2020,foreign-occupied
+347,Kosovo,Kosovo39464,1/17/2008,6/15/2008,foreign-occupied
+347,Kosovo,Kosovo39614,6/15/2008,12/31/2020,parliamentary
+349,Slovenia,Slovenia33565,11/23/1991,12/31/2020,parliamentary
+350,Greece,Greece17418,9/8/1947,4/21/1967,parliamentary
+350,Greece,Greece24583,4/21/1967,7/23/1974,military
+350,Greece,Greece27233,7/23/1974,12/31/2020,parliamentary
+352,Cyprus,Cyprus22113,7/16/1960,12/31/2020,foreign-occupied
+355,Bulgaria,Bulgaria16324,9/9/1944,8/1/1990,party-based
+355,Bulgaria,Bulgaria33086,8/1/1990,12/31/2020,parliamentary
+359,Moldova,Moldova33088,8/3/1990,12/31/2020,parliamentary
+360,Romania,Romania16502,3/6/1945,12/22/1989,party-personal
+360,Romania,Romania32864,12/22/1989,9/30/1991,provisional
+360,Romania,Romania33511,9/30/1991,12/31/2020,parliamentary
+365,Soviet Union,Soviet Union6521,11/7/1917,8/21/1991,party-based
+365,Russia,Soviet Union33471,8/21/1991,9/21/1993,parliamentary
+365,Russia,Russia34233,9/21/1993,12/31/2020,personal
+366,Estonia,Estonia33456,8/6/1991,12/31/2020,parliamentary
+367,Latvia,Latvia32966,4/3/1990,12/31/2020,parliamentary
+368,Lithuania,Lithuania32915,2/11/1990,12/31/2020,parliamentary
+369,Ukraine,Ukraine33042,6/18/1990,12/31/2020,presidential
+370,Belarus,Belarus33475,8/25/1991,7/10/1994,party-based
+370,Belarus,Belarus34536,7/21/1994,12/31/2020,personal
+371,Armenia,Armenia33497,9/16/1991,4/23/2018,personal
+371,Armenia,Armenia5/8/2018,5/8/2018,12/31/2020,parliamentary
+372,Georgia,Georgia33309,3/12/1991,1/6/1992,personal
+372,Georgia,Georgia33609,1/6/1992,11/23/2003,personal
+372,Georgia,Georgia37948,11/23/2003,1/25/2004,provisional
+372,Georgia,Georgia38011,1/25/2004,12/16/2018,presidential
+372,Georgia,Georgia11/17/2013,12/16/2018,12/31/2020,parliamentary
+373,Azerbaijan,Azerbaijan33468,8/18/1991,5/15/1992,personal
+373,Azerbaijan,Azerbaijan33739,5/15/1992,6/16/1993,presidential
+373,Azerbaijan,Azerbaijan34136,6/16/1993,12/31/2020,personal
+375,Finland,Finland16438,1/1/1945,3/1/2000,presidential
+375,Finland,Finland16440,3/1/2000,12/31/2020,parliamentary
+380,Sweden,Sweden6941,1/1/1919,12/31/2020,parliamentary
+385,Norway,Norway1/1/1885,1/1/1885,12/31/2020,parliamentary
+390,Denmark,Denmark367,1/1/1901,12/31/2020,parliamentary
+395,Iceland,Iceland16438,1/1/1945,12/31/2020,parliamentary
+402,Cape Verde,Cape Verde27553,6/8/1975,4/4/1991,party-based
+402,Cape Verde,Cape Verde33332,4/4/1991,12/31/2020,parliamentary
+403,Sao Tome and Principe,Sao Tome and Principe27546,6/1/1975,10/1/1987,personal
+403,Sao Tome and Principe,Sao Tome and Principe32051,10/1/1987,3/4/1991,provisional
+403,Sao Tome and Principe,Sao Tome and Principe33301,3/4/1991,12/31/2020,parliamentary
+404,Guinea Bissau,Guinea Bissau27251,8/10/1974,11/14/1980,party-based
+404,Guinea Bissau,Guinea Bissau29539,11/14/1980,5/7/1999,personal
+404,Guinea Bissau,Guinea Bissau36287,5/7/1999,2/18/2000,provisional military
+404,Guinea Bissau,Guinea Bissau36574,2/18/2000,9/14/2003,presidential
+404,Guinea Bissau,Guinea Bissau37878,9/14/2003,10/1/2005,provisional military
+404,Guinea Bissau,Guinea Bissau38626,10/1/2005,3/2/2009,presidential
+404,Guinea Bissau,Guinea Bissau39874,3/2/2009,6/23/2014,provisional
+404,Guinea Bissau,GNB39000,6/23/2014,12/31/2020,presidential
+411,Equatorial Guinea,Equatorial Guinea23330,11/15/1963,5/7/1971,presidential
+411,Equatorial Guinea,Equatorial Guinea23530,5/7/1971,8/3/1979,personal
+411,Equatorial Guinea,Equatorial Guinea24330,8/3/1979,12/31/2020,personal
+420,Gambia,Gambia23760,1/18/1965,7/22/1994,party-based
+420,Gambia,Gambia25000,7/22/1994,8/8/1996,provisional military
+420,Gambia,Gambia34537,8/8/1996,1/18/2017,personal
+420,Gambia,Gambia35000,1/18/2017,12/31/2020,presidential
+432,Mali,Mali22150,8/22/1960,11/19/1968,party-based
+432,Mali,Mali25161,11/19/1968,3/26/1991,personal
+432,Mali,Mali33323,3/26/1991,6/6/1992,provisional military
+432,Mali,Mali33761,6/6/1992,3/22/2012,presidential
+432,Mali,Mali40990,3/22/2012,4/12/2012,provisional military
+432,Mali,Mali41011,4/12/2012,9/4/2013,provisional
+432,Mali,Mali41521,9/4/2013,12/31/2020,presidential
+433,Senegal,Senegal22117,7/20/1960,4/2/2000,party-based
+433,Senegal,Senegal36618,4/2/2000,12/31/2020,presidential
+434,Benin,Benin21885,12/1/1959,10/28/1963,personal
+434,Benin,Benin23312,10/28/1963,1/19/1964,personal
+434,Benin,Benin24000,1/19/1964,11/29/1965,provisional military
+434,Benin,Benin24098,11/29/1965,12/17/1967,military
+434,Benin,Benin24823,12/17/1967,12/10/1969,military
+434,Benin,Benin25547,12/10/1969,5/7/1970,military
+434,Benin,Benin25695,5/7/1970,10/26/1972,provisional
+434,Benin,Benin26598,10/26/1972,2/25/1990,personal
+434,Benin,Benin32929,2/25/1990,4/4/1991,provisional
+434,Benin,Benin33332,4/4/1991,12/31/2020,presidential
+435,Mauritania,Mauritania22217,10/28/1960,7/10/1978,personal
+435,Mauritania,Mauritania28681,7/10/1978,8/3/2005,personal
+435,Mauritania,Mauritania38567,8/3/2005,3/25/2007,provisional military
+435,Mauritania,Mauritania39166,3/25/2007,8/6/2008,presidential
+435,Mauritania,Mauritania39666,8/6/2008,12/31/2020,personal
+436,Niger,Niger22131,8/3/1960,4/15/1974,party-based
+436,Niger,Niger27134,4/15/1974,7/29/1991,military personal
+436,Niger,Niger33448,7/29/1991,4/16/1993,provisional
+436,Niger,Niger34075,4/16/1993,1/27/1996,presidential
+436,Niger,Niger35091,1/27/1996,4/11/1999,personal
+436,Niger,Niger36261,4/11/1999,12/22/1999,provisional military
+436,Niger,Niger36516,12/22/1999,2/8/2010,presidential
+436,Niger,Niger40217,2/8/2010,4/7/2011,provisional military
+436,Niger,Niger40640,4/7/2011,12/31/2020,presidential
+437,Ivory Coast,Ivory Coast22104,7/7/1960,12/24/1999,party-based
+437,Ivory Coast,Ivory Coast36518,12/24/1999,10/26/2000,personal
+437,Ivory Coast,Ivory Coast36825,10/26/2000,4/11/2011,personal
+437,Ivory Coast,Ivory Coast40644,4/11/2011,12/31/2020,presidential
+438,Guinea,Guinea21430,9/2/1958,4/3/1984,party-based
+438,Guinea,Guinea30775,4/3/1984,12/23/2008,personal
+438,Guinea,Guinea39805,12/23/2008,12/21/2010,military
+438,Guinea,Guinea40533,12/21/2010,12/31/2020,presidential
+439,Burkina Faso,Burkina Faso22102,7/5/1960,1/3/1966,personal
+439,Burkina Faso,Burkina Faso24110,1/3/1966,6/14/1970,military
+439,Burkina Faso,Burkina Faso 25000,6/14/1970,11/25/1980,personal
+439,Burkina Faso,Burkina Faso29550,11/25/1980,11/7/1982,military
+439,Burkina Faso,Burkina Faso30262,11/7/1982,10/15/1987,personal
+439,Burkina Faso,Burkina Faso32065,10/15/1987,10/31/2014,personal
+439,Burkina Faso,Burkina Faso41943,10/31/2014,12/29/2015,provisional
+439,Burkina Faso,Burkina Faso 42000,12/29/2015,12/31/2020,presidential
+450,Liberia,Liberia16072,1/1/1944,4/12/1980,party-personal
+450,Liberia,Liberia29323,4/12/1980,9/9/1990,personal
+450,Liberia,Liberia33125,9/9/1990,7/19/1997,warlordism
+450,Liberia,Liberia35630,7/19/1997,8/11/2003,personal
+450,Liberia,Liberia37844,8/11/2003,1/16/2006,provisional
+450,Liberia,Liberia38733,1/16/2006,12/31/2020,presidential
+451,Sierra Leone,Sierra Leone22367,3/27/1961,3/23/1967,parliamentary
+451,Sierra Leone,Sierra Leone24554,3/23/1967,4/18/1968,military
+451,Sierra Leone,Sierra Leone24946,4/18/1968,4/29/1992,party-based
+451,Sierra Leone,Sierra Leone33723,4/29/1992,3/29/1996,military personal
+451,Sierra Leone,Sierra Leone35153,3/29/1996,5/25/1997,presidential
+451,Sierra Leone,Sierra Leone35575,5/25/1997,3/10/1998,military personal
+451,Sierra Leone,Sierra Leone35864,3/10/1998,12/31/2020,presidential
+452,Ghana,Ghana19045,2/6/1957,4/27/1960,parliamentary
+452,Ghana,Ghana20000,4/27/1960,2/24/1966,party-personal
+452,Ghana,Ghana24162,2/24/1966,8/29/1969,military
+452,Ghana,Ghana25000,8/29/1969,8/7/1970,provisional military
+452,Ghana,Ghana25444,8/7/1970,1/13/1972,parliamentary
+452,Ghana,Ghana26311,1/13/1972,7/9/1979,military
+452,Ghana,Ghana29045,7/9/1979,12/31/1981,presidential
+452,Ghana,Ghana29951,12/31/1981,1/1/1993,personal
+452,Ghana,Ghana33970,1/1/1993,12/31/2020,presidential
+461,Togo,Togo22000,3/27/1960,4/9/1961,parliamentary
+461,Togo,Togo22002,4/9/1961,1/13/1963,personal
+461,Togo,Togo23024,1/13/1963,12/31/2020,personal
+471,Cameroon,Cameroon21885,12/1/1959,8/22/1983,party-personal
+471,Cameroon,Cameroon30550,8/22/1983,12/31/2020,personal
+475,Nigeria,Nigeria22160,9/1/1960,1/15/1966,parliamentary
+475,Nigeria,Nigeria24317,1/15/1966,7/30/1975,military
+475,Nigeria,Nigeria25000,7/30/1975,8/11/1979,provisional military
+475,Nigeria,Nigeria29078,8/11/1979,12/31/1983,presidential
+475,Nigeria,Nigeria30681,12/31/1983,8/26/1993,military
+475,Nigeria,Nigeria34207,8/26/1993,11/17/1993,provisional military
+475,Nigeria,Nigeria 35000,11/17/1993,5/31/1998,military personal
+475,Nigeria,Nigeria35946,5/31/1998,5/1/1999,provisional military
+475,Nigeria,Nigeria36281,5/1/1999,12/31/2020,presidential
+481,Gabon,Gabon22114,7/17/1960,12/31/2020,party-personal
+482,Cen African Rep,Cen African Rep22128,7/31/1960,12/31/1965,personal
+482,Cen African Rep,Cen African Rep24107,12/31/1965,9/20/1979,personal
+482,Cen African Rep,Cen African Rep29118,9/20/1979,9/1/1981,personal
+482,Cen African Rep,Cen African Rep29830,9/1/1981,9/19/1993,military personal
+482,Cen African Rep,Cen African Rep34231,9/19/1993,3/15/2003,presidential
+482,Cen African Rep,Cen African Rep37695,3/15/2003,3/24/2013,personal
+482,Cen African Rep,Cen African Rep41357,3/24/2013,3/1/2016,provisional
+482,Cen African Rep,Cen African Rep42000,3/1/2016,12/31/2020,presidential
+483,Chad,Chad22108,7/11/1960,4/13/1975,party-personal
+483,Chad,Chad27497,4/13/1975,3/23/1979,military
+483,Chad,Chad28937,3/23/1979,6/7/1982,warlordism
+483,Chad,Chad30109,6/7/1982,12/1/1990,personal
+483,Chad,Chad33208,12/1/1990,12/31/2020,personal
+484,Congo-Brz,Congo-Brz22112,7/15/1960,8/15/1963,personal
+484,Congo-Brz,Congo-Brz23238,8/15/1963,9/4/1968,party-personal
+484,Congo-Brz,Congo-Brz25085,9/4/1968,2/25/1991,party-military
+484,Congo-Brz,Congo-Brz33294,2/25/1991,8/31/1992,provisional
+484,Congo-Brz,Congo-Brz33847,8/31/1992,10/14/1997,presidential
+484,Congo-Brz,Congo-Brz35717,10/14/1997,12/31/2020,personal
+490,Congo/Zaire,Congo/Zaire22066,5/30/1960,9/14/1960,parliamentary
+490,Congo/Zaire,Congo/Zaire23000,9/14/1960,11/24/1965,indirect military
+490,Congo/Zaire,Congo/Zaire25000,11/24/1965,5/17/1997,personal
+490,Congo/Zaire,Congo/Zaire35567,5/17/1997,12/31/2020,personal
+500,Uganda,Uganda00000,9/9/1962,4/15/1966,parliamentary
+500,Uganda,Uganda22898,4/15/1966,1/25/1971,personal
+500,Uganda,Uganda25958,1/25/1971,4/11/1979,personal
+500,Uganda,Uganda28956,4/11/1979,12/11/1980,provisional
+500,Uganda,Uganda29566,12/11/1980,7/27/1985,personal
+500,Uganda,Uganda31255,7/27/1985,1/27/1986,warlordism
+500,Uganda,Uganda31439,1/27/1986,12/31/2020,personal
+501,Kenya,Kenya23327,11/12/1963,12/27/2002,party-based
+501,Kenya,Kenya37617,12/27/2002,12/31/2020,presidential
+510,Tanzania,Tanzania00000,10/9/1961,4/26/1964,parliamentary
+510,Tanzania,Tanzania22563,4/26/1964,12/31/2020,party-based
+516,Burundi,Burundi22798,6/1/1962,7/8/1966,monarchy
+516,Burundi,Burundi24296,7/8/1966,9/3/1987,party-military
+516,Burundi,Burundi32023,9/3/1987,7/10/1993,military
+516,Burundi,Burundi34160,7/10/1993,10/21/1993,presidential
+516,Burundi,Burundi34263,10/21/1993,7/25/1996,presidential
+516,Burundi,Burundi35271,7/25/1996,4/30/2003,military personal
+516,Burundi,Burundi37741,4/30/2003,8/26/2005,provisional
+516,Burundi,Burundi38590,8/26/2005,8/20/2015,presidential
+516,Burundi,Burundi8/20/2015,8/20/2015,12/31/2020,personal
+517,Rwanda,Rwanda22525,9/1/1961,7/5/1973,party-based
+517,Rwanda,Rwanda26850,7/5/1973,7/4/1994,military personal
+517,Rwanda,Rwanda34519,7/4/1994,12/31/2020,party-military
+520,Somalia,Somalia22068,6/1/1960,10/21/1969,presidential
+520,Somalia,Somalia25497,10/21/1969,1/26/1991,personal
+520,Somalia,Somalia33264,1/26/1991,9/16/2012,warlordism
+520,Somalia,Somalia41168,9/16/2012,12/31/2020,provisional
+522,Djibouti,Djibouti28272,5/27/1977,12/31/2020,personal
+530,Ethiopia,Ethiopia001,1/1/1890,9/12/1974,monarchy
+530,Ethiopia,Ethiopia27284,9/12/1974,5/21/1991,military personal
+530,Ethiopia,Ethiopia33385,5/27/1991,12/31/2020,party-based
+531,Eritrea,Eritrea34083,4/24/1993,12/31/2020,party-personal
+540,Angola,Angola27678,10/11/1975,12/31/2020,party-based
+541,Mozambique,Mozambique27539,5/25/1975,12/31/2020,party-based
+551,Zambia,Zambia23644,9/24/1964,10/31/1991,party-based
+551,Zambia,Zambia33542,10/31/1991,5/28/1996,presidential
+551,Zambia,Zambia35213,5/28/1996,9/23/2011,party-based
+551,Zambia,Zambia40809,9/23/2011,12/31/2020,presidential
+552,Zimbabwe,Zimbabwe24026,10/11/1965,5/29/1979,oligarchy
+552,Zimbabwe,Zimbabwe29004,5/29/1979,4/18/1980,provisional
+552,Zimbabwe,Zimbabwe29329,4/18/1980,12/31/2020,party-based
+553,Malawi,Malawi23534,6/6/1964,5/17/1994,personal
+553,Malawi,Malawi34471,5/17/1994,12/31/2020,presidential
+560,South Africa,South Africa3804,5/31/1910,4/29/1994,oligarchy
+560,South Africa,South Africa34453,4/29/1994,12/31/2020,parliamentary
+565,Namibia,Namibia32925,2/21/1990,12/31/2020,party-based
+570,Lesotho,Lesotho24354,9/4/1966,1/31/1970,parliamentary
+570,Lesotho,Lesotho25599,1/31/1970,1/20/1986,party-based
+570,Lesotho,Lesotho31432,1/20/1986,3/27/1993,military
+570,Lesotho,Lesotho34055,3/27/1993,12/31/2020,parliamentary
+571,Botswana,Botswana24349,8/30/1966,12/31/2020,party-based
+572,Swaziland,Swaziland25056,8/6/1968,12/31/2020,monarchy
+580,Madagascar,Madagascar22062,5/26/1960,5/18/1972,party-based
+580,Madagascar,Madagascar26437,5/18/1972,6/15/1975,military
+580,Madagascar,Madagascar27560,6/15/1975,2/10/1993,personal
+580,Madagascar,Madagascar34010,2/10/1993,3/17/2009,presidential
+580,Madagascar,Madagascar39889,3/17/2009,1/25/2014,personal
+580,Madagascar,Madagascar41664,1/25/2014,12/31/2020,presidential
+581,Comoros,Comoros27551,6/6/1975,11/26/1989,military personal
+581,Comoros,Comoros28000,11/26/1989,9/29/1995,provisional
+581,Comoros,Comoros 29000,9/29/1995,4/30/1999,provisional
+581,Comoros,Comoros30000,4/30/1999,5/26/2006,military personal
+581,Comoros,Comoros38863,5/26/2006,12/31/2020,presidential
+590,Mauritius,Mauritius24880,2/12/1968,12/31/2020,parliamentary
+591,Seychelles,Seychelles27909,5/29/1976,7/1/1977,parliamentary
+591,Seychelles,Seychelles28307,7/1/1977,6/18/1993,personal
+591,Seychelles,Seychelles34138,6/18/1993,12/31/2020,party-based
+600,Morocco,Morocco20487,2/2/1956,12/31/2020,monarchy
+615,Algeria,Algeria22739,4/3/1962,1/11/1992,party-military
+615,Algeria,Algeria33614,1/11/1992,4/2/2019,military
+615,Algeria,Algeria04319,4/2/2019,11/1/2020,civilian provisional
+615,Algeria,Algeriactb1,11/1/2020,12/31/2021,presidential
+616,Tunisia,Tunisia15826,4/30/1943,7/25/1957,monarchy
+616,Tunisia,Tunisia21026,7/25/1957,1/14/2011,party-based
+616,Tunisia,Tunisia40557,1/14/2011,1/1/2015,provisional
+616,Tunisia,Tunisia42005,1/1/2015,12/31/2020,presidential
+620,Libya,Libya18652,1/24/1951,9/1/1969,monarchy
+620,Libya,Libya25447,9/1/1969,8/15/2011,personal
+620,Libya,Libya40770,8/15/2011,12/31/2020,warlordism
+625,Sudan,Sudan20090,1/1/1955,11/17/1958,parliamentary
+625,Sudan,Sudan21506,11/17/1958,10/29/1964,military
+625,Sudan,Sudan23679,10/29/1964,6/14/1965,provisional
+625,Sudan,Sudan23907,6/14/1965,5/25/1969,parliamentary
+625,Sudan,Sudan25348,5/25/1969,4/6/1985,personal
+625,Sudan,Sudan31143,4/6/1985,4/12/1986,provisional military
+625,Sudan,Sudan31514,4/12/1986,6/30/1989,parliamentary
+625,Sudan,Sudan32689,6/30/1989,4/10/2019,personal
+625,Sudan,Sudan041019,4/10/2019,8/20/2019,provisional military
+625,Sudan,Sudan08202019,8/20/2019,12/31/2020,civilian provisional
+626,South Sudan,South Sudan40695,6/1/2011,12/31/2020,personal
+630,Iran,Iran9481,12/15/1925,1/16/1979,monarchy
+630,Iran,Iran28871,1/16/1979,12/31/2020,party-based
+640,Turkey,Turkey8703,10/29/1923,5/14/1950,party-based
+640,Turkey,Turkey18397,5/14/1950,10/27/1957,parliamentary
+640,Turkey,Turkey21120,10/27/1957,5/27/1960,party-based
+640,Turkey,Turkey22063,5/27/1960,10/15/1961,military
+640,Turkey,Turkey22569,10/15/1961,9/12/1980,parliamentary
+640,Turkey,Turkey29476,9/12/1980,11/6/1983,military
+640,Turkey,Turkey30626,11/6/1983,5/6/2019,presidential
+640,Turkey,Turkey05619,5/6/2019,12/31/2020,party-personal
+645,Iraq,Iraq11975,10/13/1932,7/14/1958,monarchy
+645,Iraq,Iraq21380,7/14/1958,2/8/1963,personal
+645,Iraq,Iraq23050,2/8/1963,7/17/1968,personal
+645,Iraq,Iraq25036,7/17/1968,7/16/1979,party-personal
+645,Iraq,Iraq29052,7/16/1979,4/7/2003,personal
+645,Iraq,Iraq37718,4/7/2003,12/31/2011,foreign-occupied
+645,Iraq,Iraq40908,12/31/2011,12/31/2020,parliamentary
+651,Egypt,Egypt8095,2/28/1922,7/23/1952,monarchy
+651,Egypt,Egypt19198,7/23/1952,2/11/2011,party-personal-military
+651,Egypt,Egypt40585,2/11/2011,6/30/2012,provisional military
+651,Egypt,Egypt41090,6/30/2012,7/3/2013,presidential
+651,Egypt,Egypt41458,7/3/2013,5/28/2014,provisional military
+651,Egypt,Egypt52514,5/28/2014,4/22/2019,presidential
+651,Egypt,Egypt42219,4/22/2019,12/31/2020,military personal
+652,Syria,Syria18251,12/19/1949,11/29/1951,indirect military
+652,Syria,Syria18961,11/29/1951,2/25/1954,military
+652,Syria,Syria19780,2/25/1954,2/26/1957,presidential
+652,Syria,Syria20877,2/26/1957,2/28/1958,personal
+652,Syria,Syria21244,2/28/1958,3/28/1962,foreign-occupied
+652,Syria,Syria22733,3/28/1962,3/8/1963,indirect military
+652,Syria,Syria23078,3/8/1963,12/31/2020,party-personal-military
+660,Lebanon,Lebanon16032,11/22/1943,9/23/1976,parliamentary
+660,Lebanon,Lebanon28026,9/23/1976,4/26/2005,foreign-occupied
+660,Lebanon,Lebanon38468,4/26/2005,12/31/2020,parliamentary
+663,Jordan,Jordan16947,5/25/1946,12/31/2020,monarchy
+666,Israel,Israel17667,5/14/1948,12/31/2020,parliamentary
+670,Saudi Arabia,Saudi Arabia10002,5/20/1927,12/31/2020,monarchy
+678,Yemen,Yemen6878,10/30/1918,9/26/1962,monarchy
+678,Yemen,Yemen22915,9/26/1962,11/5/1967,military
+678,Yemen,Yemen24781,11/5/1967,6/13/1974,personal
+678,Yemen,Yemen27193,6/13/1974,7/17/1978,military
+678,Yemen,Yemen28688,7/17/1978,5/22/1990,personal
+679,Yemen,Yemen32985,4/22/1990,2/6/2015,personal
+679,Yemen,Yemen33000,2/6/2015,12/31/2020,warlordism
+680,Yemen South,Yemen South24775,10/30/1967,5/22/1990,party-based
+690,Kuwait,Kuwait18068,6/19/1949,12/31/2020,monarchy
+692,Bahrain,Bahrain26129,7/15/1971,12/31/2020,monarchy
+694,Qatar,Qatar26117,7/3/1971,12/31/2020,monarchy
+696,United Arab Emirates,United Arab Emirates26116,7/2/1971,12/31/2020,monarchy
+698,Oman,Oman12/31/1741,12/31/1741,12/31/2020,monarchy
+700,Afghanistan,Afghanistan10876,10/10/1929,7/17/1973,monarchy
+700,Afghanistan,Afghanistan26862,7/17/1973,4/27/1978,personal
+700,Afghanistan,Afghanistan28607,4/27/1978,4/16/1992,party-personal
+700,Afghanistan,Afghanistan33710,4/16/1992,9/27/1996,warlordism
+700,Afghanistan,Afghanistan35335,9/27/1996,11/13/2001,party-based
+700,Afghanistan,Afghanistan37208,11/13/2001,9/29/2014,foreign-occupied
+700,Afghanistan,Afghanistan38000,9/29/2014,12/31/2020,presidential
+701,Turkmenistan,Turkmenistan33143,9/27/1990,12/31/2020,party-personal
+702,Tajikistan,Tajikistan33428,7/9/1991,12/31/2020,personal
+703,Kyrgyzstan,Kyrgyzstan33146,9/30/1990,3/24/2005,personal
+703,Kyrgyzstan,Kyrgyzstan38435,3/24/2005,4/7/2010,personal
+703,Kyrgyzstan,Kyrgyzstanctb1,4/7/2010,12/1/2011,provisional 
+703,Kyrgyzstan,Kyrgyzstanctb2,12/1/2011,10/15/2020,party-based
+703,Kyrgyzstan,Kyrgystanctb3,10/15/2020,12/31/2021,provisonal 
+704,Uzbekistan,Uzbekistan32932,2/28/1990,12/31/2020,party-personal
+705,Kazakhstan,Kazakhstan32948,3/16/1990,12/31/2020,personal
+710,China,China17920,1/22/1949,12/31/2020,party-based
+712,Mongolia,Mongolia7928,9/14/1921,6/6/1993,party-based
+712,Mongolia,Mongolia34126,6/6/1993,12/31/2020,presidential
+731,Korea North,Korea North17785,9/9/1948,12/31/2020,party-personal
+732,Korea South,Korea South17758,8/13/1948,4/27/1960,personal
+732,Korea South,Korea South22033,4/27/1960,5/16/1961,parliamentary
+732,Korea South,Korea South22417,5/16/1961,6/29/1987,military
+732,Korea South,Korea South31957,6/29/1987,12/31/2020,presidential
+740,Japan,Japan16267,8/14/1945,4/11/1951,foreign-occupied
+740,Japan,Japanz,4/11/1951,12/31/2020,parliamentary
+750,India,India17394,8/15/1947,12/31/2020,parliamentary
+760,Bhutan,Bhutan19048,2/24/1952,4/9/2008,monarchy
+760,Bhutan,Bhutan39547,4/9/2008,12/31/2020,parliamentary
+770,Pakistan,Pakistan17393,8/14/1947,10/27/1958,oligarchy
+770,Pakistan,Pakistan21485,10/27/1958,12/20/1971,military personal
+770,Pakistan,Pakistan26287,12/20/1971,2/9/1975,parliamentary
+770,Pakistan,Pakistan27434,2/9/1975,7/5/1977,personal
+770,Pakistan,Pakistan28311,7/5/1977,11/16/1988,military personal
+770,Pakistan,Pakistan32463,11/16/1988,10/12/1999,parliamentary
+770,Pakistan,Pakistan36445,10/12/1999,8/18/2008,military personal
+770,Pakistan,Pakistan39678,8/18/2008,12/31/2020,parliamentary
+771,Bangladesh,Bangladesh26003,3/11/1971,11/7/1975,party-personal
+771,Bangladesh,Bangladesh27705,11/7/1975,3/24/1982,personal
+771,Bangladesh,Bangladesh30034,3/24/1982,12/6/1990,personal
+771,Bangladesh,Bangladesh33213,12/6/1990,1/11/2007,parliamentary
+771,Bangladesh,Bangladesh39093,1/11/2007,1/6/2009,military
+771,Bangladesh,Bangladesh39819,1/6/2009,12/31/2020,parliamentary
+775,Myanmar,Myanmar17536,1/4/1948,9/26/1958,parliamentary
+775,Myanmar,Myanmar21454,9/26/1958,2/6/1960,military
+775,Myanmar,Myanmar21952,2/6/1960,3/2/1962,parliamentary
+775,Myanmar,Myanmar22707,3/2/1962,9/18/1988,military personal
+775,Myanmar,Myanmar32404,9/18/1988,3/30/2011,military
+775,Myanmar,Myanmar40632,3/30/2011,12/31/2020,party-military
+780,Sri Lanka,Sri Lanka17899,1/1/1949,9/7/1978,parliamentary
+780,Sri Lanka,Sri Lanka28740,9/7/1978,11/9/1994,party-based
+780,Sri Lanka,Sri Lanka34647,11/9/1994,12/31/2020,presidential
+781,Maldives,Maldives23919,6/26/1965,11/11/2008,personal
+781,Maldives,Maldives39763,11/11/2008,12/31/2020,presidential
+790,Nepal,Nepal0000,9/15/1846,2/18/1951,monarchy
+790,Nepal,Nepal18677,2/18/1951,5/12/1991,monarchy
+790,Nepal,Nepal33370,5/12/1991,10/4/2002,parliamentary
+790,Nepal,Nepal37533,10/4/2002,4/24/2006,monarchy
+790,Nepal,Nepal38831,4/24/2006,12/31/2020,parliamentary
+800,Thailand,Thailand17479,11/8/1947,9/16/1957,military personal
+800,Thailand,Thailand21079,9/16/1957,10/14/1973,military personal
+800,Thailand,Thailand26951,10/14/1973,3/17/1975,provisional
+800,Thailand,Thailand27470,3/17/1975,10/6/1976,parliamentary
+800,Thailand,Thailand28039,10/6/1976,7/24/1988,military personal
+800,Thailand,Thailand32348,7/24/1988,2/23/1991,parliamentary
+800,Thailand,Thailand33292,2/23/1991,5/20/1992,military
+800,Thailand,Thailand33744,5/20/1992,9/19/2006,parliamentary
+800,Thailand,Thailand38979,9/19/2006,12/23/2007,military
+800,Thailand,Thailand39439,12/23/2007,5/7/2014,parliamentary
+800,Thailand,Thailand41766,5/7/2014,12/31/2020,military
+811,Cambodia,Cambodia19641,10/9/1953,3/18/1970,monarchy
+811,Cambodia,Cambodia25645,3/18/1970,4/17/1975,personal
+811,Cambodia,Cambodia27501,4/17/1975,1/7/1979,party-based
+811,Cambodia,Cambodia28862,1/7/1979,12/31/2020,party-based
+812,Laos,Laos18922,11/24/1954,12/24/1959,parliamentary
+812,Laos,Laos21908,12/24/1959,12/16/1960,personal
+812,Laos,Laos22266,12/16/1960,7/24/1962,personal
+812,Laos,Laos22851,7/24/1962,11/29/1975,warlordism
+812,Laos,Laos27727,11/29/1975,12/31/2020,party-based
+816,Vietnam,Vietnam18263,12/31/1949,12/31/2020,party-based
+817,Vietnam South,Vietnam South19724,12/31/1953,11/2/1963,personal
+817,Vietnam South,Vietnam South23317,11/2/1963,4/30/1975,military
+820,Malaysia,Malaysia21032,7/31/1957,5/9/2018,party-based
+820,Malaysia,Malaysia5/9/2018,5/9/2018,12/31/2020,parliamentary
+830,Singapore,Singapore23928,7/5/1965,12/31/2020,party-based
+835,Brunei,Brunei24719,9/4/1967,12/31/2020,monarchy
+840,Philippines,Philippines17168,1/1/1947,9/22/1972,presidential
+840,Philippines,Philippines26564,9/22/1972,2/25/1986,personal
+840,Philippines,Philippines31468,2/25/1986,12/31/2020,presidential
+850,Indonesia,Indonesia18259,12/27/1949,3/11/1966,personal
+850,Indonesia,Indonesia24177,3/11/1966,6/7/1999,party-personal-military
+850,Indonesia,Indonesia36318,6/7/1999,12/31/2020,presidential
+860,East Timor,East Timor37366,4/20/2002,12/31/2020,presidential
+900,Australia,Australia732,1/1/1902,12/31/2020,parliamentary
+910,Papua New Guinea,Papua New Guinea27622,8/16/1975,12/31/2020,parliamentary
+920,New Zealand,New Zealand2923,1/1/1908,12/31/2020,parliamentary
+935,Vanuatu,Vanuatu1,7/30/1980,12/31/2020,parliamentary
+940,Solomon Islands,Solomon Islands28648,6/7/1978,12/31/2020,parliamentary
+946,Kiribati,Kiribati,7/12/1979,12/31/2020,presidential
+947,Tuvalu,Tuvalu,9/1/1978,12/31/2020,parliamentary
+950,Fiji,Fiji25821,9/10/1970,4/12/1987,party-based
+950,Fiji,Fiji31880,4/13/1987,5/14/1987,parliamentary
+950,Fiji,Fiji31911,5/14/1987,6/2/1992,military personal
+950,Fiji,Fiji33757,6/2/1992,5/19/1999,party-based
+950,Fiji,Fiji36299,5/19/1999,5/27/2000,parliamentary
+950,Fiji,Fiji36673,5/27/2000,12/5/2006,party-based
+950,Fiji,Fiji39056,12/5/2006,12/31/2020,military personal
+955,Tonga,Tonga,5/4/1970,12/31/2020,monarchy
+970,Nauru,Nauru,1/31/1968,12/31/2020,parliamentary
+983,Marshall Islands,Marshall Islands,10/1/1979,12/31/2020,presidential
+986,Palau,Palau,1/1/1981,12/31/2020,presidential
+987,Micronesia,Micronesia,5/11/1979,12/31/2020,parliamentary
+990,Samoa,Samoa,12/1/1961,12/31/2020,parliamentary

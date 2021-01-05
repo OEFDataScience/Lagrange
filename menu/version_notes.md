@@ -11,8 +11,10 @@ please contact Clayton Besaw (cbesaw@oneearthfuture.org) with your request.
   * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
   * Audited and updated inter-state conflict statuses for end of 2020. 
   * Added new 2019 numbers from [UCDP's Georeferenced Event Dataset](https://ucdp.uu.se/downloads/) for political violence indicator forecast. 
-  * Fixed election information for elections in the following countries: St Vincent, Niger
+  * Fixed election information for elections in the following countries: St. Vincent, Niger
   * Fixed leadership information for the following countries: Malta
+  * Regime type changes for the following countries: Algeria (to presidential), Bolivia (to presidential), Kyrgyz Republic (to civilian provisional)
+  * Regime type histories corrected or expanded for the following countries: Bolivia, Kyrgyz Republic
   * Substantially changed GitHub repo site for REIGN data to include new citation information, access to ELVI, new versioning information
   * We have discontinued our online archive for monthly leader/election update information. This information is accessible through REIGN itself and the data should be consulted for historical leadership start dates and election outcomes.
   
