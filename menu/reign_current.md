@@ -34,7 +34,7 @@ Find the most current REIGN briefing [here](https://t.co/jPy5LoaRzj?amp=1)
 	
 ### Codebook and Notes
 
-[Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_codebook.html)
+[Codebook](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_codebook.pdf)
 
 [Technical Notes](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/documents/reign_notes.pdf)
 
