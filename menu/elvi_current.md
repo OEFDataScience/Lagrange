@@ -26,7 +26,7 @@ Find the most current ELVI forecast data [here](https://cdn.rawgit.com/OEFDataSc
 	
 ### Codebook and Notes
 
-*Coming Soon*
+[Codebook](https://raw.githubusercontent.com/OEFDataScience/REIGN.github.io/gh-pages/documents/ELVI_CODEBOOK.pdf)
 
 ### Questions?
 
