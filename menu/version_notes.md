@@ -8,7 +8,10 @@ please contact Clayton Besaw (cbesaw@oneearthfuture.org) with your request.
 # CURRENT VERSION NOTES
 
 **February 2, 2021**
-  * 
+  * Fixed election announcement and date for Kosovo snap election.
+  * Added new successful coup event in the following countries: Myanmar (February 2021)
+  * Regime type changes for the following countries: Myanmar (to military junta), Kyrgyz Republic (to presidential)
+  * Nicaragua's regime type has retroactively been changed to party-personal starting in December 2020. This was done in light of new legislation that gives the presidency unilateral power to ban/disqualify parties and individuals from elections.
 
 **January 5, 2021**
   * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
