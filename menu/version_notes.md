@@ -7,6 +7,9 @@ please contact Clayton Besaw (cbesaw@oneearthfuture.org) with your request.
 
 # CURRENT VERSION NOTES
 
+**February 2, 2021**
+  * 
+
 **January 5, 2021**
   * Updated precipitation (SPI) estimates using NOAA’s December 2020 PREC/L release (https://www.esrl.noaa.gov/psd/data/gridded/data.prel.html).
   * Audited and updated inter-state conflict statuses for end of 2020. 
