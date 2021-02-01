@@ -4,25 +4,26 @@ title: ELVI Dataset
 ---
 
 
-**January 2021 ELVI Dataset (Updated as of January 5):**
+**February 2021 ELVI Dataset (Updated as of February 2):**
 
-**January Election Violence Forecast**
-  * Kyrgyz Republic (January 10) - 46% chance of violence
-  * Uganda (January 14) - 92% chance of violence
-  * Kazakhstan (January 21) - 27% chance of violence
-  * Portugal (January 24) - 4% chance of violence
+**February Election Violence Forecast**
+  * Ecuador (February 7) - 5% chance of violence
+  * Somalia (February 7) - 90% chance of violence
+  * Laos (February 21 - estimated) - 22% chance of violence
+  * El Salvador (February 28) - 4% chance of violence
   
 **Top-5 At-Risk Remaining Elections for 2021**
-  * Chad (April 10) - 92% chance of violence
-  * Uganda (January 14) - 92% chance of violence
-  * Ethiopia (December 31 - estimated) - 91% chance of violence
-  * Somalia (February 8 - estimated) - 89% chance of violence
-  * Haiti (December 31 - estimated) - 89% chance of violence
- 
- 
-Find the most current ELVI event data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/ELVI_2021_1.csv) 
+  * Ethiopia (Sometime 2021) - 91% chance of violence
+  * Chad (April 10) - 91% chance of violence
+  * Haiti (Sometime 2021) - 89% of violence
+  * Chile (November 21) - 86% of violence
+  * Benin (April 30) - 83% of violence
 
-Find the most current ELVI forecast data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/ELVI_FORECAST_2021_1.csv) 
+ 
+ 
+Find the most current ELVI event data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/ELVI_2021_2.csv) 
+
+Find the most current ELVI forecast data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/ELVI_FORECAST_2021_2.csv) 
 	
 ### Codebook and Notes
 
