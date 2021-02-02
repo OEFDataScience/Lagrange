@@ -7,8 +7,8 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'Home', url: ''}
-- {name: 'REIGN Jan 2021 (Download Data)', path: 'menu', url: 'reign_current.html'}
-- {name: 'ELVI Jan 2021 (Download Data)', path: 'menu', url: 'elvi_current.html'}
+- {name: 'REIGN Feb 2021 (Download Data)', path: 'menu', url: 'reign_current.html'}
+- {name: 'ELVI Feb 2021 (Download Data)', path: 'menu', url: 'elvi_current.html'}
 - {name: 'Version Notes', path: 'menu', url: 'version_notes.html'}
 - {name: 'Citation and Sourcing', path: 'menu', url: 'citation.html'}
 # blogs are a maybe, just a placeholder for now.
