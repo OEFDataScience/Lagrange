@@ -7,6 +7,10 @@ please contact Clayton Besaw (cbesaw@oneearthfuture.org) with your request.
 
 # CURRENT VERSION NOTES
 
+**February 8, 2021**
+  * Fixed a bug regarding the dropping of Warlordism from the regime type variable. Yemen and Libya briefly had no recorded regime type due to this bug. 
+  * Both the REIGN data and regimes list are now fixed as of February 8. 
+
 **February 2, 2021**
   * Fixed election announcement and date for Kosovo snap election.
   * Added new successful coup event in the following countries: Myanmar (February 2021)
