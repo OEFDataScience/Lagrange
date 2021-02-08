@@ -29,7 +29,7 @@ title: REIGN Dataset
   
 Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2021_2.csv) 
 
-Find the most current REIGN briefing [here](https://t.co/jPy5LoaRzj?amp=1)
+Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-february-2021-briefing-94fb76ed596d?source=friends_link&sk=0040e51454985ff562ea2bcdf3ca1e48)
 
 
 ### Election and Leader lists (January 2020)
