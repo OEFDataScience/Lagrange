@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-![](assets/img/REIGN_PLOT_2021_2.png?raw=true)
-*Last updated February 2, 2021
+![](assets/img/REIGN_PLOT_2021_3.png?raw=true)
+*Last updated March 2, 2021
 
 
 # Rulers, Elections and Irregular Governance (REIGN)

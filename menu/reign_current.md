@@ -3,40 +3,39 @@ layout: page
 title: REIGN Dataset
 ---
 
-**February 2021 REIGN Dataset: as of February 2nd, 2021**
+**March 2021 REIGN Dataset: as of March 2nd, 2021**
 
-**New Leaders in January 2021**
-  * Guy Parmelin (Right-wing) - Switzerland
-  * Sadyr Japarov (Right-wing Populism) - Kyrgyzstan
-  * Kaja Kallas (Centre-right) - Estonia
-  * Surangel Whipps Jr. (Independent) - Palau
-  * Thongloun Sisoulith (Communist) - Laos
-  * Joseph Biden (Centre Liberal) - United States of America
-  * Aureliu Ciocoi (Independent) - Moldova (Acting)
-  * Min Aung Hlaing (Military Junta) - Myanmar 
+**New Leaders in February 2021**
+  * Mario Draghi (Independent/Technocratic) - Italy 
+  * Irakli Garibashvili (Centre) - Georgia
+
   
-**Key January 2021 Election Outcomes**
-  * Portugal (Incumbent victory, no leader change) - January 24
-  * Kyrgyzstan (No immediate incumbent ran, leadership change) - January 10
-  * Uganda (Incumbent victory*, no leader change) - January 14
+**Key February 2021 Election Outcomes**
+  * Ecuador (1st round, no winner) - February 7
+  * Kosovo (Incumbent loss, leadership change) - February 14
+  * Laos (Incumbent victory, no leadership change) - February 21
+  * Niger (2nd round, incumbent victory, no leadership change) - February 21
+  * Somalia (Cancelled) - February 8 
+
   
-**Key February 2021 Elections**
-  * Ecuador (Presidential) - February 7
-  * Kosovo (Legislative) - February 14
-  * Laos (Legislative) - February 21
-  * Niger (Presidential - Runoff) - February 21
-  * Somalia (Presidential) - February 8
+**Key March 2021 Elections**
+  * Micronesia (Legislative) - March 2
+  * Netherlands (Legislative) - March 17
+  * Republic of Congo (Presidential) - March 21
+  * Israel (Legislative) - March 23
   
-Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2021_2.csv) 
+
+  
+Find the most current REIGN data [here](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/REIGN_2021_3.csv) 
 
 Find the most current REIGN briefing [here](https://medium.com/the-die-is-forecast/international-elections-and-leaders-february-2021-briefing-94fb76ed596d?source=friends_link&sk=0040e51454985ff562ea2bcdf3ca1e48)
 
 
-### Election and Leader lists (January 2020)
+### Election and Leader lists (March 2021)
 
-[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_2_21.csv)
+[Election List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/electionlist_3_21.csv)
 
-[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_2_21.csv)
+[Leader List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/leaderlist_3_21.csv)
 
 [Regime List](https://cdn.rawgit.com/OEFDataScience/REIGN.github.io/gh-pages/data_sets/regime_list.csv)
 	
